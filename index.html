@@ -116,10 +116,22 @@
         
         .progress {
             display: flex;
-            justify-content: space-between;
+            margin-left: auto; /* empurra o elemento para a direita */
             margin-bottom: 20px;
             font-weight: 500;
             color: #7f8c8d;
+        }
+
+        .current-question {
+            color: black;
+            padding: 8px 2px;
+            border-radius: 4px;
+        }
+
+        .total-questions {
+            color: black;
+            padding: 8px 2px;
+            border-radius: 4px;
         }
         
         .question-container {
@@ -308,8 +320,8 @@
         <div id="quiz-screen" class="hidden">
             <button id="back-button" class="back-button">Voltar</button>
             <div class="progress">
-                <span class="current-question">Questão 1</span>
-                <span class="total-questions">de 5</span>
+                <text class="current-question">Questão 1</text>
+                <text class="total-questions">de 5</text>
             </div>
             
             <div class="question-container">
@@ -396,19 +408,34 @@
         restartButton.addEventListener('click', restartQuiz);
     }
 
-    // Carregar arquivo JSON
+    // Carregar múltiplos arquivos JSON
     async function loadQuestionsArq() {
+        const files = [
+            'questions_crc_2024_1.json',
+            'questions_crc_2024_2.json',
+            'questions_crc_2025_1.json' // adicione quantos arquivos quiser
+        ];
+
         try {
-            const response = await fetch('Prova-comentada-2024-1.json');
-            if (!response.ok) {
-                throw new Error("Erro ao carregar o arquivo JSON");
-            }
-            return await response.json();
+            // Cria array de promises para cada fetch
+            const fetchPromises = files.map(file => 
+                fetch(file).then(res => {
+                    if (!res.ok) throw new Error(`Erro ao carregar ${file}`);
+                    return res.json();
+                })
+            );
+
+            // Espera todas as promises completarem
+            const results = await Promise.all(fetchPromises);
+
+            // Combina todos os arrays em um único array
+            return results.flat(); 
         } catch (err) {
             console.error(err);
             return [];
         }
     }
+
 
     // Renderizar opções de disciplina
     function renderDisciplineOptions() {
