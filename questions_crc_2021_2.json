@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "Determinada indústria financiou a aquisição de uma máquina de R$ 550.000,00. O pagamento será realizado em 48 prestações mensais e consecutivas de R$ 14.000,00, com a primeira prestação vencendo um mês após a compra. A indústria dispendeu mais R$ 5.000,00 em documentações e transporte para deixar a máquina apta à utilização; estima utilizar a máquina durante 8 anos, vendendo-a após este período por R$ 70.000,00. Segundo dados do fabricante, esta máquina tem a capacidade produtiva de 500.000 unidades e sua vida útil é de quinze anos. Os gastos anuais de manutenção são de R$ 6.000,00. Após o início de sua utilização, no dia 01/07/2020, a máquina produziu 58.000 unidades até o final do período de 2020. Considerando essas informações e, ainda, de acordo com a NBC TG 27 (R3) – Ativo Imobilizado, é correto afirmar que a despesa de depreciação desta máquina, no ano de 2019, foi de:",
+    "options": {
+      "A": "R$ 56.260,00 apurados com base nas Unidades Produzidas.",
+      "B": "R$ 70.412,00 apurados com base nas Unidades Produzidas.",
+      "C": "R$ 37.937,50 apurados com base no Método das Quotas Constantes.",
+      "D": "R$ 16.166,67 apurados com base no Método das Quotas Constantes."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 2,
+    "question": "Uma empresa apresentou os seguintes saldos e movimentações no encerramento do exercício de 2020: [dados da tabela]. Considerando exclusivamente essas informações e a NBC TG 03 (R2) – Demonstração dos Fluxos de Caixa, indique, respectivamente, os caixas gerados (+) ou consumidos (–) com os fornecedores e com os clientes de acordo com o método direto.",
+    "options": {
+      "A": "–R$ 25,00 e R$ 250,00",
+      "B": "–R$ 25,00 e –R$ 250,00",
+      "C": "–R$ 2.615,00 e R$ 5.050,00",
+      "D": "–R$ 2.640,00 e R$ 4.800,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "question": "Determinada indústria definiu em seu estatuto a constituição da Reserva Estatutária de 10% do Lucro Líquido. No exercício de 2020, a indústria obteve R$ 890.000,00 de Lucro Líquido e os saldos anteriores das contas que compunham o Patrimônio Líquido eram: • Capital Social = R$ 4.800.000,00; • Reserva Estatutária = R$ 560.000,00; e, • Reserva Legal = R$ 950.000,00. Dessa forma, de acordo com o disposto na Lei nº 6.404/76, qual é o valor a ser contabilizado como Reserva Estatutária no período de 2020?",
+    "options": {
+      "A": "R$ 80.100,00",
+      "B": "R$ 84.550,00",
+      "C": "R$ 88.000,00",
+      "D": "R$ 89.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "question": "Segundo o regime de caixa, certa empresa apresentou um lucro líquido de R$ 330.000,00, em 2020. Durante este período, houve os seguintes fatos contábeis: • Os salários de dezembro de 2020, no valor de R$ 25.000,00, foram adiantados em novembro; • Serão pagas, em 2021, quando do vencimento do montante final, as despesas de juros no valor de R$ 7.000,00, já vencidos no exercício; • Foram pagos, em 2020, os aluguéis de R$ 11.300,00 referentes a janeiro de 2021; • Clientes adiantaram R$ 6.600,00 para a compra de insumos. Estima-se entregar os produtos finais em fevereiro de 2021; • As comissões de R$ 15.500,00 pagas em setembro de 2020 se referem a serviços a serem recebidos no exercício seguinte; • Do total das receitas de vendas recebidas em 2020, R$ 12.000,00 foram obtidas pelas vendas realizadas em 2019; e, • Parte dos salários de janeiro de 2021, no valor de R$ 8.000,00, foi adiantada em dezembro de 2020. Considerando tão somente essas informações, após os ajustes pelo Regime de Competência, o lucro líquido do exercício de 2020 passou a ser de:",
+    "options": {
+      "A": "R$ 300.600,00",
+      "B": "R$ 316.600,00",
+      "C": "R$ 329.800,00",
+      "D": "R$ 341.600,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 5,
+    "question": "Determinada empresa S.A. apresentou as seguintes movimentações obtidas na demonstração das mutações do patrimônio líquido: [dados da tabela]. Considerando exclusivamente tais informações e, ainda, a NBC TG 26 (R1) – Apresentação das Demonstrações Contábeis, o total do resultado abrangente do período é:",
+    "options": {
+      "A": "R$ 14.800,00",
+      "B": "R$ 14.850,00",
+      "C": "R$ 14.930,00",
+      "D": "R$ 15.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "question": "Certa empresa comercial enquadrada no Lucro Real realizou as seguintes transações em julho de 2021: - Compra de mercadorias à vista por R$ 25.000,00. Nesse valor, estão incluídos: ICMS à alíquota de 18%; PIS à alíquota de 1,65%; e, Cofins à alíquota de 7,6%. Destacado na nota a empresa pagou mais 8% de IPI; e, - Venda à vista no valor de R$ 70.000,00 de 80% das mercadorias adquiridas. Não havia estoques iniciais. Considerando apenas tais transações, o valor final do ICMS a recolher e o Lucro Bruto obtido por esta empresa, no mês de julho de 2021, são, respectivamente:",
+    "options": {
+      "A": "R$ 8.100,00 e R$ 34.775,00",
+      "B": "R$ 8.100,00 e R$ 36.375,00",
+      "C": "R$ 12.600,00 e R$ 34.775,00",
+      "D": "R$ 12.600,00 e R$ 36.375,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 7,
+    "question": "Certa indústria detém um maquinário adquirido à vista e especializado na confecção de lingotes de alumínio utilizados no processo produtivo das unidades de estoque. No dia 26/04/2021, após estudos de viabilidade, a administração da indústria optou por comprar os lingotes de um fornecedor, colocando este maquinário especializado à venda. Este imobilizado estava, assim, reconhecido no Balanço Patrimonial: - Máquina: R$ 220.000,00; e, - Depreciação acumulada: R$ 30.000,00. Sabe-se que a estimativa de valor de venda desta máquina é de R$ 180.000,00. As despesas estimadas para se vender a máquina, incluindo vistoria e manutenção para facilitar a negociação, são de R$ 4.000,00. Considerando exclusivamente tais informações e a NBC TG 31 (R3) – Ativo não circulante mantido para venda e operação descontinuada, informe a conta e o valor que tal ativo deve ser reconhecido em 26/04/2021.",
+    "options": {
+      "A": "Ativo mantido para venda (AC) R$ 176.000,00",
+      "B": "Ativo mantido para a venda (Afic) R$ 186.000,00",
+      "C": "Máquina mantida para venda (AC) R$ 180.000,00",
+      "D": "Máquina mantida para venda (Afic) R$ 190.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 8,
+    "question": "Uma empresa S.A. captou recursos no mercado financeiro, via debêntures, no valor de R$ 40.000,00. Os investidores, por considerarem as debêntures vantajosas, pagaram um prêmio pelo título no valor de R$ 1.900,00 na data da emissão. A taxa de juros contratual dessa operação é de 12% ao ano, e os títulos serão resgatados por meio de um único pagamento de R$ 50.176,00 no final de dois anos. Considerando tais informações e, ainda, a NBC TG 08 (R1) – Custos de transação e prêmios na emissão de títulos e valores mobiliários, informe o lançamento contábil a ser feito pela empresa S.A. na data da captação dos recursos.",
+    "options": {
+      "A": "Débito Caixa (Ativo) R$ 41.900,00 / Crédito Debêntures (Passivo) R$ 40.000,00 / Crédito Reserva de Emissão de Debêntures (Patrimônio Líquido) R$ 1.900,00",
+      "B": "Débito Caixa (Ativo) R$ 41.900,00 / Crédito Debêntures (Passivo) R$ 40.000,00 / Crédito Receita na Emissão de Debêntures (DRE) R$ 1.900,00",
+      "C": "Débito Caixa (Ativo) R$ 41.900,00 / Crédito Debêntures (Passivo) R$ 40.000,00 / Crédito Prêmios na Emissão de Debêntures a Apropriar (Passivo) R$ 1.900,00",
+      "D": "Débito Caixa (Ativo) R$ 40.000,00 / Débito Prêmios a Apropriar (Ativo) R$ 1.900,00 / Crédito Debêntures (Passivo) R$ 40.000,00 / Crédito Receita na Emissão de Debêntures (Passivo) R$ 1.900,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "question": "No dia 01/11/2020, a empresa S.A. realizou uma aplicação financeira de R$ 75.000,00. Sabe-se que, após quatro meses, serão resgatados o capital e os juros. A taxa de juros compostos desta aplicação é de 1% a.m. Considerando exclusivamente essas informações, qual o lançamento contábil a ser feito pela empresa S.A., a fim de reconhecer a receita financeira ocorrida no ano de 2020?",
+    "options": {
+      "A": "Débito Juros a Apropriar (AC) / Crédito Receita Financeira (DRE) R$ 1.507,50",
+      "B": "Débito Aplicação Financeira (AC) / Crédito Receita Financeira (DRE) R$ 1.509,50",
+      "C": "Débito Juros a Apropriar (AC) / Crédito Receita Financeira (DRE) R$ 1.500,00",
+      "D": "Débito Aplicação Financeira (AC) / Crédito Juros a Apropriar (DRE) R$ 3.045,30"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 10,
+    "question": "Em 28/12/2020, a Companhia A S.A. adquiriu um imóvel para ser utilizado como escritório de suas atividades administrativas. Esta compra ocorreu por meio de contrato, estabelecendo o pagamento de uma entrada em 28/12/2020 no valor de R$ 300.000,00, em dinheiro, e o restante financiado para pagamento em quatro prestações semestrais e consecutivas no valor de R$ 200.000,00/cada com juros embutidos neste valor. Sabe-se que a taxa de juros compostos envolvida na transação foi de 5% ao semestre e a primeira prestação deveria ser quitada seis meses após o pagamento da entrada. Considerando exclusivamente as informações apresentadas, bem como as Normas Brasileiras de Contabilidade NBC TG 12 – Ajuste a valor presente e NBC TG Estrutura Conceitual – Estrutura conceitual para relatório financeiro, assinale os lançamentos contábeis corretos no momento do reconhecimento initial das informações apresentadas anteriormente. Admita, ainda, que o exercício social da Companhia A S.A. ocorre de 01/01 a 31/12 a cada ano e que a instituição adota o ano comercial de 360 dias para o pagamento das prestações.",
+    "options": {
+      "A": "Débito: Imóveis (Ativo Não Circulante Imobilizado) R$ 1.009.190,10 / Débito: Juros a Apropriar (Passivo Circulante) R$ 28.117,91 / Débito: Juros a Apropriar (Passivo Não Circulante) R$ 62.691,99 / Crédito: Financiamento a Pagar (Passivo Circulante) R$ 400.000,00 / Crédito: Financiamento a Pagar (Passivo Não Circulante) R$ 400.000,00 / Crédito: Caixa (Ativo Circulante) R$ 300.000,00",
+      "B": "Débito: Imóveis (Ativo Não Circulante Imobilizado) R$ 1.100.000,00 / Crédito: Financiamento a Pagar (Passivo Circulante) R$ 400.000,00 / Crédito: Financiamento a Pagar (Passivo Não Circulante) R$ 400.000,00 / Crédito: Caixa (Ativo Circulante) R$ 300.000,00",
+      "C": "Débito: Imóveis (Ativo Não Circulante Imobilizado) R$ 1.009.190,10 / Débito: Juros a Apropriar (Passivo Circulante) R$ 90.809,90 / Crédito: Financiamento a Pagar (Passivo Circulante) R$ 800.000,00 / Crédito: Caixa (Ativo Circulante) R$ 300.000,00",
+      "D": "Débito: Imóveis (Ativo Não Circulante Imobilizado) R$ 1.009.190,10 / Débito: Juros a Apropriar (Passivo Não Circulante) R$ 90.809,90 / Crédito: Financiamento a Pagar (Passivo Não Circulante) R$ 800.000,00 / Crédito: Caixa (Ativo Circulante) R$ 300.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "question": "Uma determinada companhia apresentou o seguinte Balanço Patrimonial referente ao 2º trimestre/2021 (de 01/04/2021 a 30/06/2021): [dados do balanço]. Ao decorrer do 3º trimestre/2021 (de 01/07/2021 a 30/09/2021), a companhia: [eventos ocorridos]. Considerando exclusivamente as informações apresentadas e a Norma Brasileira de Contabilidade NBC TG 03 (R3) – Demonstração dos fluxos de caixa, assinale a alternativa que indica, respectivamente, o valor do Caixa Líquido Gerado pelas Atividades Operacionais e o valor do Caixa Líquido Consumido pelas Atividades de Investimento que deverão constar na Demonstração dos Fluxos de Caixa do 3º trimestre/2021. Desconsidere, ainda, qualquer incidência de tributos.",
+    "options": {
+      "A": "–24.000,00; –850.000,00",
+      "B": "–24.000,00; –874.000,00",
+      "C": "–67.500,00; –850.000,00",
+      "D": "–111.000,00; –850.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "question": "Analise as afirmativas a seguir: - Em setembro de 2021, a Sociedade Alfa S.A. comprou um imóvel residencial para ser ocupado por seus empregados durante a fase de colheita de suas lavouras. A intenção da entidade, após a colheita, seria manter esse imóvel para ser ocupado para fins de seu escritório administrativo e almoxarifado. Este imóvel foi comprado por R$ 320.000,00 com recursos do caixa. - Em setembro de 2021, a Sociedade Alfa S.A. se comprometeu a alienar algumas de suas máquinas colheitadeiras e, para tanto, estabeleceu um plano de venda para esses ativos e iniciou um programa firme para localizar comprador(es) e concluir o plano. As máquinas colheitadeiras constavam reconhecidas no imobilizado de Alfa ao valor contábil total de R$ 3.000.000,00 e já estavam disponíveis para venda imediata em suas condições atuais, quando Alfa se comprometeu a este plano de venda. Inclusive, a alienação foi considerada altamente provável ainda em 2021, conforme expectativas de mercado para esse tipo de ativo. O valor contábil total de R$ 3.000.000,00 das máquinas colheitadeiras foi considerado menor que o valor justo menos as despesas para a venda desses ativos. - Em setembro de 2021, a Sociedade Alfa S.A. adquiriu, com recursos do caixa, uma propriedade rural (lote de terra nua) pelo valor de R$ 800.000,00. No momento dessa aquisição, Alfa ainda não havia determinado se utilizaria a propriedade rural como propriedade ocupada por ela, ou para venda a curto prazo no curso ordinário do negócio. Considerando exclusivamente as informações apresentadas, bem como as Normas Brasileiras de Contabilidade NBC TG 16 (R2) – Estoques, NBC TG 28 (R4) – Propriedade para investimento, NBC TG 27 (R4) – Ativo imobilizado e NBC TG 31 (R4) – Ativo não circulante mantido para venda e operação descontinuada, quando a Sociedade Alfa S.A. comprou o imóvel residencial, se comprometeu a alienar as máquinas colheitadeiras e, ainda, comprou a propriedade rural, ela deveria realizar os seguintes lançamentos contábeis para reconhecimento das operações apresentadas:",
+    "options": {
+      "A": "Débito: Imóvel Residencial – Investimentos (Ativo Não Circulante) 320.000,00 / Débito: Máquinas Colheitadeiras – Ativos Não Circulantes Mantidos para Venda (Ativo Não Circulante) 3.000.000,00 / Débito: Propriedade Rural – Ativo Realizável a Longo Prazo (Ativo Não Circulante) 800.000,00 / Crédito: Máquinas Colheitadeiras – Imobilizado (Ativo Não Circulante) 3.000.000,00 / Crédito: Caixa (Ativo Circulante) 1.120.000,00",
+      "B": "Débito: Imóvel Residencial – Imobilizado (Ativo Não Circulante) 320.000,00 / Débito: Máquinas Colheitadeiras – Estoques (Ativo Circulante) 3.000.000,00 / Débito: Propriedade Rural – Investimentos (Ativo Não Circulante) 800.000,00 / Crédito: Máquinas Colheitadeiras – Imobilizado (Ativo Não Circulante) 3.000.000,00 / Crédito: Caixa (Ativo Circulante) 1.120.000,00",
+      "C": "Débito: Imóvel Residencial – Imobilizado (Ativo Não Circulante) 320.000,00 / Débito: Máquinas Colheitadeiras – Ativos Não Circulantes Mantidos para Venda (Ativo Circulante) 3.000.000,00 / Débito: Propriedade Rural – Imobilizado (Ativo Não Circulante) 800.000,00 / Crédito: Máquinas Colheitadeiras – Imobilizado (Ativo Não Circulante) 3.000.000,00 / Crédito: Caixa (Ativo Circulante) 1.120.000,00",
+      "D": "Débito: Imóvel Residencial – Imobilizado (Ativo Não Circulante) 320.000,00 / Débito: Máquinas Colheitadeiras – Ativos Não Circulantes Mantidos para Venda (Ativo Circulante) 3.000.000,00 / Débito: Propriedade Rural – Investimentos (Ativo Não Circulante) 800.000,00 / Crédito: Máquinas Colheitadeiras – Imobilizado (Ativo Não Circulante) 3.000.000,00 / Crédito: Caixa (Ativo Circulante) 1.120.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 13,
+    "question": "Considere que no andamento do encerramento do Balanço Patrimonial, em 31/12/2021, a Sociedade A.S.A. tenha um ativo individual utilizado no processo de fabricação de seus produtos. Sabe-se, ainda, que esse ativo não sofreu qualquer tipo de reavaliação e está reconhecido no patrimônio da Sociedade A.S.A. ao valor contábil de R$ 600.000,00. Considerando fatores adversos, admita que, no decorrer do ano 2021, a Sociedade A.S.A. observou que o valor desse ativo diminuiu significativamente, mais do que o esperado como resultado da passagem do tempo, ou do seu uso normal, impactando negativamente a produtividade futura esperada desse ativo, que não seria alcançada. Diante desse cenário, a Sociedade A.S.A. estima que, considerando as expectativas de mercado, os valores projetados dos fluxos de caixa futuros anuais esperados – líquidos de despesas de alienação – para esse ativo em 2022 e 2023 sejam R$ 230.000,00 e R$ 160.000,00, respectivamente. Outras informações: – a Sociedade A.S.A. entende que não há razões para acreditar que o valor em uso desse ativo exceda materialmente seu valor justo líquido de despesas de alienação e, além disso, considera que o seu valor residual será zero ao final de 2023 (final de sua vida útil remanescente); e, – a Sociedade A.S.A. deliberou por mensurar o valor justo do ativo com base nas expectativas de mercado, considerando o valor presente dos fluxos de caixa futuros anuais esperados líquidos de despesas de alienação. De acordo com as informações apresentadas e a Norma Brasileira de Contabilidade NBC TG 01 (R4) – Redução ao valor recuperável de ativos, assinale o valor contábil que a Sociedade A.S.A. deverá registrar o ativo no Balanço Patrimonial a ser encerrado em 31/12/2021, para que este não exceda o seu valor de recuperação. Admita, ainda, que a taxa de desconto que reflete as avaliações de mercado sobre o valor do dinheiro no tempo e dos riscos específicos do ativo seja de 3% ao ano.",
+    "options": {
+      "A": "R$ 210.000,00",
+      "B": "R$ 225.883,68",
+      "C": "R$ 374.116,32",
+      "D": "R$ 378.300,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 14,
+    "question": "A Companhia Gama S.A. tem o controle individual de 80% da participação na sociedade Beta e sabe-se que a participação dos não controladores no Patrimônio Líquido de Beta corresponde a 20%. No encerramento do exercício referente ao 3º trimestre/2021 (de 01/07/2021 a 30/09/2021), os relatórios obtidos na Companhia Gama e sociedade Beta apontavam as seguintes informações: - Patrimônio Líquido de Beta já ajustado com o lucro líquido do 3º trimestre/2021...... R$ 20.000.000,00 - Receita Líquida obtida com a venda de estoques de mercadorias para Gama no 3º trimestre/2021...... R$ 8.000.000,00 - Margem de lucro obtida por Beta na venda de estoques de mercadorias para Gama no 3º trimestre/2021...... 33% Outras informações obtidas mediante o encerramento do exercício referente ao 3º trimestre/2021, antes da Equivalência Patrimonial: – valor do investimento em Beta registrado no Balanço Patrimonial de Gama encerrado em 30/06/2021: R$ 12.000.000,00; – Gama vendeu, a terceiros, 40% do total de estoques de mercadorias que foram adquiridos de Beta. O restante dos estoques de mercadorias adquiridos de Beta ainda constava registrado em Gama; e, – as informações apresentadas foram as únicas que impactaram em mutações no Patrimônio Líquido de Beta. De acordo com as informações apresentadas e a Norma Brasileira de Contabilidade NBC TG 18 (R3) – Investimento em coligada, em controlada e em empreendimento controlado em conjunto, assinale o valor do Resultado da Equivalência Patrimonial apurado por Gama em relação ao seu investimento em Beta no encerramento do exercício de 01/07/2021 a 30/09/2021. Admita, ainda, que não há qualquer tipo de ágio envolvido na questão e que as informações evidenciadas são as únicas relevantes para apuração do resultado do exercício. Desconsidere a incidência de tributos.",
+    "options": {
+      "A": "R$ 1.584.000,00",
+      "B": "R$ 2.416.000,00",
+      "C": "R$ 2.640.000,00",
+      "D": "R$ 4.000.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 15,
+    "question": "Considere os seguintes saldos das contas referentes a uma sociedade empresária brasileira, cuja moeda funcional é o Real (R$), sendo constituída por uma empresa norte-americana em 03/01/2020: [dados da tabela]. Considerando tão somente as informações apresentadas e o disposto na NBC TG 02 (R3) – Efeitos das mudanças nas taxas de câmbio e conversão de demonstrações contábeis, analise as afirmativas a seguir. I. O total dos Ativos Monetários após a Conversão é de US$ 9.341,43. II. O total dos Passivos Monetários após a Conversão é de US$ 2.335,36. III. O total dos Ativos não Monetários após a Conversão é de US$ 39.320,49. IV. Não há Passivos não Monetários. V. O Ajuste de Conversão corresponde a US$ 24.588,75. Está correto o que se afirma apenas em",
+    "options": {
+      "A": "II e IV.",
+      "B": "III e V.",
+      "C": "I, II e III.",
+      "D": "I, III e IV."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 16,
+    "question": "Uma empresa brasileira, cuja moeda funcional é o Real (R$), possui investimento significativo em uma instituição nos Estados Unidos da América (EUA), cuja moeda funcional é o dólar americano (US$); as atividades se iniciaram em 02/04/2020. O Balanço dessa empresa apresentou, em 31/12/2020, os seguintes saldos em dólar americano (US$): [dados do balanço]. Outras informações: [informações adicionais]. Considerando exclusivamente as informações apresentadas e o disposto na NBC TG 02 (R3) – Efeitos das mudanças nas taxas de câmbio e conversão das demonstrações contábeis, é correto afirmar que:",
+    "options": {
+      "A": "O valor do Ativo Total após a Conversão corresponde a R$ 1.334.179,50.",
+      "B": "O valor do Ajuste Acumulado de Conversão corresponde a (R$ 9.837,00).",
+      "C": "O valor do Patrimônio Líquido após a Conversão corresponde a R$ 856.927,50.",
+      "D": "O valor do Passivo (obrigações) após a Conversão corresponde a R$ 90.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 17,
+    "question": "Uma sociedade empresária brasileira, cuja moeda funcional é o Real (R$), realizou um empréstimo no valor de £ 50.000 em uma instituição financeira localizada na Europa, cuja moeda funcional é o Euro (£), em 31/03/2021, e o pagamento ocorreu em 30/04/2021, um mês após a contratação em uma única parcela. Nesse período, considere que a cotação foi a seguinte: [tabela de câmbio]. Para registrar a operação desde a contratação até a sua liquidação foram realizados os seguintes lançamentos: [lançamentos contábeis]. Considerando exclusivamente as informações apresentadas e o disposto na NBC TG 02 (R3) – Efeitos das mudanças das taxas de câmbio e conversão das demonstrações contábeis, é correto afirmar que os lançamentos estão",
+    "options": {
+      "A": "incorretos, pois a diferença cambial foi apropriada ao valor dos empréstimos.",
+      "B": "corretos, porque demonstram com fidedignidade os efeitos econômicos da transação.",
+      "C": "incorretos, já que o valor em Euros pago foi menor do que o valor tomado emprestado.",
+      "D": "corretos, pois foram considerados os valores em Euro, que é a moeda funcional brasileira para a transação."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 18,
+    "question": "A Berlu é uma empresa que produz caixas. Ao contador sênior da empresa foi solicitada a estimativa do resultado operacional para 2021, considerando os mesmos dados do ano anterior (2020). O nível de utilização da capacidade do orçamento general dos custos indiretos fixos é de 90.000 unidades (900 horas x 100 unidades por hora). Sabe-se que a empresa distribui a variação no volume de produção para o custo de produtos vendidos. Os dados a seguir são para o ano findo em 31 de dezembro de 2021: - Estoque inicial de 1º de janeiro de 2021 = 5.000 unidades; - Estoque Final em 31 de dezembro de 2021 = 15.000 unidades; - Vendas de 2021 = 70.000 unidades; - Preço de venda = R$ 15,00; - Custo Variável por Unidade, incluindo materiais diretos = R$ 4,00 por unidade; - Despesa Variável por unidade vendida = R$ 1,00 por unidade vendida; - Custos Indiretos Fixos = R$ 270.000,00; - Horas-máquina do Nível do Denominador = 900 horas; - Taxa-Padrão de Produção = 100 unidades por hora-máquina; e, - Despesas Fixas = R$ 50.000,00. Considere que os custos-padrão por unidade sejam os mesmo para unidades no estoque inicial e unidades produzidas durante o ano, e, ainda, que não há variação de preço, de eficiência ou de orçamento. Com base nas informações apresentadas, o resultado operacional da Berlu, em 2021, pelo método de custeio por absorção, é:",
+    "options": {
+      "A": "R$ 330.000,00",
+      "B": "R$ 360.000,00",
+      "C": "R$ 390.000,00",
+      "D": "R$ 420.000,00"
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 19,
+    "question": "A empresa ABC produz e vende o produto X. Em determinado período, a empresa produziu 4.000 unidades e vendeu 3.000 unidades. O preço de venda unitário é de R$ 50,00. Os custos e despesas variáveis unitários são de R$ 20,00. Os custos e despesas fixos totalizam R$ 60.000,00. Com base nessas informações, o lucro operacional líquido pelo custeio por absorção e pelo custeio variável são, respectivamente:",
+    "options": {
+      "A": "R$ 30.000,00 e R$ 30.000,00",
+      "B": "R$ 30.000,00 e R$ 45.000,00",
+      "C": "R$ 45.000,00 e R$ 30.000,00",
+      "D": "R$ 45.000,00 e R$ 45.000,00"
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 20,
+    "question": "Uma empresa industrial fabrica dois produtos: A e B. No mês de janeiro, foram produzidas 1.000 unidades de A e 2.000 unidades de B. Os custos indiretos de fabricação totalizaram R$ 60.000,00. A empresa utiliza o custo da mão de obra direta como base de rateio. Os custos da mão de obra direta foram de R$ 20.000,00 para o produto A e R$ 30.000,00 para o produto B. O custo primário do produto A é de R$ 50.000,00. Com base nessas informações, o custo total do produto A é:",
+    "options": {
+      "A": "R$ 54.000,00",
+      "B": "R$ 64.000,00",
+      "C": "R$ 74.000,00",
+      "D": "R$ 84.000,00"
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 21,
+    "question": "Azulejos Limaco, um modesto distribuidor de azulejos de mármore, determina as três principais atividades e grupos de custos: de pedido; recebimento/armazenagem; e, despachos. Considere que a empresa registrou os seguintes detalhes para 2020: [dados da tabela]. Considere que a Azulejos Limaco compra de seus fornecedores 100 mil azulejos de mármore a um custo médio de R$ 4,00 por azulejo e os vende para os varejistas a um preço médio de R$ 10,00 por azulejo. Considere, ainda, que a empresa não tem custos fixos. Para 2021, os compradores estão exigindo um desconto de 5% e os fornecedores dispostos a conceder 2% de desconto. A Azulejos Limaco espera vender a mesma quantidade de azulejos de mármore. Se todas as demais informações de custos e direcionadores permanecerem as mesmas, ao atender as exigências dos consumidores e aceitar o desconto dos fornecedores, o resultado operacional será de:",
+    "options": {
+      "A": "R$ 556.100,00",
+      "B": "R$ 558.200,00",
+      "C": "R$ 598.500,00",
+      "D": "R$ 600.150,00"
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 22,
+    "question": "A Parceria Público-Privada (PPP) é o contrato de prestação de serviços firmado pela Administração Pública e a iniciativa privada, tendo por objeto a implantação e a oferta de empreendimento destinado à fruição direta ou indireta da coletividade, incumbindo-se a iniciativa privada da sua estruturação, financiamento, execução, conservação e operação. Nos contratos de PPPs, o poder público assume obrigação de pagamentos periódicos e de longo prazo a um parceiro privado pela prestação de determinado serviço. Para assegurar o cumprimento desses pagamentos, é necessário constituir uma garantia financeira. Nesse sentido, assinale a contabilização da execução de uma garantia, no órgão público, em um contrato de PPP.",
+    "options": {
+      "A": "Débito 7.1.2.1.x.xx.xx Garantias e Contragarantias Concedidas / Crédito 7.1.2.1.x.xx.xx Execução de Garantias e Contragarantias Concedidas – PPP a Executar (Controle)",
+      "B": "Débito 7.1.2.1.x.xx.xx Garantias e Contragarantias Concedidas / Crédito 7.1.2.1.x.xx.xx Execução de Garantias e Contragarantias Concedidas – PPP a Executar (Orçamentária)",
+      "C": "Débito 8.1.2.1.x.xx.xx Execução de Garantias e Contragarantias Concedidas – PPP a Executar (Controle) / Crédito 8.1.2.1.x.xx.xx Execução de Garantias e Contragarantias Concedidas – Executadas",
+      "D": "Débito 8.1.2.1.x.xx.xx Execução de Garantias e Contragarantias Concedidas – PPP a Executar (Orçamentária) / Crédito 8.1.2.1.x.xx.xx Execução de Garantias e Contragarantias Concedidas – Executadas"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 23,
+    "question": "No Balanço Patrimonial de um ente governamental é necessário incluir um quadro do Superavit / Deficit Financeiro, de acordo com o disposto no § 2º, Art. 43, da Lei nº 4.320/1964. Um ente público apresentou as seguintes informações sobre fonte de recursos: [dados da tabela]. Com base nas informações descritas, assinale o valor do Superavit / Deficit Financeiro.",
+    "options": {
+      "A": "Deficit de R$ 370,00.",
+      "B": "Deficit de R$ 1.160,00.",
+      "C": "Superavit de R$ 180,00.",
+      "D": "Superavit de R$ 1.340,00."
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 24,
+    "question": "Na Contabilidade Aplicada ao Setor Público, no que diz respeito à consolidação das demonstrações contábeis, foi criado, no PCASP, um mecanismo para a segregação dos valores das transações que serão incluídas ou excluídas na consolidação. Este mecanismo consiste na utilização do 5º nível (subtítulo) das classes 1, 2, 3 e 4 do PCASP para identificar os saldos recíprocos. Nesse sentido, considere a seguinte situação: 'determinado município possui Regime Próprio de Previdências Social (Rpps); a prefeitura faz a contribuição para esse Rpps mensalmente'. Assinale a alternativa que evidencia o registro contábil do reconhecimento da obrigação referente à contribuição patronal da prefeitura para o Rpps pela ocorrência do fato gerador, considerando que são entidades pertencentes ao mesmo Orçamento Fiscal e de Seguridade Social.",
+    "options": {
+      "A": "Débito 2.1.1.4.2.xx.xx Encargos Sociais a Pagar – Intra OFSS / Crédito 3.1.2.1.2.xx.xx Encargos Patronais – Rpps – Intra OFSS",
+      "B": "Débito 3.1.2.1.2.xx.xx Encargos Patronais – Rpps – Intra OFSS / Crédito 2.1.1.4.2.xx.xx Encargos Sociais a Pagar – Intra OFSS",
+      "C": "Débito 1.1.3.6.2.xx.xx Créditos Previdenciários a Receber a Curto Prazo – Intra OFSS / Crédito 4.2.1.1.2.xx.xx Contribuições Sociais – Rpps – Intra OFSS",
+      "D": "Débito 4.2.1.1.2.xx.xx Contribuições Sociais – Rpps – Intra OFSS / Crédito 1.1.3.6.2.xx.xx Créditos Previdenciários a Receber a Curto Prazo – Intra OFSS"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 25,
+    "question": "Utilizando-se os indicadores de atividade da Contabilidade Gerencial, podemos construir um indicador em número de dias do prazo médio, em que se desenvolve todo o processo produtivo, comercial e financeiro da empresa. Encontre os dias do ciclo operacional e financeiro de uma determinada empresa, a partir dos dados a seguir: - Prazo médio de recebimento: 50 dias; - Prazo médio de estocagem: 120 dias; e, - Prazo médio de pagamento: 36 dias. É possível concluir que os dias do ciclo operacional e do ciclo financeiro da empresa são, respectivamente:",
+    "options": {
+      "A": "50 dias e 36 dias.",
+      "B": "134 dias e 170 dias.",
+      "C": "170 dias e 134 dias.",
+      "D": "170 dias e 206 dias."
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 26,
+    "question": "Denominamos estrutura de custos a proporção relativa entre o total de custos fixos e variáveis dentro da empresa. Considere a estrutura de custos de uma determinada empresa: - Vendas: R$ 1.800.000,00; - Custos e despesas fixas: R$ 500.000,00; e, - Custos variáveis: R$ 1.008.000,00. Identifique o percentual da margem de contribuição e o grau de alavancagem operacional, respectivamente, da estrutura de custos desta empresa. (Obs: alguns valores das alternativas estão aproximados.)",
+    "options": {
+      "A": "44% e 2,71",
+      "B": "52,51% e 0,44",
+      "C": "78,57% e 6,16",
+      "D": "271,23% e 3,45"
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 27,
+    "question": "Uma sociedade empresária atua no setor de veículos de luxo, comercializando dois modelos principais – o carro Alfa e o carro Beta. Os gestores estão formulando o orçamento de vendas para o próximo ano com base nas seguintes informações: [dados da tabela]. Considerando os dados informados na tabela, os gestores desta empresa elaboraram orçamento de vendas para o próximo ano. Após a elaboração desse orçamento, assinale o valor da receita bruta no mercado interno para o próximo ano.",
+    "options": {
+      "A": "$ 13.200.000,00",
+      "B": "$ 37.440.000,00",
+      "C": "$ 44.400.000,00",
+      "D": "$ 50.640.000,00"
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 28,
+    "question": "Josenildo e Mariano, sócios-diretores de uma grande empresa, extrapolando os poderes que lhes foram outorgados por meio dos instrumentos de constituição e organização da instituição, praticaram atos infringindo a legislação vigente, culminando no não pagamento de tributos devidos. Descobertos os atos pela autoridade fiscal competente, o contador da empresa tranquilizou os diretores, alegando que a única obrigada pelo pagamento dos tributos prescritos seria a pessoa jurídica, pois esta é a contribuinte. Considerando a situação hipotética descrita anteriormente, é correto afirmar que:",
+    "options": {
+      "A": "Não existe a possibilidade de se excluir a responsabilidade do contribuinte e atribuí-la a terceiros.",
+      "B": "O contador está equivocado, pois, em alguns casos, o responsável pode vir a substituir o contribuinte.",
+      "C": "Não se deve misturar pessoa jurídica e pessoa física. Na situação relatada, não há como os diretores serem responsabilizados pessoalmente.",
+      "D": "Os sócios-diretores devem ficar atentos, pois o sujeito passivo da obrigação principal é denominado responsável quando tem relação pessoal e direta com a situação que constitua o respectivo fato gerador."
+    },
+    "discipline": "Direito",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 29,
+    "question": "Considere as informações dispostas a seguir. I. Ao iniciar o exercício, a CIA BETA apresentava os saldos constantes da Tabela 1. II. Ao final do exercício, verificou-se que o Lucro antes do Imposto sobre a Renda e Contribuições da CIA BETA foi de R$ 200.000,00. III. O estatuto da Cia determinava que, existindo lucro, os cálculos das Participações e Contribuições, bem como a apuração e distribuição do Lucro Líquido, devem ser feitos obedecendo aos percentuais definidos na Tabela 2. [dados das tabelas]. Considerando o disposto na Lei nº 6.404/76, o valor da Reserva Legal a ser constituída é de:",
+    "options": {
+      "A": "R$ 1.000,00",
+      "B": "R$ 3.840,00",
+      "C": "R$ 8.000,00",
+      "D": "R$ 10.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 30,
+    "question": "Considerando a legislação tributária vigente e a sua aplicabilidade conforme regulamentação, uma empresa que efetue gastos com: (a) aquisição de peças para reposição em maquinários de sua propriedade visando aumentar a vida útil dos mesmos em, pelo menos, dezesseis meses; (b) aquisição de peças para manutenção de itens do Ativo Imobilizado. Considerando o disposto na NBC TG 27 – Ativo Imobilizado, a classificação correta dos referidos valores deve ser, respectivamente:",
+    "options": {
+      "A": "Imobilizado; Resultado.",
+      "B": "Imobilizado; Imobilizado.",
+      "C": "Ativo Não Circulante; Ativo Circulante.",
+      "D": "Despesas Operacionais; Despesas Operacionais."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 31,
+    "question": "As informações cadastrais de todos os funcionários de uma determinada empresa de logística são sumarizadas em relatórios emitidos mensalmente. O gráfico representa o diagrama de caixa {box-plot} com a distribuição do número de salários mínimos de todos os funcionários dessa empresa em um certo mês. [dados do gráfico]. A partir desses dados, considere que três funcionários sejam selecionados aleatoriamente. Qual a probabilidade aproximada de que pelo menos um deles receba mais do que sete salários mínimos? [Considerar duas casas decimais.]",
+    "options": {
+      "A": "0,25",
+      "B": "0,42",
+      "C": "0,58",
+      "D": "0,75"
+    },
+    "discipline": "Matemática/Estatística",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 32,
+    "question": "Um empresário deseja fazer uma aplicação financeira no valor de R$ 50.000,00. Considerando os sistemas de juros simples e compostos, o tempo de aplicação e a taxa de juros correspondente, é INCORRETO afirmar que:",
+    "options": {
+      "A": "Para obter um montante de R$ 82.500,00 sob um regime de juros simples após dez semestres, a taxa de juros anual é 13%.",
+      "B": "Sob o regime de juros compostos com uma taxa de 10% ao ano, o tempo para receber um rendimento de R$ 23.205,00 é quatro anos.",
+      "C": "Se a aplicação for feita sob um regime de juros compostos com uma taxa de 9% ao ano, por um período de dois anos, o empresário obterá um rendimento que representa 14,5% do capital original.",
+      "D": "Se a aplicação for feita sob um regime de juros simples com uma taxa de 13,2% ao ano, por um período de cinco semestres, o empresário obterá um montante 33% maior que o capital original."
+    },
+    "discipline": "Matemática Financeira",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 33,
+    "question": "A empresa Papel e Celulose S/A adquiriu Créditos de Carbono em 30/11/2019, para iniciar o pagamento em 02/01/2021, sendo R$ 500.000,00 para serem revendidos, oportunamente, e R$ 100.000,00 como investimento permanente. Considerando o disposto, o lançamento correto na aquisição do ativo ambiental é:",
+    "options": {
+      "A": "D - Créditos de Carbono (AC) R$ 500.000,00 / D - Créditos de Carbono (ANC) R$ 100.000,00 / C - Financiamentos Ambientais (PC) R$ 600.000,00",
+      "B": "D - Créditos de Carbono (AC) R$ 500.000,00 / C - Financiamentos Ambientais (PC) R$ 500.000,00 / D - Créditos de Carbono (ANC) R$ 100.000,00 / C - Financiamentos Ambientais (PC) R$ 100.000,00",
+      "C": "D - Financiamentos Ambientais (PC) R$ 600.000,00 / C - Créditos de Carbono (AC) R$ 600.000,00",
+      "D": "D - Financiamentos Ambientais (PC) R$ 600.000,00 / C - Créditos de Carbono (ANC) R$ 600.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 34,
+    "question": "Uma empresa iniciou suas atividades em 07/2020 e, ao final do exercício social de 2020, apresentou os seguintes saldos nas contas patrimoniais: [dados da tabela]. Após a apuração do resultado do exercício, marque V para as afirmativas verdadeiras e F para as falsas. ( ) A conta de Lucros Acumulados apresentará um saldo de R$ 500.000,00. ( ) O Ativo Total será de R$ 665.000,00. ( ) O Capital de Terceiros será de R$ 270.000,00. ( ) O Resultado Líquido da empresa será um lucro de R$ 107.000,00. ( ) O Patrimônio Líquido da empresa será de R$ 395.000,00. A sequência está correta em",
+    "options": {
+      "A": "F, F, F, V, F.",
+      "B": "F, V, V, F, V.",
+      "C": "V, F, F, V, F.",
+      "D": "V, V, V, V, F, V."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 35,
+    "question": "Uma sociedade empresária apresentou as seguintes informações sobre o Patrimônio Líquido, em 31/12/2020: [dados da tabela]. Considerando exclusivamente os dados apresentados, é correto afirmar que:",
+    "options": {
+      "A": "O Patrimônio Líquido da empresa variou em R$ 290.000,00.",
+      "B": "O saldo final da conta de Lucros e Prejuízos Acumulados foi de R$ 93.000,00.",
+      "C": "A Constituição de Reservas causou uma redução no Patrimônio Líquido de R$ 10.000,00.",
+      "D": "Os Dividendos a Distribuir causaram um aumento de R$ 22.000,00 no Patrimônio Líquido."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 36,
+    "question": "Considerando o texto apresentado e o disposto na NBC TG – Estrutura Conceitual, sobre a marca 'Legião Urbana' é correto afirmar que:",
+    "options": {
+      "A": "Não é um Ativo, pois pertence a Giuliano Manfredini, se constituindo em apenas parte dos bens de sua herança.",
+      "B": "É um Ativo, pois se trata de um bem intangível e, portanto, preenche o único critério exigido para ser reconhecido como tal: ser um bem ou um direito.",
+      "C": "Não é um Ativo, já que a entidade não possui controle sobre ela, sendo um bem intangível; portanto, não se pode afirmar que irá gerar benefícios econômicos.",
+      "D": "É um Ativo, pois preenche os critérios para ser reconhecido como tal: trata-se de um recurso controlado pela entidade; é resultante de eventos passados; e, possui potencial de gerar benefícios econômicos."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 37,
+    "question": "Em um processo de fiscalização verificou-se que a empresa contábil Sempre Contando, localizada em Belo Horizonte (MG), não possui contrato de prestação de serviços com os clientes e não está registrada no Conselho Regional de Contabilidade de Minas Gerais (CRC/MG). A notificação foi feita, transcorrendo prazo para regularizar a situação. Findo o período, os fiscais retornaram e nada havia sido feito pelo contador responsável. Diante da situação exposta, é correto afirmar que:",
+    "options": {
+      "A": "A perda do prazo é mais uma infração; e, portanto, o seu não cumprimento irá gerar um processo com três infrações.",
+      "B": "O processo possuirá dois fatos infracionais, os quais serão analisados pelo relator que irá graduar a pena para cada um deles.",
+      "C": "A perda do prazo não se constitui em uma infração; e, portanto, o fiscal não deve lavrar o auto de infração devido a este fato.",
+      "D": "Ao perder o prazo, o contador será novamente notificado e concedido novo prazo para regularizar a situação, sendo lavrado o auto somente com as duas infrações."
+    },
+    "discipline": "Legislação e Ética",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 38,
+    "question": "Em relação à capacidade técnica, o conhecimento acumulado, as habilidades pessoais e o respeito aos aspectos legais e normativos, suficientes para o desempenho eficaz de uma tarefa, analise as afirmativas a seguir. [situações descritas]. Considerando as situações hipotéticas, estão em concordância com a NBC PG 01, de 07 de fevereiro de 2019 – Código de Ética Profissional do Contador, as atitudes apresentadas em",
+    "options": {
+      "A": "I, II, III e IV.",
+      "B": "IV, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e IV, apenas."
+    },
+    "discipline": "Legislação e Ética",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 39,
+    "question": "'Antônio, contador da Empresa Ganha Sempre Ltda., recebeu a proposta de ter parte dos ganhos de um contrato com a prefeitura, caso concordasse em manipular os resultados da empresa, para que a licitação fosse ganhada.' Tendo aceitado a proposta, é correto afirmar que Antônio cometeu:",
+    "options": {
+      "A": "Fraude.",
+      "B": "Imperícia.",
+      "C": "Negligência.",
+      "D": "Improdência."
+    },
+    "discipline": "Legislação e Ética",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 40,
+    "question": "'A Ética Profissional envolve aqueles que só se preocupam com os lucros e, por isso, tendem a ter uma menor consciência de grupo.' (SA, 2013.) Sobre a Ética Profissional, é correto afirmar que:",
+    "options": {
+      "A": "A formação e a atualização profissional constantes permitem aos profissionais exercerem suas atividades de forma mais competente, leal, justa e honesta, atuando sempre dentro da Ética Profissional.",
+      "B": "A formação possui diversas etapas; mas, somente aquelas que interessam ao profissional são importantes, pois, para prestar um serviço de qualidade, basta saber uma parte do processo e não agir com Ética Profissional.",
+      "C": "Os profissionais, no desenvolvimento de suas atividades, devem realizar o seu trabalho sem preocupação em cumprir as obrigações a que se compromete, pois deve respeitar os seus limites e não a hierarquia institucional.",
+      "D": "O trabalho prestado e que será desempenhado ao ser escolhido gera comprometimento também com todas as possibilidades de infrações éticas e cometimento de atos irregulares compatíveis com a escolha da tarefa a ser desempenhada."
+    },
+    "discipline": "Legislação e Ética",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 41,
+    "question": "A NBC TG 25 (R1) – Provisões, Passivos Contingentes e Ativos Contingentes estabelece critérios de reconhecimento e bases de mensuração apropriados a provisões e a passivos e ativos contingentes. Diante disso, o contador de uma entidade empresária fez a contabilização da provisão para contingência de cinco processos trabalhistas, com base em seus documentos. Contudo, ele verificou que seria imprescindível consultar o departamento jurídico da entidade sobre quais as probabilidades de perda desses processos. Após a resposta do departamento jurídico, o contador comparou os seus registros com as informações dos advogados, verificando as seguintes classificações: [dados da tabela]. Diante de tais informações, o contador constatou que deveria fazer a contabilização com base nas classificações do departamento jurídico, pois os advogados possuem maior conhecimento e experiência sobre o assunto. Nesse sentido, considerando apenas os dados da tabela, assinale o valor total da provisão a ser contabilizado no Balanço Patrimonial.",
+    "options": {
+      "A": "R$ 133.000,00",
+      "B": "R$ 155.000,00",
+      "C": "R$ 250.000,00",
+      "D": "R$ 288.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 42,
+    "question": "O contador de determinada Sociedade Empresária, ao apurar a Demonstração do Resultado para o ano de X1, dispunha das seguintes informações: [dados da tabela]. Considerando tais informações, é correto afirmar que, em X1:",
+    "options": {
+      "A": "O Lucro Líquido é R$ 44.000,00.",
+      "B": "O Valor Total das participações é de R$ 10.000,00.",
+      "C": "O Resultado do Exercício antes das Participações Societárias é R$ 27.695,00.",
+      "D": "O Lucro antes do Imposto de Renda e Contribuição Social sobre Lucro Líquido é de R$ 35.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 43,
+    "question": "De acordo com o que preconiza a Resolução CFC nº 1.328/2011, assinale a afirmativa correta.",
+    "options": {
+      "A": "Determinado contador, quando atua como perito contador, não precisa seguir as Normas Brasileiras de Contabilidade, pois se trata de um trabalho além do que preconiza tal regulamento.",
+      "B": "As Normas Brasileiras de Contabilidade Profissionais somente estabelecem preceitos de conduta profissional e padrões e procedimentos técnicos necessários para o adequado exercício profissional.",
+      "C": "Quando o Conselho Federal de Contabilidade emite um documento que busca esclarecer assuntos de natureza contábil, com a definição de procedimentos a serem observados, tem-se uma Interpretação Técnica.",
+      "D": "Quando se elabora uma Norma Brasileira de Contabilidade para ser aplicada em casos de asseguração convergente com as Normas Internacionais de Asseguração emitidas pela IFAC, trata-se de uma Norma de Asseguração de Informação Não Histórica – NBC TO."
+    },
+    "discipline": "Legislação e Ética",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 44,
+    "question": "O contador de uma Sociedade Empresarial deverá elaborar a Demonstração do Valor Adicionado para o exercício de X1, com base nas seguintes informações: [detalhes das informações]. De acordo com as informações, é correto afirmar que:",
+    "options": {
+      "A": "O Valor Adicionado Bruto é de R$ 5.100,00.",
+      "B": "O Valor Adicionado Líquido Produzido pela Entidade é de R$ 5.430,00.",
+      "C": "O Valor Adicionado distribuído com Impostos, Taxas e Contribuições é de R$ 1.480,00.",
+      "D": "O Valor Adicionado distribuído com Juros s/ Capital Próprio e Dividendos e Lucros Retidos é de R$ 5.100,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 45,
+    "question": "'APHA S/A, empresa do setor de energia elétrica, contratou serviços de auditoria independente. Durante a realização dos trabalhos, o auditor observou que os procedimentos contábeis adotados, assim como a escrituração contábil efetuada, apresentaram significativas, importantes e graves discordâncias com as normas estabelecidas pelo Conselho Federal de Contabilidade. Frente à situação, o auditor levou ao conhecimento da administração da empresa, com a qual discutiu a extrema gravidade da situação, haja vista a interpretação equivocada, inclusive, das normas expedidas pela agência reguladora, e propôs os ajustes contábeis necessários e devidos. Após a exposição e as sugestões do auditor, mesmo ciente do alto grau de discordâncias apontado, a empresa decidiu que não seriam promovidas as alterações sugeridas, alegando que a empresa teria seguido o que fora estabelecido pela agência reguladora do setor de energia elétrica, no que tange aos procedimentos e escrituração contábil das empresas reguladas.' Frente à situação descrita, o auditor deverá emitir relatório:",
+    "options": {
+      "A": "Com 'opinião adversa'.",
+      "B": "Com 'opinião com ressalva'.",
+      "C": "Com 'abstenção de opinião'.",
+      "D": "'Sem ressalva', esclarecendo que a escrituração e os procedimentos contábeis estão de acordo com as normas estabelecidas pela agência reguladora pertinente."
+    },
+    "discipline": "Auditoria",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 46,
+    "question": "Os Arts. 171 a 179 do Decreto-Lei nº 2848 de 1940 (Código Penal Brasileiro) versam sobre estelionato e outras fraudes. São inúmeros os tipos de fraudes e catastróficos os impactos causados à instituição vitimada e à sociedade. A fraude é um risco classificado no grupo de risco operacional, pois, habitualmente, ocorre em virtude de adulteração de controles, descumprimento e/ou interpretação discricionária tendenciosa de procedimentos contábeis, desvio de valores, divulgação ilegal de informações etc. Como resultados de estudos feitos, no Brasil, em determinado ano, foram elaborados os gráficos dispostos nas figuras 1, 2 e 3 a seguir: [descrição dos gráficos]. Considerando os conhecimentos contábeis sobre as áreas de uma empresa/organização/instituição, bem como a interpretação dos dados divulgados nas figuras anteriores, resultantes dos estudos realizados, um auditor chegará às seguintes conclusões, EXCETO:",
+    "options": {
+      "A": "As áreas mais suscetíveis de fraudes são aquelas onde, normalmente, podem estar concentrados os principais ativos da empresa.",
+      "B": "Os maiores responsáveis por fraudes são os funcionários, seguidos pelos prestadores de serviços e fornecedores, respectivamente.",
+      "C": "Menos de 10% das vítimas de fraudes conseguen recuperar suas perdas totalmente; e, mais de 20% conseguem recuperar em torno de 25% de suas perdas.",
+      "D": "A atenção na contratação e no acompanhamento de funcionários, principalmente aqueles alocados na área financeira e na área contábil, reduzirá as fraudes em 58%."
+    },
+    "discipline": "Auditoria",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 47,
+    "question": "'Luciano, proprietário de uma determinada empresa falece, e, após divergências conciliatórias de seus beneficiários, o Juiz nomeia o perito contador Bertoldo, devidamente registrado, com o objetivo de inventariar contabilmente os bens dos herdeiros. Uma das filhas de Luciano, Marinete, para se certificar da transparência dos trabalhos do perito nomeado pelo Juiz, resolve contratar Pedro, um contador, como perito assistente técnico. Ao final dos trabalhos, Bertoldo elaborou um laudo pericial com a sua opinião sobre o patrimônio disputado pelos familiares na Justiça. Marinete não ficou satisfeita com o laudo publicado pelo perito e chama Pedro (perito assistente) para uma conversa a respeito.' Mesmo não havendo determinação em juízo, definindo o prazo para emissão do seu parecer, cabe a Pedro, perito assistente:",
+    "options": {
+      "A": "Emitir, imediatamente, outro laudo pericial.",
+      "B": "Entregar o seu novo laudo a Bertoldo, logo após a publicação do laudo pericial oficial.",
+      "C": "Esperar o prazo de dez dias após a publicação do laudo pericial para emitir o seu parecer.",
+      "D": "Entrar com pedido de impedimento do perito Bertoldo após vinte dias da emissão do laudo."
+    },
+    "discipline": "Perícia",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 48,
+    "question": "'O Juiz, em perícia judicial, nomeou Roberto (contador), como perito contábil para realizar o levantamento do balanço patrimonial de empresas envolvidas em um processo litigioso.' Ao elaborar a proposta de honorários, Roberto NÃO deverá considerar:",
+    "options": {
+      "A": "Laudos interprofissionais.",
+      "B": "Prazos para execução da perícia.",
+      "C": "Honorários relativos a quesitos suplementares.",
+      "D": "Local da coleta de provas e realização da perícia."
+    },
+    "discipline": "Perícia",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 49,
+    "question": "Dentre os variados aspectos linguísticos que foram empregados no texto, destaca-se a flexão de algumas palavras mediante a necessidade do acréscimo de morfemas desinenciais. Assim, leia e analise as afirmativas a seguir sobre o aspecto mencionado e assinale a correta.",
+    "options": {
+      "A": "O emprego do adjetivo 'necessário', conforme visto no 1º§ ou como parte integrante de uma expressão, será sempre invariável.",
+      "B": "A forma verbal 'tornou' em 'tornou praticamente necessário' não apresenta flexão de número por tratar-se de verbo impessoal.",
+      "C": "Sendo a expressão 'uma das principais práticas desportivas' sujeito de uma oração hipotética, ocorrerá a exigência do verbo apenas no plural.",
+      "D": "A expressão 'a fazer' em 'foi um dos principais fatores a fazer' pode ser substituída por 'que fizeram' ou 'que fez', de acordo com a intenção discursiva, mantendo-se a correção gramatical."
+    },
+    "discipline": "Língua Portuguesa",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 50,
+    "question": "O segundo parágrafo do texto é composto por dois períodos iniciados por elementos específicos de conexão textual que contribuem para a progressão das ideias apresentadas e produção de efeito de sentido desejado pelas autoras. Sobre a referência anterior, pode-se afirmar que:",
+    "options": {
+      "A": "O primeiro período apresenta uma representação hipotética seguida de uma explicação iniciada no segundo período.",
+      "B": "O parágrafo inicia-se com uma informação considerada como fato real seguindo-se, no segundo período, de expressão da continuação lógica do raciocínio.",
+      "C": "A expressão 'Embora o futebol movimente' pode ser substituída por 'Ainda que o futebol movimentasse' sem que haja qualquer tipo de alteração semântica tanto no primeiro quanto no segundo períodos.",
+      "D": "O fato de o futebol ser apresentado como uma atividade capaz de movimentar uma quantia considerável de recursos é visto como fundamental para que a Contabilidade tenha, nessa área, uma forte e necessária atuação."
+    },
+    "discipline": "Língua Portuguesa",
+    "correctAnswer": "D"
+  }
+]

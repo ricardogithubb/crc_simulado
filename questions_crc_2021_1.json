@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "Após destinação do resultado em 31/12/2020, determinada Sociedade S.A. apresentou os seguintes saldos em suas contas contábeis: [dados da tabela]. Considerando o disposto na Lei nº 6.404/76, NBC TG 08 – Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários e na ITG 08 – Contabilização da Proposta de Pagamento de Dividendos, o total do Patrimônio Líquido no período corresponde a:",
+    "options": {
+      "A": "R$ 399.950,00",
+      "B": "R$ 425.350,00",
+      "C": "R$ 436.350,00",
+      "D": "R$ 495.350,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 2,
+    "question": "Uma Sociedade Comercial Ltda. detinha 10 unidades de estoque ao valor de R$ 18,00 cada. No mês seguinte, realizou a seguinte movimentação nos estoques: [movimentações]. Considerando que essa empresa é tributada na compra e venda de mercadorias, com ICMS a 10%, informe, respectivamente, o Custo das Mercadorias Vendidas (CMV) e o saldo do estoque final nesse referido mês.",
+    "options": {
+      "A": "R$ 563,40 e R$ 244,80",
+      "B": "R$ 606,00 e R$ 272,00",
+      "C": "R$ 1.309,50 e R$ 244,80",
+      "D": "R$ 1.455,00 e R$ 272,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 3,
+    "question": "A Cia. Industrial Tuoyal Ltda. adquiriu determinadas matérias-primas no ano de 2017. Recebeu em espécie do cliente, pela encomenda do produto acabado, no ano de 2018. As matérias-primas foram utilizadas na composição de unidades em estoque no ano de 2019. Os produtos acabados foram entregues para o cliente no ano de 2020. E, no ano de 2021, a Cia. Industrial Tuoyal Ltda. pagou pelas matérias-primas. Baseando-se apenas nas informações dadas e considerando-se o Regime de Competência, o valor recebido do cliente e o valor dispendido com as matérias-primas serão apropriados na Demonstração do Resultado do Exercício, respectivamente, nos anos de:",
+    "options": {
+      "A": "2018 e 2019",
+      "B": "2018 e 2021",
+      "C": "2020 e 2020",
+      "D": "2017 e 2021"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 4,
+    "question": "Uma Sociedade S.A. apresentou os seguintes saldos no encerramento do exercício na data 31/12/2020: [dados da tabela]. Informações adicionais: [informações]. De acordo com a NBC TG 09 – Demonstração do Valor Adicionado e considerando exclusivamente essas informações, indique, respectivamente: o Valor Adicionado Bruto; o Valor Adicionado Líquido produzido pela entidade; e, o Valor Adicionado total a distribuir.",
+    "options": {
+      "A": "R$ 258.200,00; R$ 246.200,00; e, R$ 260.900,00",
+      "B": "R$ 258.200,00; R$ 246.200,00; e, R$ 282.900,00",
+      "C": "R$ 262.000,00; R$ 246.200,00; e, R$ 282.900,00",
+      "D": "R$ 262.200,00; R$ 258.200,00; e, R$ 294.900,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 5,
+    "question": "Uma Sociedade Industrial S.A. contratou um arrendamento financeiro de uma máquina para a utilização em sua linha produtiva. O pagamento será realizado em 18 parcelas mensais de R$ 12.550,00. [detalhes do contrato]. Considerando exclusivamente as informações apresentadas, o total de despesas decorrentes desse contrato de arrendamento a serem apropriadas no encerramento do exercício de 2020 será de, aproximadamente:",
+    "options": {
+      "A": "R$ 1.676.88",
+      "B": "R$ 3.126,84",
+      "C": "R$ 4.803,72",
+      "D": "R$ 5.170,38"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 6,
+    "question": "Uma Sociedade S.A. apresentou os seguintes saldos e movimentações no encerramento do exercício na data 31/12/2020: [dados da tabela]. Considerando exclusivamente essas informações e o disposto na NBC TG 03 (R3) – Demonstração dos Fluxos de Caixa, indique, respectivamente, os fluxos de caixa gerados ou consumidos nas atividades: Operacionais; de Investimento; e, de Financiamento.",
+    "options": {
+      "A": "R$ 31.300,00; (R$ 18.800,00); e, R$ 15.700,00",
+      "B": "R$ 59.900,00; R$ 15.700,00; e, (R$ 18.800,00)",
+      "C": "R$ 80.100,00; (R$ 15.700,00); e, R$ 18.800,00",
+      "D": "R$ 87.900,00; (R$ 18.800,00); e, R$ 15.700,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 7,
+    "question": "Uma Sociedade Ltda. apresentou os seguintes saldos em 30/11/2020: [dados da tabela]. Durante o mês de dezembro de 2020 ocorreram os seguintes fatos contábeis: [eventos]. Após os lançamentos do mês de dezembro e do encerramento do exercício de 2020, desconsiderando a presença de impostos e depreciações, informe, respectivamente: o total do Ativo; o total do Patrimônio Líquido; o total do Passivo Circulante; e, o total do Ativo Circulante.",
+    "options": {
+      "A": "R$ 1.206,00; R$ 860,00; R$ 226,00; e, R$ 706,00",
+      "B": "R$ 1.206,00; R$ 860,00; R$ 286,00; e, R$ 706,00",
+      "C": "R$ 1.266,00; R$ 920,00; R$ 286,00; e, R$ 766,00",
+      "D": "R$ 1.266,00; R$ 920,00; R$ 346,00; e, R$ 766,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 8,
+    "question": "Uma Sociedade Industrial Ltda. vendeu 180 unidades a R$ 80,00 cada unidade. [detalhes da venda e tributação]. As despesas de vendas administrativas, financeiras e demais despesas operacionais totalizaram R$ 5.200,00. Não havendo outras receitas, assinale, a seguir, o Resultado Antes dos Tributos sobre o Lucro nessa situação.",
+    "options": {
+      "A": "R$ 560,00",
+      "B": "(R$ 154,24)",
+      "C": "R$ 4.032,00",
+      "D": "(R$ 1.168,00)"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 9,
+    "question": "As Notas Explicativas de uma entidade evidenciaram as seguintes informações ocorridas dentro do ano de 2020: [informações]. Outras informações: [informações adicionais]. Considerando somente as informações apresentadas, assinale o valor da Receita Líquida de Vendas evidenciada na Demonstração de Resultado de 2020.",
+    "options": {
+      "A": "R$ 1.400.000,00",
+      "B": "R$ 1.579.500,00",
+      "C": "R$ 1.600.000,00",
+      "D": "R$ 1.850.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 10,
+    "question": "A Rodoviária S.A. é uma companhia de capital aberto que detém 55% de participação na Empresa A e 25% de participação na Empresa B. [dados dos balanços individuais]. Outras informações: [informações adicionais]. Considerando as informações apresentadas, a NBC TG 36 (R3) Demonstrações consolidadas e a NBC TG 18 (R3) Investimentos em coligada, em controlada e em empreendimento controlado em conjunto, assinale a alternativa que indica, respectivamente, o valor do Ativo e o valor do Patrimônio Líquido a serem apresentados no Balanço Patrimonial Consolidado da Rodoviária S.A.",
+    "options": {
+      "A": "R$ 3.994.344,00 e R$ 1.681.100,00",
+      "B": "R$ 4.630.196,00 e R$ 2.236.952,00",
+      "C": "R$ 4.074.344,00 e R$ 1.681.100,00",
+      "D": "R$ 13.913.074,00 e R$ 7.423.804,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 11,
+    "question": "No dia 22/03/2020, a empresa Investidora S.A. adquiriu 65% do Patrimônio Líquido da empresa Investida S.A., pelo montante total de R$ 2.600.000,00. [dados do PL da Investida]. No final do exercício de 2020, a firma Investida S.A. apresentou como Patrimônio Líquido o montante de R$ 4.320.000,00. Considerando exclusivamente as informações dadas, informe o lançamento contábil a ser efetuado pela firma Investidora S.A. para reconhecer a equivalência patrimonial no final do exercício de 2020.",
+    "options": {
+      "A": "D – Investimento na firma Investida S.A. / C – Receita de Equivalência Patrimonial R$ 208.000,00",
+      "B": "D – Receita de Equivalência Patrimonial / C – Investimento na firma Investida S.A. R$ 208.000,00",
+      "C": "D – Investimento na firma Investida S.A. R$ 117.000,00 / D – Deságio no investimento na firma Investida S.A. R$ 91.000,00 / C – Receita de Equivalência Patrimonial R$ 208.000,00",
+      "D": "D – Investimento na firma Investida S.A. R$ 208.000,00 / C – Ágio no investimento na firma Investida S.A. R$ 91.000,00 / C – Receita de Equivalência Patrimonial R$ 117.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 12,
+    "question": "No dia 11/03/2021, a Companhia A: [operações realizadas]. Considerando somente as informações apresentadas, assinale a opção que indica, conforme a NBC TG 28 (R4) Propriedade para investimento, NBC TG 27 (R4) Ativo imobilizado e NBC TG 31 (R4) Ativo não circulante mantido para venda e operação descontinuada, os lançamentos contábeis no momento do reconhecimento inicial das informações apresentadas.",
+    "options": {
+      "A": "Débito – Edificações (Ativo Não Circulante) R$ 4.000.000,00 / Débito – Propriedades Mantidas para Valorização ou Definição Futura (Ativo Não Circulante) R$ 600.000,00 / Débito – Ativo Não Circulante Mantido para Venda (Ativo Circulante) R$ 100.000,00 / Crédito – Veículos (Ativo Não Circulante) R$ 100.000,00 / Crédito – Caixa (Ativo Circulante) R$ 4.600.000,00",
+      "B": "Débito – Edificações (Ativo Não Circulante) R$ 4.600.000,00 / Débito – Ativo Não Circulante Mantido para Venda (Ativo Circulante) R$ 100.000,00 / Crédito – Veículos (Ativo Não Circulante) R$ 100.000,00 / Crédito – Caixa (Ativo Circulante) R$ 4.600.000,00",
+      "C": "Débito – Edificações (Ativo Não Circulante) R$ 4.000.000,00 / Débito – Propriedades Mantidas para Valorização ou Definição Futura (Ativo Não Circulante) R$ 600.000,00 / Crédito – Caixa (Ativo Circulante) R$ 4.600.000,00",
+      "D": "Débito – Edificações (Ativo Não Circulante) R$ 4.000.000,00 / Débito – Propriedades Mantidas para Valorização ou Definição Futura (Ativo Não Circulante) R$ 600.000,00 / Débito – Estoques (Ativo Circulante) R$ 100.000,00 / Crédito – Veículos (Ativo Não Circulante) R$ 100.000,00 / Crédito – Caixa (Ativo Circulante) R$ 4.600.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 13,
+    "question": "No encerramento do exercício de 2020, a Companhia B S.A. constatou que seu Lucro Líquido Ajustado do exercício foi de R$ 12.300.000,00 e, com base neste valor, declarou a distribuição de 25% em dividendos mínimos obrigatórios, conforme estabelecido no Estatuto Social. [detalhes da situação]. Considerando somente as informações apresentadas, assinale a alternativa que indica os lançamentos contábeis que a Companhia A S.A. deveria realizar no momento em que a Companhia B S.A. efetuasse o reconhecimento inicial da distribuição dos dividendos e no momento em que a Companhia B S.A. efetuasse o pagamento destes.",
+    "options": {
+      "A": "Dividendos a receber pela Companhia A S.A.: Débito – Dividendos Propostos a Receber (Ativo Circulante) R$ 215.250,00 / Crédito – Ajustes de Avaliação Patrimonial (Patrimônio Líquido) R$ 215.250,00. Recebimento dos dividendos pela Companhia A S.A.: Débito – Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 215.250,00 / Crédito – Dividendos Propostos a Receber (Ativo Circulante) R$ 215.250,00",
+      "B": "Dividendos a receber pela Companhia A S.A.: Débito – Dividendos Propostos a Receber (Ativo Circulante) R$ 861.000,00 / Crédito – Receita com Dividendos (Resultado) R$ 861.000,00. Recebimento dos dividendos pela Companhia A S.A.: Débito – Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 861.000,00 / Crédito – Dividendos Propostos a Receber (Ativo Circulante) R$ 861.000,00",
+      "C": "Dividendos a receber pela Companhia A S.A.: Débito – Dividendos Propostos a Receber (Ativo Circulante) R$ 215.250,00 / Crédito – Receita com Dividendos (Resultado) R$ 215.250,00. Recebimento dos dividendos pela Companhia A S.A.: Débito – Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 215.250,00 / Crédito – Dividendos Propostos a Receber (Ativo Circulante) R$ 215.250,00",
+      "D": "Dividendos a receber pela Companhia A S.A.: Débito – Dividendos Propostos a Receber (Ativo Circulante) R$ 215.250,00 / Crédito – Investimentos: Participação na Companhia B S.A. (Ativo Não Circulante) R$ 215.250,00. Recebimento dos dividendos pela Companhia A S.A.: Débito – Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 215.250,00 / Crédito – Dividendos Propostos a Receber (Ativo Circulante) R$ 215.250,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 14,
+    "question": "Em 04/01/2021, a Companhia A S.A. adquiriu 100% de participação na Companhia B S.A. [dados do balanço patrimonial da B]. Outras informações: [informações adicionais]. Considerando somente as informações apresentadas e a NBC TG 15 (R4) Combinação de negócios, na data da aquisição, a Companhia A S.A. deveria reconhecer:",
+    "options": {
+      "A": "R$ 2.000.000,00 de Goodwill e R$ 5.000.000,00 de mais-valia.",
+      "B": "R$ 3.000.000,00 de Goodwill e R$ 2.000.000,00 de mais-valia.",
+      "C": "R$ 3.000.000,00 de Compra Vantajosa e R$ 2.000.000,00 de mais-valia.",
+      "D": "R$ 5.000.000,00 de Compra Vantajosa e R$ 2.000.000,00 de menos-valia."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 15,
+    "question": "A empresa brasileira MITNARO S/A, em abril de 2020, importou maquinário da empresa americana Strong Products-Inc, no valor de US$ 100.000,00. [detalhes da operação cambial]. Considerando as informações disponibilizadas anteriormente, assinale o lançamento a ser efetuado em virtude do efetivo pagamento ao fornecedor estrangeiro.",
+    "options": {
+      "A": "D – Fornecedores estrangeiros – Strong Products-Inc (Passivo Circulante) R$ 330.980,00 / D – Variações cambiais (Conta de resultado) R$ 23.200,00 / C – Bancos – Conta Movimento (Ativo Circulante) R$ 354.180,00",
+      "B": "D – Fornecedores estrangeiros – Strong Products-Inc (Passivo Circulante) R$ 354.180,00 / C – Bancos – Conta Movimento (Ativo Circulante) R$ 354.180,00",
+      "C": "D – Fornecedores estrangeiros – Strong Products-Inc (Passivo Circulante) R$ 307.780,00 / D – Variações cambiais (Conta de resultado) R$ 23.200,00 / C – Bancos – Conta Movimento (Ativo Circulante) R$ 330.980,00",
+      "D": "D – Fornecedores estrangeiros – Strong Products-Inc (Passivo Circulante) R$ 354.180,00 / C – Variações cambiais (Conta de resultado) R$ 23.200,00 / C – Bancos – Conta Movimento (Ativo Circulante) R$ 330.980,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 16,
+    "question": "Considere as seguintes operações realizadas por empresa brasileira de capital aberto, altamente dependente de importação de maquinários para o seu processo produtivo: [operações]. As taxas de câmbio, no ano em questão, foram as seguintes: [tabela de câmbio]. Com base apenas nas informações anteriores e, portanto, desconsiderando os lançamentos referentes à tributação ou quaisquer outros gastos incorridos em virtude da referida importação, para fins de simplificação, os seguintes lançamentos contábeis deverão ser efetuados pela empresa:",
+    "options": {
+      "A": "Importação em Andamento de Bens do Ativo imobilizado a Bancos – Conta Movimento R$ 324.490,00; Importação em Andamento de Bens do Ativo imobilizado a Bancos – Conta Movimento R$ 19.469,40; Importação em Andamento de Bens do Ativo imobilizado a Bancos – Conta Movimento R$ 8.112,25; Máquinas e Equipamentos a Importação em Andamento de Bens do Ativo imobilizado R$ 352.071,65",
+      "B": "Importação em Andamento de Bens do Ativo imobilizado a Fornecedores Estrangeiros – To Drill Products-Inc R$ 100.000,00; Importação em Andamento de Bens do Ativo imobilizado a Bancos – Conta Movimento R$ 6.000,00; Importação em Andamento de Bens do Ativo imobilizado a Bancos – Conta Movimento R$ 2.500,00; Máquinas e Equipamentos a Importação em Andamento de Bens do Ativo imobilizado R$ 108.500,00",
+      "C": "Importação em Andamento de Bens do Ativo imobilizado a Fornecedores Estrangeiros – To Drill Products-Inc R$ 387.480,00; Máquinas e Equipamentos a Importação em Andamento de Bens do Ativo imobilizado R$ 387.480,00",
+      "D": "Importação em Andamento de Bens do Ativo imobilizado a Fornecedores Estrangeiros – To Drill Products-Inc R$ 319.000,00; Importação em Andamento de Bens do Ativo imobilizado a Bancos – Conta Movimento R$ 19.140,00; Importação em Andamento de Bens do Ativo imobilizado a Bancos – Conta Movimento R$ 7.975,00; Máquinas e Equipamentos a Importação em Andamento de Bens do Ativo imobilizado R$ 346.115,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 17,
+    "question": "Observe as seguintes operações realizadas pela empresa EGENTART em 2020. I. Aquisição de moeda estrangeira (dólar norte-americano), em fevereiro, no montante de US$ 800.000,00; II. Aquisição de imóvel no exterior, em julho, no valor de US$ 500.000,00. Para efeito de simplificação, considere as taxas de câmbio a seguir: [tabela de câmbio]. Com base nas informações anteriores, assinale as contabilizações necessárias para o reconhecimento inicial das transações à época do fechamento do Balanço Patrimonial.",
+    "options": {
+      "A": "CONTABILIZAÇÃO INICIAL: Disponibilidade em moeda estrangeira a Bancos R$ 2.935.040,00; Imóvel a Bancos R$ 1.909.350,00. LANÇAMENTO SUBSEQUENTE – BALANÇO PATRIMONIAL: Disponibilidade em moeda estrangeira a Ajuste de Avaliação Patrimonial (PL) R$ 289.040,00",
+      "B": "CONTABILIZAÇÃO INICIAL: Disponibilidade em moeda estrangeira a Bancos R$ 2.935.040,00; Imóvel a Bancos R$ 1.909.350,00. LANÇAMENTO SUBSEQUENTE – BALANÇO PATRIMONIAL: Disponibilidade em moeda estrangeira a Ajuste de Avaliação Patrimonial (PL) R$ 201.920,00",
+      "C": "CONTABILIZAÇÃO INICIAL: Disponibilidade em moeda estrangeira a Bancos R$ 3.136.960,00; Imóvel a Bancos R$ 1.960.600,00. LANÇAMENTO SUBSEQUENTE – BALANÇO PATRIMONIAL: Disponibilidade em moeda estrangeira a Ajuste de Avaliação Patrimonial (PL) R$ 289.040,00; Imóvel a Ajuste de Avaliação Patrimonial (PL) R$ 105.700,00",
+      "D": "CONTABILIZAÇÃO INICIAL: Disponibilidade em moeda estrangeira a Bancos R$ 2.935.040,00; Imóvel a Bancos R$ 1.909.350,00. LANÇAMENTO SUBSEQUENTE – BALANÇO PATRIMONIAL: Disponibilidade em moeda estrangeira a Ajuste de Avaliação Patrimonial (PL) R$ 201.920,00; Imóvel a Ajuste de Avaliação Patrimonial (PL) R$ 51.250,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 18,
+    "question": "A confecção de roupas J Macedo produz três modelos diferentes de calças jeans e utiliza três linhas de produção. A empresa levantou as seguintes informações: [custos listados]. Considerando as informações apresentadas, qual é o valor total de custos diretos e indiretos?",
+    "options": {
+      "A": "Custos diretos = R$ 96.000,00 e custos indiretos = R$ 30.000,00",
+      "B": "Custos diretos = R$ 86.000,00 e custos indiretos = R$ 40.000,00",
+      "C": "Custos diretos = R$ 69.000,00 e custos indiretos = R$ 57.000,00",
+      "D": "Custos diretos = R$ 98.000,00 e custos indiretos = R$ 28.000,00"
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 19,
+    "question": "O objetivo dos sistemas de acumulação de custos é identificar e acumular os custos fabris aos produtos no decorrer da produção, ou seja, é determinar o valor destes, levando-se em conta a forma de organização produtiva das empresas. Assim, os dois sistemas básicos de acumulação de custos que se destinam a custear produtos e serviços são os seguintes: o sistema de custeamento por ordem de produção e o sistema de custeamento por processo. São características para adoção do sistema de acumulação por ordem, quanto ao: [características listadas]. Está correto o que se afirma apenas em",
+    "options": {
+      "A": "I e IV.",
+      "B": "II e III.",
+      "C": "III e V.",
+      "D": "I, III e IV."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "A"
+  },
+  {
+    "number": 20,
+    "question": "A empresa MC Parker produz calculadoras matemáticas e financeiras. Os dados relacionados aos dois produtos são apresentados a seguir: [dados da tabela]. Ambos os produtos passam pelo departamento 1 e pelo departamento 2. Com base no custeio ABC, os custos indiretos de fabricação dos departamentos são de: [custos indiretos]. O custo unitário indireto de fabricação para cada produto será, respectivamente (utilize quatro casas decimais para a resolução do problema):",
+    "options": {
+      "A": "R$ 5,50 e R$ 3,83",
+      "B": "R$ 8,80 e R$ 4,64",
+      "C": "R$ 220,00 e R$ 530,00",
+      "D": "R$ 527,00 para os dois produtos"
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 21,
+    "question": "A indústria Peças Veículos Automotores (PVA) realiza projetos, produção e venda de peças automobilísticas. O sistema de custeio da empresa aloca os Custos Indiretos de Fabricação (CIF) variáveis em cada contrato com base no rateio por horas-máquina. A empresa teve três contratos em 2020 e as horas-máquina foram atribuídas da seguinte maneira: [distribuição de horas]. Sabendo-se que os Custos Indiretos de Fabricação (CIF) variáveis em 2020 foram de R$ 200.000,00, serão alocados para cada contrato, respectivamente:",
+    "options": {
+      "A": "R$ 50.400,00; R$ 80.000,00; e, R$ 69.600,00",
+      "B": "R$ 66.670,00; R$ 66.670,00; e, R$ 66.670,00",
+      "C": "R$ 16.600,00; R$ 93.400,00; e, R$ 90.000,00",
+      "D": "R$ 20.000,00; R$ 120.000,00; e, R$ 60.000,00"
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "D"
+  },
+  {
+    "number": 22,
+    "question": "Uma entidade do setor público apresentou as seguintes informações em sua Demonstração dos Fluxos de Caixa: [dados da tabela]. Com base nessas informações, o fluxo de caixa líquido das atividades operacionais gerado pela entidade é:",
+    "options": {
+      "A": "R$ 100,00",
+      "B": "R$ 160,00",
+      "C": "R$ 190,00",
+      "D": "R$ 450,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 23,
+    "question": "Um edifício pertencente a uma entidade do setor público foi danificado por um incêndio. Após esse acontecimento, a entidade apresentou as seguintes informações: [valores]. Com base nessas informações e considerando o disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que descreve o registro contábil, pela informação de natureza patrimonial, do ajuste ao valor recuperável do edifício.",
+    "options": {
+      "A": "Débito 1.2.3.2.x.xx.xx Bens Imóveis 100,00 / Crédito 3.6.1.2.x.xx.xx Variação Patrimonial Diminutiva com Redução ao Valor Recuperável de Ativo Imobilizado",
+      "B": "Débito 1.2.3.9.x.xx.xx Redução a Valor Recuperável de Ativo Imobilizado 100,00 / Crédito 4.6.5.2.x.xx.xx Variação Patrimonial Aumentativa de Reversão de Redução ao Valor Recuperável de Ativo Imobilizado",
+      "C": "Débito 3.6.1.2.x.xx.xx Variação Patrimonial Diminutiva com Redução ao Valor Recuperável de Ativo Imobilizado 100,00 / Crédito 1.2.3.9.x.xx.xx Redução a Valor Recuperável de Ativo Imobilizado",
+      "D": "Débito 3.6.1.2.x.xx.xx Variação Patrimonial Diminutiva com Redução ao Valor Recuperável de Ativo Imobilizado 200,00 / Crédito 1.2.3.9.x.xx.xx Redução a Valor Recuperável de Ativo Imobilizado"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "C"
+  },
+  {
+    "number": 24,
+    "question": "O governo de determinado município detectou que, devido a um erro, houve a indevida cobrança de determinado tributo, sendo, portanto, necessária a restituição aos contribuintes. [detalhes da estimativa]. Com base nessas informações e na NBC TSP 03 – Provisões, passivos contingentes e ativos contingentes, assinale a alternativa que descreve o valor esperado para a provisão a ser constituída.",
+    "options": {
+      "A": "R$ 1.500.000,00",
+      "B": "R$ 1.800.000,00",
+      "C": "R$ 2.000.000,00",
+      "D": "R$ 2.300.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 25,
+    "question": "Uma entidade do setor público recebeu, em 01/01/2020, uma doação de R$ 1.000.000,00. [condições da doação]. Considerando as informações apresentadas e o disposto na NBC TSP 11 – Instrumentos financeiros básicos, assinale a alternativa que apresenta o valor a ser reconhecido como receita no exercício de 2020.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 100.000,00",
+      "C": "R$ 200.000,00",
+      "D": "R$ 300.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 26,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo não gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 27,
+    "question": "Uma entidade do setor público, em 01/01/2020, adquiriu um ativo biológico vivo não produtivo por R$ 100.000,00. [detalhes sobre o ativo]. Considerando as informações apresentadas e o disposto na NBC TSP 27 – Ativo biológico e produtos agrícolas, assinale a alternativa que apresenta o valor contábil do ativo biológico em 31/12/2020.",
+    "options": {
+      "A": "R$ 90.000,00",
+      "B": "R$ 95.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 105.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 28,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 29,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 30,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 31,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 32,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 33,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 34,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 35,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 36,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 37,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 38,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 39,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 40,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 41,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 42,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 43,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 44,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 45,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 46,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 47,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 48,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 49,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  },
+  {
+    "number": 50,
+    "question": "Uma entidade do setor público realizou, em 31/12/2020, a avaliação de um ativo gerador de caixa. [dados da avaliação]. Com base nessas informações e no disposto na NBC TSP 09 – Redução ao valor recuperável de ativo não gerador de caixa, assinale a alternativa que apresenta o valor da perda por redução ao valor recuperável a ser reconhecida.",
+    "options": {
+      "A": "R$ 0,00",
+      "B": "R$ 50.000,00",
+      "C": "R$ 100.000,00",
+      "D": "R$ 150.000,00"
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "B"
+  }
+]
