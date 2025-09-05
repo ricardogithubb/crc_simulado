@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Uma empresa realizou as seguintes transações com a mercadoria A no mês de junho de 2023: [detalhes das transações]... Considerando, exclusivamente, as informações apresentadas, bem como a Norma Brasileira de Contabilidade NBC TG 16 (R2) – Estoques, assinale os lançamentos contábeis corretos que deveriam ser realizados no momento do reconhecimento inicial das operações ocorridas no dia 27 de junho de 2023.",
+    "options": {
+      "A": "DÉBITO Contas a Receber de Clientes (Ativo Não Circulante) R$ 45.000,00 CRÉDITO Receita de Vendas (Resultado) R$ 45.000,00 [continuação]",
+      "B": "DÉBITO Contas a Receber de Clientes (Ativo Não Circulante) R$ 45.000,00 CRÉDITO Receita de Vendas (Resultado) R$ 45.000,00 [continuação]",
+      "C": "DÉBITO Contas a Receber de Clientes (Ativo Circulante) R$ 40.500,00 CRÉDITO Receita de Vendas (Resultado) R$ 40.500,00 [continuação]",
+      "D": "DÉBITO Contas a Receber de Clientes (Ativo Circulante) R$ 45.000,00 CRÉDITO Receita de Vendas (Resultado) R$ 45.000,00 [continuação]"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "No dia 1º de junho de 2023, determinada empresa adquiriu um veículo (imobilizado não qualificável) para fins administrativos. [detalhes da aquisição]... Considerando, exclusivamente, as informações apresentadas, bem como as Normas Brasileiras de Contabilidade NBC TG 27 (R4) – Ativo imobilizado, NBC TG 12 – Ajuste a valor presente e NBC TG Estrutura Conceitual – Estrutura Conceitual para Relatório Financeiro, e admitindo que a parte financiada da transação foi negociada à taxa de juros compostos pré-fixada de 2,8% a.m., assinale a alternativa que evidencia corretamente apenas os lançamentos para o reconhecimento inicial da transação de compra do veículo.",
+    "options": {
+      "A": "DÉBITO Veículos (Imobilizado – Ativo Não Circulante) R$ 100.000,00 DÉBITO Encargos Financeiros a Transcorrer (Passivo Circulante) R$ 6.509,24 CRÉDITO Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 60.000,00 CRÉDITO Financiamentos a Pagar (Passivo Circulante) R$ 46.509,24",
+      "B": "DÉBITO Veículos (Imobilizado – Ativo Não Circulante) R$ 106.509,24 CRÉDITO Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 60.000,00 CRÉDITO Financiamentos a Pagar (Passivo Circulante) R$ 46.509,24",
+      "C": "DÉBITO Veículos (Imobilizado – Ativo Não Circulante) R$ 100.000,00 DÉBITO Encargos Financeiros a Transcorrer (Resultado) R$ 6.509,24 CRÉDITO Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 60.000,00 CRÉDITO Financiamentos a Pagar (Passivo não Circulante) R$ 46.509,24",
+      "D": "DÉBITO Veículos (Imobilizado – Ativo Não Circulante) R$ 106.509,24 CRÉDITO Encargos Financeiros a Transcorrer (Passivo Circulante) R$ 6.509,24 CRÉDITO Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 60.000,00 CRÉDITO Financiamentos a Pagar (Passivo Circulante) R$ 40.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma empresa (locatário) alugou um galpão para fins de continuidade de suas atividades de produção e, no ato da assinatura do contrato, ficou estabelecido que o aluguel teria vigência de doze meses. [detalhes do pagamento]... Considerando, exclusivamente, as informações apresentadas, assinale os lançamentos contábeis corretos que deveriam ser realizados pelo locatário no momento do reconhecimento inicial do contrato de aluguel do galpão.",
+    "options": {
+      "A": "DÉBITO Despesas com Aluguel de Imóveis – Galpão (Resultado) R$ 48.000,00 CRÉDITO Aluguel de Imóvel Pago Antecipadamente – Galpão (Ativo Circulante) R$ 48.000,00",
+      "B": "DÉBITO Aluguel de Imóvel Pago Antecipadamente – Galpão (Ativo Circulante) R$ 48.000,00 CRÉDITO Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 48.000,00",
+      "C": "DÉBITO Provisão para Aluguel de Imóvel – Galpão (Passivo Circulante) R$ 48.000,00 CRÉDITO Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 48.000,00",
+      "D": "DÉBITO Despesas com Aluguel de Imóveis – Galpão (Resultado) R$ 48.000,00 CRÉDITO Caixa e Equivalentes de Caixa (Ativo Circulante) R$ 48.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Uma empresa notou que, no ano de 2022, o valor de um de seus ativos imobilizados diminuiu significativamente, mais do que a empresa esperava como resultado da passagem do tempo, e, até mesmo, do uso desse ativo em condições normais de operação. [detalhes da avaliação]... Considerando, exclusivamente, as informações apresentadas, bem como a Norma Brasileira de Contabilidade NBC TG 01 (R4) – Redução ao valor recuperável de ativos, assinale o correto lançamento que a empresa deveria realizar para que o valor contábil do ativo em questão, no Balanço Patrimonial encerrado em 31/12/2022, não excedesse o seu valor recuperável.",
+    "options": {
+      "A": "DÉBITO Despesas de Depreciação (Resultado) R$ 55.000,00 CRÉDITO Depreciação Acumulada de Ativo Imobilizado (Ativo Não Circulante) R$ 55.000,00",
+      "B": "DÉBITO Perdas por Não Recuperabilidade (Resultado) R$ 55.000,00 CRÉDITO Perdas Estimadas para Redução ao Valor Recuperável de Ativo Imobilizado (Ativo Não Circulante) R$ 55.000,00",
+      "C": "DÉBITO Perdas por Não Recuperabilidade (Resultado) R$ 55.000,00 CRÉDITO Ajustes de Avaliação Patrimonial de Ativo Imobilizado (Patrimônio Líquido) R$ 55.000,00",
+      "D": "DÉBITO Perdas por Não Recuperabilidade (Resultado) R$ 55.000,00 CRÉDITO Provisões para Retirada de Ativos Imobilizados (Passivo Circulante) R$ 55.000,00"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Uma indústria adquiriu um equipamento em 1º de março de 2021. [detalhes da aquisição e depreciação]... Conforme disposto no NBC TG 01 (R4) – Redução ao Valor Recuperável de Ativos, a administração da companhia efetuou teste de recuperabilidade no encerramento dos exercícios sociais de 2021 e 2022, conforme demonstrado: [valores dos testes]... Considerando as informações e, ainda, de acordo com a NBC TG 27 (R4) – Ativo Imobilizado e com a NBC TG 01 (R4) – Redução ao Valor Recuperável de Ativos, é correto afirmar que o saldo da conta Perdas por desvalorização, em 31/12/2022, foi de:",
+    "options": {
+      "A": "R$ 14.850,00.",
+      "B": "R$ 15.450,00.",
+      "C": "R$ 29.700,00.",
+      "D": "R$ 33.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Em 01/11/2021, determinada sociedade empresária contratou uma apólice de seguro para a sua frota de veículos, com cobertura para um período de três anos, com início imediato de vigência. [detalhes do pagamento]... Assinale a alternativa que indica os saldos corretos das contas contábeis no encerramento do exercício social, em 31/12/2021.",
+    "options": {
+      "A": "Prêmio de seguro a apropriar – Ativo Circulante: R$ 12.000,00 / Despesa com seguros: R$ 2.000,00.",
+      "B": "Prêmio de seguro a apropriar – Ativo Circulante: R$ 18.000,00 / Despesa com seguros: R$ 3.000,00.",
+      "C": "Prêmio de seguro a apropriar – Ativo Circulante: R$ 36.000,00 / Despesa com seguros: R$ 3.000,00.",
+      "D": "Prêmio de seguro a apropriar – Ativo Circulante: R$ 18.000,00 / Despesa com seguros: R$ 36.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "A administração da Investindo Patrimônio S/A, com vistas a aumentar a rentabilidade dos seus ativos, alterou a destinação e a utilização de determinados imóveis de sua propriedade. [detalhes da reclassificação]... Com base, exclusivamente, nas informações apresentadas, considerando o disposto na NBC TG 28 (R4) – Propriedade para Investimento e na NBC TG 27 (R4) – Ativo Imobilizado, a transferência dos três imóveis para as novas contas contábeis provocou o seguinte efeito no resultado do exercício da Investindo Patrimônio S/A:",
+    "options": {
+      "A": "R$ 0,00.",
+      "B": "Aumento de R$ 100.000,00.",
+      "C": "Aumento de R$ 200.000,00.",
+      "D": "Redução de R$ 300.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "O balanço patrimonial de uma sociedade comercial, em 31 de dezembro de 2021, apresentava saldo de R$ 1.300.000,00 na conta Provisão para processos judiciais. [detalhes da composição]... No encerramento do exercício social, em 31 de dezembro de 2022, os consultores jurídicos realizaram análise detalhada de todos os processos judiciais que envolviam a sociedade comercial [novos valores]... Com base, exclusivamente, nas informações apresentadas, considerando o disposto na NBC TG 25 (R2) – Provisões, Passivos Contingentes e Ativos Contingentes, o efeito líquido no resultado da sociedade comercial no exercício findo em 31 de dezembro de 2022, decorrente da contabilização das provisões para processos judiciais, desconsiderando eventuais efeitos fiscais, foi:",
+    "options": {
+      "A": "Redução de R$ 150.000,00.",
+      "B": "Redução de R$ 170.000,00.",
+      "C": "Aumento de R$ 110.000,00.",
+      "D": "Aumento de R$ 150.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "A Usina de Estruturas Metálicas S/A possui 70% do capital social da controlada Escoando Ferrovias S/A. [detalhes do investimento e eventos]... Com base, exclusivamente, nas informações apresentadas, considerando o disposto na NBC TG 18 (R3) – Investimento em Coligada, em Controlada e em Empreendimento Controlado em Conjunto, o valor da receita de equivalência patrimonial contabilizado no resultado da controladora Usina de Estruturas Metálicas S/A, no exercício de 2022, foi:",
+    "options": {
+      "A": "R$ 420.000,00.",
+      "B": "R$ 560.000,00.",
+      "C": "R$ 700.000,00.",
+      "D": "R$ 840.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma sociedade empresária apresentou as seguintes informações da Demonstração de Lucros ou Prejuízos Acumulados em 31/12/2022: [dados da DMPL]... Considerando somente as informações apresentadas e o disposto na Lei nº 6.404/1976, a Demonstração de Lucros ou Prejuízos Acumulados irá evidenciar uma proposta de distribuição de dividendos de:",
+    "options": {
+      "A": "R$ 25.750,00.",
+      "B": "R$ 27.750,00.",
+      "C": "R$ 30.750,00.",
+      "D": "R$ 35.750,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma sociedade empresária apresentou os seguintes saldos nas contas de resultado extraídos do Balancete de Verificação em 31/12/2022: [lista de contas e valores]... Considerando somente as informações apresentadas e o disposto na Lei nº 6.404/1976, é correto afirmar que a Demonstração do Resultado do Exercício (DRE) de 2022 evidenciará Lucro Bruto e Resultado antes dos Tributos sobre o Lucro, respectivamente, de:",
+    "options": {
+      "A": "R$ 24.200,00 e R$ 15.600,00.",
+      "B": "R$ 26.000,00 e R$ 15.630,00.",
+      "C": "R$ 27.800,00 e R$ 18.620,00.",
+      "D": "R$ 28.000,00 e R$ 17.630,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Uma sociedade empresária apresentou os seguintes saldos patrimoniais extraídos do Balancete de Verificação, em 31/12/2022, após a apuração do resultado do exercício: [lista de contas e valores]... Considerando, unicamente, as informações disponibilizadas anteriormente e o disposto na Lei nº 6.404/1976, é correto afirmar que o Ativo Não Circulante – Imobilizado e o Patrimônio Líquido, em 31/12/2022, correspondem, respectivamente, a:",
+    "options": {
+      "A": "R$ 17.800,00 e R$ 18.500,00.",
+      "B": "R$ 22.400,00 e R$ 27.700,00.",
+      "C": "R$ 22.900,00 e R$ 14.500,00.",
+      "D": "R$ 23.300,00 e R$ 21.500,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma sociedade empresária que atua exclusivamente como papelaria apresentava os seguintes saldos no Ativo, em seu Balanço Patrimonial, em 31/12/2022: [lista de ativos]... Considerando, unicamente, as informações disponibilizadas e o disposto na Lei nº 6.404/1976, assinale a alternativa que indica o total do Ativo Circulante em 31/12/2022:",
+    "options": {
+      "A": "R$ 60.000,00.",
+      "B": "R$ 66.000,00.",
+      "C": "R$ 72.000,00.",
+      "D": "R$ 82.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "De acordo com a Lei nº 6.404/1976 e alterações posteriores, ao fim de cada exercício social, a diretoria de uma entidade irá elaborar, com base na escrituração mercantil da companhia, determinadas demonstrações financeiras, que deverão exprimir com clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício. Em relação à Demonstração de Lucros ou Prejuízos Acumulados, é correto afirmar que:",
+    "options": {
+      "A": "Indica a formação e a utilização de todas as reservas.",
+      "B": "Pode ser incluída na Demonstração do Resultado do Exercício.",
+      "C": "Deve indicar o montante do dividendo por ação do capital social.",
+      "D": "Fornece as movimentações ocorridas em todas as contas do patrimônio líquido."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma joalheria tinha a receber R$ 50.000,00 de um cliente, em fevereiro de 2023, por uma venda realizada em janeiro do mesmo ano. O cliente não honrou o compromisso na data aprazada, quitando sua dívida diretamente com a joalheria, em abril de 2023, pelo montante de R$ 53.000,00. Na Demonstração do Resultado do Exercício (DRE) da joalheria, os R$ 3.000,00 devem ser reconhecidos como:",
+    "options": {
+      "A": "Outras Receitas.",
+      "B": "Receita de Vendas.",
+      "C": "Receita Financeira.",
+      "D": "Despesa Administrativa."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma loja apresentava, em 31/12/2021, o seguinte Balanço Patrimonial: [BP 2021]... Em 31/12/2022, o Balanço Patrimonial e a Demonstração do Resultado do Exercício (DRE) eram os seguintes: [BP 2022 e DRE 2022]... Considerando, unicamente, as informações disponibilizadas e as disposições da NBC TG 03 (R3) – Demonstrações dos Fluxos de Caixa (DFC), assinale a alternativa que indica o fluxo de caixa gerado ou consumido pela atividade operacional no ano de 2022:",
+    "options": {
+      "A": "Gerado: R$ 41.000,00.",
+      "B": "Gerado: R$ 50.000,00.",
+      "C": "Consumido: R$ 46.000,00.",
+      "D": "Consumido: R$ 50.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Ao final do exercício de 2022, determinada sociedade S/A apresentou os seguintes saldos em suas contas contábeis: [lista de contas e valores]... Considerando, exclusivamente, as informações anteriormente disponibilizadas, informe o total do Ativo Não Circulante.",
+    "options": {
+      "A": "R$ 2.108.212,50",
+      "B": "R$ 2.295.112,50",
+      "C": "R$ 2.320.162,50",
+      "D": "R$ 2.437.612,50"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "A Cia. Alfa e Ômega é uma empresa comercial que trabalha com revenda de material esportivo. [detalhes dos estoques e transações]... Com base nos dados fornecidos, é correto afirmar que, em 31/12/2022, o valor em Estoque do tênis Future com base no método de controle 'Primeiro a Entrar, Primeiro a Sair' (PEPS) e o valor do Custo das Mercadorias Vendidas (CMV) no mês de dezembro/2022 são, respectivamente:",
+    "options": {
+      "A": "R$ 17.820,00 e R$ 66.270,00.",
+      "B": "R$ 17.820,00 e R$ 67.200,00.",
+      "C": "R$ 18.750,00 e R$ 72.750,00.",
+      "D": "R$ 20.250,00 e R$ 71.250,00."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Considerando os dados fornecidos na questão anterior relativos à Cia. Alfa e Ômega, e utilizando o método de controle de estoques 'Média Ponderada Móvel (MPM)' ao invés do PEPS, é correto afirmar que, em 31/12/2022, o valor em Estoque do tênis Future e o valor do Custo das Mercadorias Vendidas (CMV) no mês de dezembro são, respectivamente:",
+    "options": {
+      "A": "R$ 18.218,57 e R$ 66.801,43.",
+      "B": "R$ 18.861,43 e R$ 69.158,57.",
+      "C": "R$ 19.607,14 e R$ 71.892,86.",
+      "D": "R$ 20.250,00 e R$ 74.250,00."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Sobre a classificação e a nomenclatura aplicadas à Contabilidade de Custos, analise as afirmativas a seguir. I. O custo de determinado insumo é classificado como 'direto' quando for necessário alocá-lo de forma estimada aos produtos acabados. II. O conceito de 'custos de transformação' engloba todos os gastos incorridos pela entidade no processo de transformação da matéria-prima em um produto acabado, ou seja, os custos com mão de obra direta e os custos indiretos de produção. III. Quando o custo total de determinado insumo varia de forma diretamente proporcional à quantidade produzida no período, estaremos diante do conceito de custo variável. Está correto o que se afirma em",
+    "options": {
+      "A": "I, II e III.",
+      "B": "II, apenas.",
+      "C": "III, apenas.",
+      "D": "II e III, apenas."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Trata-se do método de custeio derivado da aplicação do Princípio da Competência, sendo o único aceito pela legislação fiscal brasileira para apuração do resultado do exercício. Nessa configuração de custeio, os gastos incorridos na produção de produtos acabados, sejam fixos, variáveis, diretos ou indiretos, não são levados ao resultado enquanto não houver a venda dos referidos produtos. As informações se referem ao Custeio:",
+    "options": {
+      "A": "RKW.",
+      "B": "Total.",
+      "C": "Direto.",
+      "D": "Por Absorção."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Considere, hipoteticamente, que, no ano de 2022, a União pagou R$ 2 bilhões relativos a Juros sobre operações de crédito efetivamente contratadas. Com base no disposto no Manual de Contabilidade Aplicada ao Setor Público – MCASP, 9ª Edição/2021, assinale a alternativa que apresenta a correta classificação por natureza dessa despesa orçamentária sobre a categoria econômica; o grupo; e, o elemento da despesa, respectivamente.",
+    "options": {
+      "A": "Despesa Corrente; Juros e Encargos da Dívida; e, Juros sobre a Dívida por Contrato.",
+      "B": "Despesa de Capital; Juros e Encargos da Dívida; e, Juros sobre a Dívida por Contrato.",
+      "C": "Despesa Corrente; Outras Despesas Correntes; e, Outros Encargos sobre a Dívida por Contrato.",
+      "D": "Despesa de Capital; Juros e Encargos da Dívida; e, Outros Encargos sobre a Dívida por Contrato."
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "A Demonstração dos Fluxos de Caixa (DFC) apresenta as entradas e saídas de caixa e as classifica em fluxos operacional, de investimento e de financiamento. [detalhes sobre DFC]... Considere, hipoteticamente, que determinado Estado brasileiro incorreu nas atividades de ingressos e de desembolsos dos fluxos de caixa a seguir: [lista de fluxos]... Com base, unicamente, nas informações disponibilizadas e nas disposições do Manual de Contabilidade Aplicada ao Setor Público – MCASP, 9ª Edição/2021, assinale a alternativa que apresenta o resultado do Fluxo de Caixa das atividades de financiamento.",
+    "options": {
+      "A": "R$ 40,00.",
+      "B": "R$ 70,00.",
+      "C": "R$ 75,00.",
+      "D": "R$ 135,00."
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Depois de reconhecidas as receitas públicas orçamentárias, podem ocorrer fatos supervenientes a ensejar a necessidade de restituições das receitas. [detalhes sobre restituição]... Considere uma situação hipotética, em que determinado município tenha recebido e efetuado o devido registro de receitas de transferências de recursos públicos da União, em duas parcelas: R$ 80.000,00 em 2022 e R$ 20.000,00 em janeiro de 2023. Em 16/02/2023, por ocasião de um ofício de notificação da União, o município deverá devolver R$ 26.000,00 ao Governo Federal. Qual a contabilização correta dessa restituição, por parte do município, no exercício de 2023, em conformidade com os procedimentos contábeis referentes à restituição da receita orçamentária?",
+    "options": {
+      "A": "Contabilização do valor de R$ 26.000,00 como dedução da receita.",
+      "B": "Contabilização do valor de R$ 26.000,00 como despesa orçamentária.",
+      "C": "Contabilização de R$ 20.000,00 como dedução de receita e contabilização de R$ 6.000,00 como despesa orçamentária.",
+      "D": "Contabilização de R$ 20.800,00 como dedução da receita de 2022 e contabilização de R$ 5.200,00 como dedução da receita de 2023."
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "A Cia. Matraca deseja participar de um Pregão estadual; um dos requisitos de habilitação exigido dos concorrentes é que apresentem índice de liquidez corrente mínimo de 1,20 no encerramento do último exercício social. [detalhes do balanço]... Considerando as informações disponibilizadas, é possível concluir que o Índice de Liquidez Corrente da Cia. Matraca na data do Balanço era",
+    "options": {
+      "A": "1,50 e a empresa cumpria os requisitos do Pregão.",
+      "B": "0,92 e a empresa não cumpria o requisito do Pregão.",
+      "C": "aproximadamente 1,08 e a empresa não cumpria os requisitos do Pregão.",
+      "D": "superior a 1,20, o que faz com que a empresa cumpra o requisito para habilitação."
+    },
+    "discipline": "Análise das Demonstrações Contábeis",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Determinada empresa vende cinco diferentes cores de bicicleta. Cada cor tem preços de venda e estrutura de custos distintas, conforme demonstrado no quadro a seguir: [dados das bicicletas]... Considerando, exclusivamente, as informações anteriores, que há demanda por todos os modelos e, ainda, restrição de horas na máquina de pintura, informe, respectivamente, qual modelo mais contribui e qual modelo menos contribui para o lucro líquido da empresa.",
+    "options": {
+      "A": "Amarelo e azul.",
+      "B": "Amarelo e verde.",
+      "C": "Verde e amarelo.",
+      "D": "Branco e vermelho."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Buscando acompanhar a sua trajetória econômica, determinada empresa utilizou o Economic Value Added (EVA®) para saber se havia ou não adicionado valor aos seus acionistas nos anos 2021 e 2022. [dados para cálculo do EVA]... Considerando, única e exclusivamente, as informações apresentadas, assinale a alternativa que evidencia o correto valor do EVA® em 2021 e 2022, respectivamente.",
+    "options": {
+      "A": "R$ 369.000,00 e R$ 16.000,00.",
+      "B": "R$ 380.600,00 e –R$ 73.800,00.",
+      "C": "R$ 426.800,00 e –R$ 186.000,00.",
+      "D": "R$ 450.600,00 e –R$ 243.800,00."
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Considerando o disposto em legislação vigente sobre crédito tributário, assinale a afirmativa correta.",
+    "options": {
+      "A": "A imposição de penalidade por parte da autoridade pública competente lide o pagamento integral do crédito tributário.",
+      "B": "O pagamento de um determinado crédito importa em presunção de pagamento total de outros créditos referentes ao mesmo ou a outros tributos.",
+      "C": "É vedado, legalmente, que sujeitos ativos e passivos de obrigações tributárias celebrem transação que, mediante concessões mútuas, importe em determinação de litígio e possa extinguir crédito tributário.",
+      "D": "Se determinado sujeito passivo tiver, simultaneamente, dois ou mais débitos vencidos com uma mesma pessoa jurídica de direito público, a autoridade administrativa competente para receber os valores devidos poderá determinar que sejam imputados, primeiramente, os débitos por obrigação própria e, somente depois, os débitos decorrentes de responsabilidade tributária."
+    },
+    "discipline": "Direito Tributário",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Tendo por base as disposições do Código Tributário Nacional, o qual dispõe sobre o Sistema Tributário Nacional e institui normas gerais de direito tributário, assinale a afirmativa correta.",
+    "options": {
+      "A": "O crédito tributário nasce da obrigação principal, mas não tem a mesma natureza desta.",
+      "B": "O crédito tributário regularmente constituído somente se modifica ou extingue por ordem expressa do profissional de contabilidade.",
+      "C": "Compete, privativamente, ao profissional de contabilidade constituir o crédito tributário por meio de procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação.",
+      "D": "As circunstâncias que modificam o crédito tributário, sua extensão ou seus efeitos, ou as garantias ou os privilégios a ele atribuídos, ou que excluem sua exigibilidade não afetam a obrigação tributária que lhe deu origem."
+    },
+    "discipline": "Direito Tributário",
+    "correctAnswer": "D"
+  },
+    {
+    "question": "Em atenção à legislação e normativos vigentes associados ao processo contábil, assinale a afirmativa correta.",
+    "options": {
+      "A": "A Conta 'Adiantamento de Clientes' é do Passivo Circulante, não sendo plausível e legalmente permitido o registro de tal obrigação no Passivo Não Circulante.",
+      "B": "É consenso a interpretação quanto ao registro de adiantamento de clientes, pois representa um direito da empresa e, como tal, tem de ser registrado, unicamente, em conta do Ativo.",
+      "C": "As antecipações recebidas de clientes devem ser registradas como um passivo, pois representam obrigação presente que se espera resultar na saída de recursos da entidade (entrega de bem ou prestação de serviço).",
+      "D": "Caso o adiantamento de clientes seja em decorrência de contrato com cliente no exterior, o valor em moeda estrangeira deve ser convertido em moeda nacional pela taxa de câmbio da data em que a entidade enviar a mercadoria ao exterior."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "A amostragem em auditoria pode ser entendida como a aplicação de procedimentos de auditoria sobre uma parte da totalidade dos itens que compõem o saldo de uma conta, ou classe de transações, para permitir que o auditor obtenha e avalie a evidência de auditoria sobre algumas características dos itens selecionados para formar uma conclusão sobre a população. Ao considerar as características da população da qual a amostra será retirada, o profissional pode determinar que a estratificação ou a seleção com base em valores é apropriada. Sobre o uso das técnicas de estratificação, analise as afirmativas a seguir. I. O objetivo da estratificação é o de reduzir a variabilidade dos itens de cada estrato e, portanto, permitir que o tamanho da amostra seja diminuído sem aumentar o risco de amostragem. II. A estratificação permite que o auditor dirija esforços de auditoria para os itens que contenham maior potencial de erro, por exemplo, os itens de maior valor que compõem o saldo de contas a receber, para detectar distorções relevantes. III. Para aumentar a precisão e a representatividade da amostragem em auditoria, os resultados dos procedimentos de auditoria aplicados a uma amostra de itens dentro de um estrato são projetados para os itens que compõem toda a população. Está correto o que se afirma em",
+    "options": {
+      "A": "I, II e III.",
+      "B": "I, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas."
+    },
+    "discipline": "Auditoria Contábil",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Todo gestor, antes de decidir por investir ou não, precisa fazer a estimativa do payback. Esse indicador é um importante fator dentro da análise de viabilidade de qualquer iniciativa, sendo essencial na hora de decidir a atratividade de um investimento. Considerando o payback, analise as afirmativas a seguir. I. Quanto menor for o payback, menor é o risco e maior é a atratividade do investimento. II. O payback é mais utilizado em projetos de longo prazo, ideal para negócios de grande porte ou complexos. Assinale a alternativa correta.",
+    "options": {
+      "A": "As duas afirmativas são falsas.",
+      "B": "As duas afirmativas são verdadeiras.",
+      "C": "A afirmativa I é falsa e a afirmativa II é verdadeira.",
+      "D": "A afirmativa I é verdadeira e a afirmativa II é falsa."
+    },
+    "discipline": "Análise de Investimentos",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "De acordo com a NBC TG Estrutura Conceitual – Estrutura Conceitual para Relatório Financeiro, receitas e despesas são os elementos das demonstrações contábeis que se referem ao desempenho financiero da entidade. As receitas são aumentos nos ativos ou reduções nos passivos, que resultam em aumentos no patrimônio líquido, EXCETO aqueles referentes a:",
+    "options": {
+      "A": "Vendas de itens do ativo imobilizado.",
+      "B": "Contribuições de detentores de direitos sobre o patrimônio.",
+      "C": "Reconhecimento do resultado positivo de sociedades controladas.",
+      "D": "Prestação de serviços que não representam a atividade fim da entidade."
+    },
+    "discipline": "Teoria da Contabilidade",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Em 05/01/2023, determinada academia de ginástica adquiriu um aparelho de musculação por R$ 50.000,00 com a intenção de utilizá-lo durante cinco anos. [detalhes dos custos adicionais]... Tendo por base as disposições da NBC TG 27 (R4) – Ativo Imobilizado, assinale a alternativa que indica o custo do aparelho de musculação contabilizado no balanço patrimonial da academia de ginástica na data de aquisição.",
+    "options": {
+      "A": "R$ 52.000,00.",
+      "B": "R$ 56.000,00.",
+      "C": "R$ 61.000,00.",
+      "D": "R$ 69.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma sociedade empresária apresentou as seguintes operações referentes ao mês de maio/2023: [lista de operações]... Considerando as informações apresentadas e o disposto na NBC TG – Estrutura Conceitual Básica, na NBC TG 26 – Apresentação das Demonstrações Contábeis e na Lei nº 6.404/1976, o resultado operacional (lucro ou prejuízo), somente do mês de maio/2023, corresponde a:",
+    "options": {
+      "A": "R$ 1.200,00.",
+      "B": "R$ 3.200,00.",
+      "C": "(R$ 9.200,00).",
+      "D": "R$ 11.200,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma sociedade empresária apresentava, em 31/12/2021, um Patrimônio Líquido composto pelo Capital Social de R$ 50.000,00 e pela Reserva Legal de R$ 4.250,00. Em 31/12/2022, apresentou as seguintes informações: [dados do exercício]... Considerando somente as informações apresentadas e o disposto na NBC TG – Estrutura Conceitual Básica e na Lei nº 6.404/1976 – Lei das Sociedades por Ações, o valor a ser distribuído como dividendo mínimo obrigatório referente ao exercício de 2022 foi:",
+    "options": {
+      "A": "R$ 5.000,00.",
+      "B": "R$ 5.700,00.",
+      "C": "R$ 6.000,00.",
+      "D": "R$ 6.300,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Com base no que dispõe a NBC PG 100 (R1) – Cumprimento do Código, dos Princípios Fundamentais e da Estrutura Conceitual, quando o profissional de contabilidade se torna solidário aos interesses do cliente ou aceita seu trabalho sem muito questionamento devido ao relacionamento próximo ou longo junto a ele, resta configurada ameaça de:",
+    "options": {
+      "A": "Intimidação.",
+      "B": "Autorrevisão.",
+      "C": "Familiaridade.",
+      "D": "Interesse do cliente."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Conforme disposições da NBC PG 200 (R1) – Contadores Empregados (Contadores Internos), o profissional de contabilidade sênior deve exercer julgamento profissional para determinar a necessidade; a natureza; e, a extensão de ações adicionais. [detalhes sobre ações adicionais]... Concemente às ações adicionais que esse profissional sênior pode tomar, marque V para as verdadeiras e F para as falsas. ( ) Desligar-se da organização empregadora. ( ) Informar à administração da controladora sobre o assunto, se a organização empregadora for membro de grupo. ( ) Divulgar o assunto para autoridade competente mesmo quando não houver exigência legal ou regulatória nesse sentido. A sequência está correta em",
+    "options": {
+      "A": "F, V, V.",
+      "B": "V, F, F.",
+      "C": "V, V, V.",
+      "D": "F, F, F."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "À luz do que dispõe a NBC PA 400 – Independência para o Trabalho de Auditoria e Revisão, assinale a afirmativa INCORRETA.",
+    "options": {
+      "A": "A firma que realiza trabalho de auditoria deve é ser independente.",
+      "B": "A independência está vinculada ao princípio da integridade, mas não ao princípio da objetividade.",
+      "C": "Uma entidade pode se tornar entidade relacionada de cliente de auditoria em decorrência de fusão ou aquisição.",
+      "D": "A independência de pensamento é a postura que permite a apresentação de conclusão que não sofra efeitos de influências que comprometam o julgamento profissional, permitindo que a pessoa atue com integridade, objetividade e ceticismo profissional."
+    },
+    "discipline": "Auditoria Contábil",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "De acordo com a NBC PG 12 (R3), a Educação Profissional Continuada (EPC) é a atividade que visa manter, atualizar e expandir os conhecimentos e as competências técnicas e profissionais; as habilidades multidisciplinares; e, a elevação do comportamento social, moral e ético dos profissionais da contabilidade, como características indispensáveis à qualidade dos serviços prestados e ao pleno atendimento das normas que regem o exercício da profissão contábil. Dentre as afirmativas a seguir, assinale a que apresenta corretamente uma diretriz básica do Programa de Educação Profissional Continuada (PEPC).",
+    "options": {
+      "A": "Desestímulo à ampliação do universo de entidades capacitadoras.",
+      "B": "Obrigatoriedade de filiação a entidades fiscalizadoras para obtenção de apoio ao Programa de Educação Profissional Continuada – PEPC.",
+      "C": "Determinação para que a capacitação possa ser executada, exclusivamente, pelo próprio Conselho Federal de Contabilidade ou pelos Conselhos Regionais de Contabilidade.",
+      "D": "Estabelecimento de uniformidade de critérios para a estrutura das atividades de qualificação profissional no âmbito Conselho Federal de Contabilidade e dos Conselhos Regionais de Contabilidade."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "As Normas Brasileiras de Contabilidade classificam e conceituam dois tipos de contadores: contador interno e externo. A esse respeito, e, ainda, considerando o disposto na NBC PG 200 (R1) que dispõe sobre contadores empregados (contadores internos), assinale a afirmativa correta.",
+    "options": {
+      "A": "O profissional da contabilidade em empresas pode ser empregado, contratado, parceiro, diretor, gerente-proprietário, mas nunca voluntário de organização empregadora.",
+      "B": "A forma legal da relação do profissional da contabilidade com a organização empregadora não tem qualquer relação com as responsabilidades éticas atribuídas ao referido profissional.",
+      "C": "Quanto mais alto o cargo do profissional de contabilidade, menor será a sua capacidade de influenciar as políticas, as decisões e as ações a serem tomadas em prol da organização empregadora.",
+      "D": "Ao desenvolver atividades que não requerem a observância de estrutura de relatório relevante, o profissional da contabilidade estará impedido de exercer julgamento profissional que vise identificar a finalidade para a qual as informações serão usadas."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "A NBC PG 100 (R1) dispõe sobre o cumprimento do Código, dos Princípios Fundamentais e da Estrutura Conceitual. De acordo com as disposições do Código de Ética Profissional dos Profissionais da Contabilidade, assinale a afirmativa INCORRETA.",
+    "options": {
+      "A": "A aplicação de salvaguardas é uma forma pela qual as ameaças podem essere tratadas.",
+      "B": "As salvaguardas são medidas únicas, isoladas e adotadas, caso a caso, pelo profissional da contabilidade e extinguem completamente as ameaças.",
+      "C": "A estrutura conceitual se aplica à identificação, à avaliação e ao tratamento tanto de ameaças à independência quanto de ameaças ao cumprimento dos princípios fundamentais.",
+      "D": "A estrutura conceitual reconhece que políticas e procedimentos estabelecidos pela profissão, pela legislação, pela regulamentação, pela firma ou organização empregadora podem afetar a identificação de ameaças por parte do profissional de contabilidade."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "O cumprimento dos princípios éticos pode ser ameaçado por circunstâncias e relacionamentos. De acordo com a NBC PG 200 (R1), é considerado exemplo de circunstância que pode criar ameaça de intimidação ao profissional de contabilidade:",
+    "options": {
+      "A": "Participação em acordos de remuneração com base em incentivos oferecidos pela organização empregadora.",
+      "B": "Desacordo sobre a aplicação de princípio contábil ou sobre a maneira que as informações financeiras devem ser divulgadas.",
+      "C": "Responsabilidade pela determinação do tratamento contábil apropriado para uma combinação de negócios, após conduzir o estudo de viabilidade que fundamentou a decisão de aquisição.",
+      "D": "Ser responsável pelos relatórios financeiros da organização empregadora, quando familiar imediato ou próximo, contratado pela entidade, tomar decisões que afetam os relatórios financeiros da organização."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "De acordo com a NBC TG Estrutura Conceitual, sob o conceito de manutenção de capital físico, quando o capital é definido em termos de capacidade produtiva física, o lucro representa o aumento desse capital ao longo do período. Nesse sentido, as mudanças de preços que afetem os ativos e passivos da entidade são vistas como mudanças na mensuração da capacidade produtiva física da entidade; portanto, elas devem ser tratadas como:",
+    "options": {
+      "A": "Resultados não operacionais e inscritos no patrimônio líquido.",
+      "B": "Receitas que contribuirão para composição do caixa da empresa.",
+      "C": "Lucros e que não fazem parte da demonstração do resultado do exercício.",
+      "D": "Ajustes para manutenção de capital que fazem parte do patrimônio líquido."
+    },
+    "discipline": "Teoria da Contabilidade",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Visando defender a importância de uma auditoria de demonstrações contábeis, um estudante de contabilidade fez as seguintes afirmações; analise-as. I. A auditoria detalha a realidade da organização e, com isso, assegura a sua viabilidade futura. II. Com uma boa auditoria consegue-se minimizar problemas com a fiscalização e garantir a eficiência com a qual a administração conduzirá os negócios da entidade. III. Em auditorias de demonstrações contábeis, é legalmente vedado ao auditor emitir opinião sobre a eficácia do controle interno. Está INCORRETO o que se afirma em",
+    "options": {
+      "A": "I, II e III.",
+      "B": "II, apenas.",
+      "C": "III, apenas.",
+      "D": "I e II, apenas."
+    },
+    "discipline": "Auditoria Contábil",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Considerando a responsabilidade do auditor em emitir um relatório apropriado nas circunstâncias em que, ao formar uma opinião sobre as demonstrações contábeis, conclui que é necessária uma modificação em seu ponto de vista, marque V para as afirmativas verdadeiras e E para as falsas. ( ) Ao finalizar os trabalhos, em virtude da natureza do assunto e pelo fato das demonstrações contábeis apresentarem distorção relevante, o auditor decide pela abstenção de opinião, o que significa que no relatório não existirá opinião de auditoria. ( ) O auditor contábil deve abster-se de incluir qualquer opinião no relatório de auditoria, quando conseguir obter evidência suficiente de que as distorções existentes nas demonstrações contábeis não são relevantes. ( ) Quando o auditor considerar necessário expressar uma 'opinião adversa' sobre as demonstrações contábeis como um todo, o seu relatório não deve conter, também, uma opinião não modificada com relação à mesma estrutura de relatório financeiro sobre quadro isolado das demonstrações contábeis. A sequência está correta em",
+    "options": {
+      "A": "F, F, V.",
+      "B": "F, V, F.",
+      "C": "V, V, V.",
+      "D": "V, F, F."
+    },
+    "discipline": "Auditoria Contábil",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Recentemente contratado pela empresa Alpha, em análise à documentação que lhe foi entregue, determinado contador, com vasta experiência em perícia contábil, se deparou com algumas situações peculiares; analise-as. I. A empresa Alpha efetuou a retenção das contribuições previdenciárias de seus colaboradores (empregados) durante todo o exercício de 2021 e nos seis primeiros meses de 2022. Contudo, não efetuou o devido recolhimento desses valores à Previdência Social. [detalhes da situação I]... II. Lourenço, dono da empresa Alpha, vendeu determinado imóvel de sua propriedade para Giovanna, não efetuando prova de quitação dos tributos incidentes sobre o bem negociado e, Giovanna, por sua vez, não fez o devido registro da negociação do imóvel junto ao cartório e nem comunicou a aquisição junto à prefeitura. [detalhes da situação II]... III. A construção de uma clínica de recuperação de dependentes químicos na zona rural de determinado município provocou a desvalorização do sítio de propriedade de Lourenço, dono da empresa Alpha, que o vendeu com enorme prejuízo. [detalhes da situação III]... Está correto o que se afirma em",
+    "options": {
+      "A": "I, II e III.",
+      "B": "II, apenas.",
+      "C": "III, apenas.",
+      "D": "I e II, apenas."
+    },
+    "discipline": "Noções de Direito e Legislação Aplicada",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Considerando as disposições do Código de Processo Civil aplicáveis à Perícia Contábil, assinale a afirmativa correta.",
+    "options": {
+      "A": "A prova pericial é resultado de trabalhos de alta complexidade e não deve ser, jamais, confundida ou relacionada a trabalhos de vistoria e avaliação.",
+      "B": "Se o ponto controverso de determinado fato a ser apurado for de extrema complexidade, o juiz deverá, de ofício ou a requerimento das partes, apenas inquirir especialistas.",
+      "C": "Quando a prova de determinado fato não depender de conhecimento especial de técnico, as provas produzidas forem suficientes para convicção do juiz ou a verificação dos fatos a serem apurados for impraticável, o juiz indeferirá a realização de perícia.",
+      "D": "Quando a prova do fato a ser apurado depender de conhecimento técnico e científico, mesmo que de menor complexidade, o juiz estará obrigado a determinar a elaboração de prova pericial, não podendo dispensar a assistência de perito ou determinar a adoção de trabalho técnico simplificado."
+    },
+    "discipline": "Perícia Contábil",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Aprender, aprender, aprender [texto da entrevista]... A partir das escolhas linguísticas empregadas no texto e de suas demais características estruturais, pode-se afirmar que:",
+    "options": {
+      "A": "A escolha do tipo de linguagem, predominantemente empregada, possui associação diretamente relacionada às expectativas advindas do gênero textual que se apresenta caracterizado no texto.",
+      "B": "Quanto à sua finalidade, observa-se a busca, principalmente, por experiências pessoais e subjetivas a partir da constatação de destaque em área do conhecimento explorada no contexto apresentado.",
+      "C": "A interação estabelecida entre entrevistado e entrevistador torna-se fundamental para que a aquisição e troca de conhecimentos de forma recíproca seja confirmada como estratégia persuasiva em tal tipo textual.",
+      "D": "É possível reconhecer que a construção do texto apresentado requer um planejamento prévio em que dados relevantes são considerados de acordo com a exigência do tema abordado, diferentemente do que ocorreria caso o tema se referisse a uma área diferente do conhecimento."
+    },
+    "discipline": "Língua Portuguesa Aplicada",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Em relação aos marcos temporais explicitados por meio do emprego dos tempos e modos verbais expressos no texto, pode-se afirmar que: I. O entrevistado emprega apenas formas verbais que denotam fatos situados em equivalência temporal, contribuindo para a objetividade e clareza na transmissão do conteúdo abordado. II. No primeiro período da resposta dada pelo entrevistado, as formas verbais, no presente do indicativo, constituem expressão de conteúdo reflexivo, opinativo. III. O emprego do pretérito perfeito expressa possibilidades reais mediante conquistas na área contábil, além de ênfase às ações expressas por meio do tempo verbal citado. Está correto o que se afirma em",
+    "options": {
+      "A": "I, II e III.",
+      "B": "II, apenas.",
+      "C": "III, apenas.",
+      "D": "I e III, apenas."
+    },
+    "discipline": "Língua Portuguesa Aplicada",
+    "correctAnswer": "B"
+  }
+]

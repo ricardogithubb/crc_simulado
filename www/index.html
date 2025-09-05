@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador CRC - Contabilidade</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body class="p-0">
+    <!-- Cabeçalho fixo -->
+    <header class="app-header">
+        <div class="container text-center">
+            <h1>CRC Simulado 2025</h1>
+        </div>
+    </header>
+
+    <!-- Cabeçalho da disciplina (será mostrado apenas na tela de questões) -->
+    <div id="discipline-header" class="discipline-header hidden">
+        <div class="container text-center">
+            <h2 id="current-discipline-name"></h2>
+        </div>
+    </div>
+
+    <div class="container container-main">
+        <!-- Tela de boas-vindas -->
+        <div id="welcome-screen">
+            <div class="welcome-screen">
+                <div class="app-logo">
+                    <i class="fas fa-graduation-cap"></i>
+                </div>
+                <h1 class="app-title">CRC Simulado 2025</h1>
+                <p class="app-subtitle">Prepare-se para o exame do CRC com questões dos últimos 5 exames</p>
+                
+                <ul class="features-list">
+                    <li><i class="fas fa-check-circle"></i> Questões atualizadas dos últimos exames CRC</li>
+                    <li><i class="fas fa-check-circle"></i> Simulados por disciplina específica</li>
+                    <li><i class="fas fa-check-circle"></i> Feedback imediato sobre suas respostas</li>
+                    <li><i class="fas fa-check-circle"></i> Acompanhamento de seu desempenho</li>
+                </ul>
+                
+                <button id="welcome-start-button" class="start-btn">Iniciar Simulado</button>
+                
+                <div class="mt-5">
+                    <p class="text-muted">© 2025 - CRC Questões - Sua preparação para o exame de CRC</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Tela de seleção de disciplina -->
+        <div id="discipline-screen" class="hidden">
+            <button id="back-button-welcome" class="back-button">Voltar</button>
+            <div class="discipline-selector">
+                <h2 class="discipline-title">Selecione a Disciplina</h2>
+                <div class="disciplines-container" id="disciplines-container">
+                    <!-- As opções de disciplina serão geradas pelo JavaScript -->
+                </div>
+                <button id="start-button" class="start-button" disabled>Iniciar Simulado</button>
+            </div>
+        </div>
+        
+        <!-- Tela de questões (inicialmente oculta) -->
+        <div id="quiz-screen" class="hidden">
+            <button id="back-button" class="back-button">Voltar</button>
+            
+            <!-- Área de questões com rolagem vertical -->
+            <div class="quiz-content">
+                <div class="progress-container">
+                    <div class="progress-text">
+                        <span class="current-question">Questão 1</span>
+                        <span class="total-questions">5</span>
+                    </div>
+                </div>
+                
+                <div class="question-container">
+                    <p class="question-text"></p>
+                    
+                    <div class="options-container">
+                        <div class="option" data-option="A">
+                            <div class="option-circle">A</div>
+                            <div class="option-text"></div>
+                        </div>
+                        <div class="option" data-option="B">
+                            <div class="option-circle">B</div>
+                            <div class="option-text"></div>
+                        </div>
+                        <div class="option" data-option="C">
+                            <div class="option-circle">C</div>
+                            <div class="option-text"></div>
+                        </div>
+                        <div class="option" data-option="D">
+                            <div class="option-circle">D</div>
+                            <div class="option-text"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <button class="next-button hidden">Próxima</button>
+            </div>
+        </div>
+        
+        <!-- Tela de resultados (inicialmente oculta) -->
+        <div id="score-screen" class="score-container hidden">
+            <h2 class="score-title">Simulado Finalizado!</h2>
+            <div class="score-value">0/5</div>
+            <button class="restart-button">Fazer Novo Simulado</button>
+        </div>
+    </div>
+
+    <!-- Modal Genérico -->
+    <div class="modal fade px-4" id="appModal" tabindex="-1" aria-labelledby="appModalLabel" aria-hidden="true" 
+        data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="appModalLabel">Aviso</h5>
+                <!-- ❌ Removemos o botão de fechar no canto -->
+            </div>
+            <div class="modal-body" id="appModalBody">
+                <!-- Mensagem será inserida pelo JS -->
+            </div>
+            <div class="modal-footer" id="appModalFooter">
+                <!-- Botões serão inseridos pelo JS -->
+            </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Bootstrap & jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="cordova.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>

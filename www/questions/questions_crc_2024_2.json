@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Um famoso escritor falou sobre a leitura: 'A leitura é para a mente o que a ginástica é para o corpo.' Com essa frase, o autor quer dizer que",
+    "options": {
+      "A": "exercícios físicos devem ser feitos todos os dias.",
+      "B": "a leitura, como a ginástica, deve ser feita diariamente.",
+      "C": "a leitura enriquece o nosso conhecimento.",
+      "D": "exercícios físicos e leitura fortalecem o corpo."
+    },
+    "discipline": "Língua Portuguesa Aplicada",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Assinale a frase que mostra uma expressão de causa devidamente explicada.",
+    "options": {
+      "A": "'De tanto que comeu, acabou passando mal'. / A expressão 'De tanto que' apresenta a causa de algo como resultado da insistência de uma ação.",
+      "B": "'Graças à chuva, as ruas ficaram alagadas'. / A expressão 'Graças a' apresenta a causa como algo positivo.",
+      "C": "'Ficou rico à custa de muito sacrifício'. / A expressão 'à custa de' indica a causa de algo conhecido pelo interlocutor.",
+      "D": "'Como haviam viajado bastante, eram bastante informados'. / O termo 'Como' indica a causa como algo posterior ao acontecimento."
+    },
+    "discipline": "Língua Portuguesa Aplicada",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Um povoado tem 50 habitantes, dos quais 30 são do sexo feminino. Se duas pessoas diferentes desse povoado forem aleatoriamente escolhidas, a probabilidade de que ambas sejam do sexo feminino é aproximadamente igual a",
+    "options": {
+      "A": "25%",
+      "B": "35%",
+      "C": "43%",
+      "D": "60%"
+    },
+    "discipline": "Matemática Financeira e Estatística",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Um capital inicial foi investido por um período. Ao fim da aplicação, o rendimento nominal foi de 80%, do qual deduziu-se imposto sobre o ganho de capital. A inflação acumulada nesse período foi de 5%. Se o ganho real dessa operação foi de 60%, é correto afirmar que a alíquota do imposto foi de",
+    "options": {
+      "A": "15%",
+      "B": "17,5%",
+      "C": "20%",
+      "D": "22,5%"
+    },
+    "discipline": "Matemática Financeira e Estatística",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "João vendera determinada mercadoria para Pedro, mas não recebeu o respectivo pagamento. Em razão da amizade que os unia, João estava relutante em ingressar com uma ação judicial para a cobrança do respectivo valor, mas, com a proximidade do prazo prescricional, ficou preocupado. Ao conversar com Pedro, foi dito a João que ele não deveria se preocupar, pois ele, Pedro, renunciaria à prescrição. Ao analisar a disciplina estabelecida no Código Civil brasileiro, João concluiu corretamente que a renúncia que Pedro se propôs a realizar:",
+    "options": {
+      "A": "não é admitida pela sistemática legal.",
+      "B": "deve ser expressa, sendo vedada a renúncia tácita.",
+      "C": "só pode ser realizada depois que a prescrição se consumar.",
+      "D": "pode ser realizada antes ou após a consumação da prescrição, sendo expressa ou tácita."
+    },
+    "discipline": "Noções de Direito e Legislação Aplicada",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "João e Maria, únicos sócios da sociedade empresária Alfa, da qual Pedro era o contador responsável, faleceram em um acidente automobilístico quando se dirigiam para Alfa, não se podendo averiguar qual deles faleceu primeiro. Como João e Maria mantinham uma relação de parentesco, o momento da morte influenciaria na vocação hereditária de um e outro, o que, por via reflexa, também teria reflexos na transmissão das cotas do capital social. Nesse caso, ao analisar a sistemática estabelecida no Código Civil, Pedro concluiu corretamente que, na definição da ordem de falecimento de João e Maria, deve-se presumir que",
+    "options": {
+      "A": "o mais velho faleceu primeiro.",
+      "B": "o mais jovem faleceu primeiro.",
+      "C": "faleceram ao mesmo tempo.",
+      "D": "o que teve o inventário aberto antes faleceu primeiro."
+    },
+    "discipline": "Noções de Direito e Legislação Aplicada",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Joana, contabilista, tomou ciência de que certo órgão colegiado de jurisdição administrativa, com competência para processar e julgar recursos interpostos contra decisões administrativas que tenham por objeto o imposto X, proferiu determinada decisão à qual a lei atribui eficácia normativa. Após analisar o Código Tributário Nacional em relação à entrada em vigor dos efeitos normativos da referida decisão, Joana concluiu corretamente que tais efeitos devem ocorrer, salvo disposição em contrário,",
+    "options": {
+      "A": "na data da sua publicação.",
+      "B": "trinta dias após a data da sua publicação.",
+      "C": "noventa dias após a data da sua publicação.",
+      "D": "no exercício financeiro seguinte à data da sua publicação."
+    },
+    "discipline": "Noções de Direito e Legislação Aplicada",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Considerando o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, em seu item 7, o contador deve estabelecer, por escrito, o valor dos serviços em suas propostas de prestação de serviços profissionais, considerando os elementos abaixo, à exceção de um. Assinale-o.",
+    "options": {
+      "A": "O tempo que será consumido para a realização do trabalho.",
+      "B": "A possibilidade de ficar impedido da realização de outros serviços.",
+      "C": "O resultado lícito favorável que, para o contratante, advirá com o serviço prestado.",
+      "D": "A peculiaridade de tratar-se de cliente imprevisto."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Considerando o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, em seu item 8, avalie se nas propostas para a prestação de serviços profissionais devem constar explicitamente: I. todos os serviços cobrados individualmente. II. o valor de cada serviço. III. a periodicidade. IV. a forma de reajuste. Estão corretos os itens:",
+    "options": {
+      "A": "I e II, apenas.",
+      "B": "III e IV, apenas.",
+      "C": "I, II e III, apenas.",
+      "D": "I, II, III e IV."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Avalie se o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, em seu item 20, prevê as seguintes penalidades: I. Advertência reservada; II. Advertência pública; III. Censura reservada; IV. Censura pública. Estão corretos os itens",
+    "options": {
+      "A": "I e II, apenas.",
+      "B": "I, III e IV.",
+      "C": "I, II e III.",
+      "D": "II, III e IV."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "A ética é fundamental no exercício da contabilidade, pois garante a integridade, a transparência e a confiança nas informações financeiras divulgadas, aspectos essenciais para o bom funcionamento das empresas e a stabilidade econômica. O papel da contabilidade na sociedade vai além do simples registro de transações, pois ela atua como um mecanismo de",
+    "options": {
+      "A": "controle.",
+      "B": "auditoria.",
+      "C": "manutenção.",
+      "D": "aproximação."
+    },
+    "discipline": "Legislação e Ética Profissional",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Considerado um fato relevante divulgado por uma empresa de capital aberto, a perspectiva de alto potencial de entrada de benefícios econômicos futuros na aquisição de um novo ativo operacional resultou em um aumento (de R$ 4,50 para R$ 60,50 no valor nominal) de suas ações negociadas em Bolsa de Valores no país e no exterior. Dois meses depois, verificou-se que tal fato relevante era falso e que o acionista majoritário tinha conhecimento disso, o que resultou em prejuízo de bilhões de reais para entidade e foi tratado como crime contra o mercado financeiro. Na divulgação inicial do fato relevante, a característica qualitativa fundamental que deixou de ser observada pela entidade foi a",
+    "options": {
+      "A": "comparabilidade.",
+      "B": "prudência.",
+      "C": "verificabilidade.",
+      "D": "representação fidedigna."
+    },
+    "discipline": "Teoria da Contabilidade",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Um investidor está analisando as demonstrações contábeis de uma sociedade empresária. O investidor tem disponível, para a sua análise, as demonstrações referentes a 31/12/2023, mas não as dos exercícios anteriores. Nesse caso, o investidor não poderá verificar a seguinte característica qualitativa:",
+    "options": {
+      "A": "relevância.",
+      "B": "tempestividade.",
+      "C": "comparabilidade.",
+      "D": "compreensibilidade."
+    },
+    "discipline": "Teoria da Contabilidade",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Leia o fragmento a seguir: Passivo é a obrigação ____ da entidade de transferir um recurso econômico como resultado de eventos _____. Assinale a opção cujos itens completam corretamente as lacunas do fragmento acima.",
+    "options": {
+      "A": "futura / presente",
+      "B": "futura / passados",
+      "C": "presente / futuros",
+      "D": "presente / passados"
+    },
+    "discipline": "Teoria da Contabilidade",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "A NBC TG Estrutura Conceitual – ESTRUTURA CONCEITUAL PARA RELATÓRIO FINANCEIRO indica o conceito financeiro e o conceito físico de capital. De acordo com a norma, a seleção do conceito apropriado de capital pela entidade deve ser baseada",
+    "options": {
+      "A": "na forma jurídica dos atos e fatos contábeis.",
+      "B": "na essência econômica dos atos e fatos contábeis.",
+      "C": "nas determinações das entidades reguladoras.",
+      "D": "nas necessidades dos usuários de suas demonstrações contábeis."
+    },
+    "discipline": "Princípios de Contabilidade e Normas Brasileiras de Contabilidade",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Com relação à Resolução CFC nº 1.328/11, que dispõe sobre a Estrutura das Normas Brasileiras de Contabilidade, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As Normas Brasileiras de Contabilidade classificam-se em Profissionais, Técnicas e Educacionais. ( ) As Normas Brasileiras de Contabilidade estabelecem preceitos de conduta profissional, procedimentos técnicos necessários para o adequado exercício profissional e metodologia para o ensino adequado das normas. ( ) As Normas Brasileiras de Contabilidade editadas pelo Conselho Federal de Contabilidade (CFC) devem seguir os mesmos padrões de elaboração e estilo utilizados nas normas internacionais e compreendem as Normas propriamente ditas, as Interpretações Técnicas e os Comunicados Técnicos. As afirmativas são, respectivamente,",
+    "options": {
+      "A": "F – V – V.",
+      "B": "V – F – V.",
+      "C": "V – V – F.",
+      "D": "F – F – V."
+    },
+    "discipline": "Princípios de Contabilidade e Normas Brasileiras de Contabilidade",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "De acordo com a NBC TG 27 (R4) – ATIVO IMOBILIZADO, o custo de um item do ativo imobilizado compreende, entre outros, quaisquer custos diretamente atribuíveis para colocar o ativo no local e as condições necessárias para ele ser capaz de funcionar da forma pretendida pela administração. Entre os custos diretamente atribuíveis estão os custos",
+    "options": {
+      "A": "de abertura de nova instalação.",
+      "B": "incorridos na introdução de novo produto ou serviço.",
+      "C": "com testes para verificar se o ativo está funcionando corretamente.",
+      "D": "da transferência das atividades para novo local ou para nova categoria de clientes."
+    },
+    "discipline": "Princípios de Contabilidade e Normas Brasileiras de Contabilidade",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "De acordo com a NBC TG 26 (R5) – APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS, a informação é material se sua omissão, distorção ou obscuridade pode influenciar, de modo razoável, decisões que os usuários primários das demonstrações contábeis de propósito geral tomam como base nessas demonstrações contábeis que fornecem informações financieras sobre relatório específico da entidade. Com base nesse enunciado, leia o fragmento a seguir. 'A materialidade depende da _____ ou ____ da informação, ou de ambas. A entidade avalia se a informação, individualmente ou em combinação com outra informação, é material no contexto das suas demonstrações contábeis tomadas como um todo.' Assinale a alternativa cujos itens completam corretamente as lacunas do fragmento acima.",
+    "options": {
+      "A": "rapidez - fonte.",
+      "B": "natureza - fonte.",
+      "C": "rapidez - magnitude.",
+      "D": "natureza - magnitude."
+    },
+    "discipline": "Princípios de Contabilidade e Normas Brasileiras de Contabilidade",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "A NBC TG 25 – PROVISÕES, PASSIVOS CONTINGENTES E ATIVOS CONTINGENTES ilustra o tratamento contábil quando uma obrigação presente ou possível da entidade envolve prazos ou valores incertos. Com base na referida norma, relacione o tratamento dado a cada situação a seguir com seu reconhecimento e divulgação. I. Há obrigação presente que provavelmente requer uma saída de recursos. II. Há obrigação possível ou obrigação presente que pode requerer, mas provavelmente não irá requerer, uma saída de recursos. III. Há obrigação possível ou obrigação presente cuja probabilidade de uma saída de recursos é remota. ( ) Não é reconhecida nenhuma provisão e não há obrigatoriedade de divulgação. ( ) Deve-se reconhecer a provisão e divulgar em nota explicativa. ( ) Não é reconhecida a provisão, mas é divulgado o fato em nota explicativa como passivo contingente. A relação correta, na ordem apresentada, é",
+    "options": {
+      "A": "III – I – II.",
+      "B": "III – II – I.",
+      "C": "II – I – III.",
+      "D": "I – III – II."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma sociedade empresária pode elaborar sua Demonstração dos Fluxos de Caixa de acordo com o método direto ou com o método indireto. De acordo com a NBC TG 03 (R3) – DEMONSTRAÇÃO DOS FLUXOS DE CAIXA, a diferença entre as duas demonstrações elaboradas consiste somente na apresentação",
+    "options": {
+      "A": "da atividade operacional.",
+      "B": "da atividade de investimento.",
+      "C": "da atividade de financiamento.",
+      "D": "do caixa e equivalentes de caixa."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Em 01/06/2024, uma joalheria adquiriu 40 anéis pelo valor unitário de R$ 800. O frete para a entrega e o seguro do transporte foram, respectivamente, de R$ 500 e R$ 1.600. Os valores foram pagos à vista pela joalheria. O custo do estoque no balanço patrimonial da joalheria, antes do início das vendas, é de",
+    "options": {
+      "A": "R$ 32.000.",
+      "B": "R$ 32.500.",
+      "C": "R$ 33.600.",
+      "D": "R$ 34.100."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Em 01/05/2022, uma loja de roupas pagou R$ 180.000 a terceiros, referentes ao aluguel antecipado de 3 anos do imóvel onde funcionava a sua loja, contados a partir da data de pagamento. Em 31/12/2023, a despesa antecipada de aluguel no ativo realizável a longo prazo da loja era",
+    "options": {
+      "A": "zero.",
+      "B": "R$ 20.000.",
+      "C": "R$ 60.000.",
+      "D": "R$ 80.000."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Em janeiro de 2024, a despesa relacionada a salários de uma sociedade empresária era de R$ 500.000. Desse valor, R$ 120.000 representava imposto de renda retido na fonte. Assinale a opção que indica o lançamento contábil realizado em 31/01/2024 para reconhecer os efeitos decorrentes do fato, considerando que os salários da entidade são pagos no 5º dia útil do mês seguinte ao do fato gerador.",
+    "options": {
+      "A": "D - Despesa de salários R$ 380.000 / D - Despesa de IR R$ 120.000 / C - salários a pagar R$ 500.000",
+      "B": "D - Despesa de salários R$ 380.000 / D - Despesa de IR R$ 120.000 / C - IR na fonte a recolher R$ 120.000 / C - salários a pagar R$ 380.000",
+      "C": "D - Despesa de salários R$ 500.000 / C - IR na fonte a recolher R$ 120.000 / C - salários a pagar R$ 380.000",
+      "D": "D - Despesa de salários R$ 500.000 / C - salários a pagar R$ 500.000"
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Assinale a opção que indica uma conta do passivo de uma entidade que não deve ser classificada como passivo circulante de acordo com a NBC TG 26 (R5) – APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS.",
+    "options": {
+      "A": "Imposto de renda diferido.",
+      "B": "Empréstimo contraído de diretor.",
+      "C": "Receita recebida antecipadamente.",
+      "D": "Adiantamento recebido de sociedade controlada."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma loja de roupas funciona em um imóvel alugado de terceiros. A despesa com aluguel é classificada na Demonstração do Valor Adicionado da loja como",
+    "options": {
+      "A": "insumos adquiridos de terceiros.",
+      "B": "remuneração de capitais próprios.",
+      "C": "remuneração de capitais de terceiros.",
+      "D": "depreciação, amortização e exaustão."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "De acordo com a NBC TG 36 (R3) – DEMONSTRAÇÕES CONSOLIDADAS, o investidor, independentemente da natureza de seu envolvimento com a investida, deve determinar se é controlador avaliando se controla a investida. Em relação ao controle, considere os itens a seguir: I. Poder sobre a investida. II. Exposição a, ou direitos sobre, retornos variáveis decorrentes de seu envolvimento com a investida. III. Capacidade de utilizar seu poder sobre a investida para afetar o valor de seus retornos. IV. Mais do que a metade das ações com poder de voto da investida. O investidor controla a investida se possuir os atributos apresentados em",
+    "options": {
+      "A": "I, II e IV, somente.",
+      "B": "I e III, somente.",
+      "C": "II, III e IV, somente.",
+      "D": "I, II e III, somente."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Um hospital localizado no Centro da cidade adquiriu um terreno ao lado de seu prédio para a construção de um estacionamento para ser utilizado, exclusivamente, pelos pacientes, de modo a oferecer melhor atendimento. No Balanço Patrimonial do hospital, o terreno deve ser classificado como",
+    "options": {
+      "A": "Ativo Imobilizado.",
+      "B": "Ativo Realizável a Longo Prazo.",
+      "C": "Propriedade para investimento.",
+      "D": "Ativo não circulante mantido para a venda."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Com relação às Demonstrações Financeiras, de acordo com a Lei nº 6.404/76 e modificações, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As demonstrações de cada exercício serão publicadas com a indicação dos valores correspondentes das demonstrações do exercício anterior. ( ) Nas demonstrações, não poderá haver agrupamento de contas semelhantes. ( ) As demonstrações financeiras registrarão a destinação dos lucros segundo a proposta dos órgãos da administração, e o valor será considerado definitivo. ( ) As demonstrações serão complementadas por notas explicativas e outros quadros analíticos ou demonstrações contábeis necessárias para esclarecimento da situação patrimonial e dos resultados do exercício. As afirmativas são, respectivamente,",
+    "options": {
+      "A": "V – V – F – F.",
+      "B": "V – F – F – V.",
+      "C": "F – V – F – V.",
+      "D": "V – F – V – F."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "O ativo fiscal diferido é o valor do tributo sobre o lucro recuperável em período futuro relacionado ao que se afirma a seguir, com exceção de",
+    "options": {
+      "A": "diferenças temporárias dedutíveis.",
+      "B": "diferenças temporárias tributáveis.",
+      "C": "compensação futura de prejuízos fiscais não utilizados.",
+      "D": "compensação futura de créditos fiscais não utilizados."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "A Cia. Verde Amarela é uma empresa brasileira que vende objetos relacionados à Seleção Masculina de Futebol. Em 31/12/2022, a empresa apresentou lucro líquido de R$ 800.000 em sua Demonstração do Resultado do Exercício. No entanto, estimou que o lucro apresentaria uma redução de 80% em 2023. Com a finalidade de segregar uma parcela do lucro em 2022, a Cia. Verde Amarela poderia constituir, em 31/12/2022,",
+    "options": {
+      "A": "reserva para contingências.",
+      "B": "reserva de lucros a realizar.",
+      "C": "reserva de lucros para expansão.",
+      "D": "ajuste de avaliação patrimonial."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Um curso de idiomas oferecia aulas de inglês, espanhol e japonês. Em 2024, a gerência do curso resolveu extinguir a oferta de aulas de japonês e espanhol, passando a oferecer apenas aulas de inglês. A reorganização dos cursos teve efeito material na natureza e no foco das operações do curso, de modo que foi constituída uma provisão para reestruturação. Assinale a opção que indica gastos que podem ser incluídos no valor da provisão.",
+    "options": {
+      "A": "Novo treinamento da equipe permanente.",
+      "B": "Investimento em novos sistemas e redes de distribuição.",
+      "C": "Gastos incrementais de marketing relacionado ao curso de inglês.",
+      "D": "Indenização aos proprietários das salas onde eram ofertados os cursos e que deixaram de ser utilizadas."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Em 01/01/2020, uma sociedade empresária adquiriu uma van para transportar os seus empregados por R$ 300.000. A vida útil foi estimada em 15 anos e não foi considerado valor residual. Em 2023, essa van apresentado diversos problemas que ocasionaram gastos de R$ 24.000 com reparos. Por conta dos problemas, a sociedade empresária decidiu comprar uma nova van e, em 31/12/2023, vendeu a antiga por R$ 250.000. O lucro obtido com a venda da van, considerando que a sociedade empresária utiliza o método da linha reta para depreciar os seus ativos imobilizados, foi de",
+    "options": {
+      "A": "R$ 6.000.",
+      "B": "R$ 10.000.",
+      "C": "R$ 28.000.",
+      "D": "R$ 30.000."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma sociedade empresária elaborou a seguinte Demonstração do Resultado do Exercício: [Receita de Vendas: 100.000; Custo dos produtos e serviços vendidos: -50.000; Lucro bruto: 50.000; Outras receitas: 20.000; Despesas de vendas: -5.000; Despesas administrativas: -10.000; Outras despesas: -12.000; Resultado antes dos tributos: 43.000]. De acordo com a NBC TG 26 (R$) – APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS, a demonstração é elaborada de acordo com o método da",
+    "options": {
+      "A": "função da despesa e não é necessária divulgação adicional.",
+      "B": "natureza da despesa e não é necessária divulgação adicional.",
+      "C": "função da despesa e a sociedade empresária deve divulgar informação adicional sobre a natureza das despesas.",
+      "D": "natureza da despesa e a sociedade empresária deve divulgar informação adicional sobre a função das despesas."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Em 31/12/2023, uma loja de cosméticos apresentava os seguintes saldos em seu Balanço Patrimonial: Disponibilidades: R$ 55.000; Estoques: R$ 30.000; Clientes: R$ 20.000; Equipamentos de Informática: R$ 45.000; Salários a pagar: R$ 15.000; Empréstimos: R$ 35.000; Capital Social: R$ 120.000; Prejuízos Acumulados: R$ 20.000. No primeiro trimestre de 2024, aconteceram os seguintes fatos: - Venda, à vista, de todo o estoque por R$ 80.000; - Recebimento do saldo dos clientes; - Venda, à vista, dos equipamentos de informática por R$ 60.000; - Pagamento dos salários do ano anterior; - Pagamento do empréstimo bancário contraído; - Reconhecimento e pagamento de despesas gerais por R$ 100.000. Em relação ao primeiro trimestre de 2024, é correto afirmar que a atividade operacional",
+    "options": {
+      "A": "gerou fluxo líquido de caixa no montante de R$ 10.000.",
+      "B": "gerou fluxo líquido de caixa no montante de R$ 45.000.",
+      "C": "consumiu fluxo líquido de caixa no montante de R$ 15.000.",
+      "D": "consumiu fluxo líquido de caixa no montante de R$ 35.000."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Avalie se as divulgações relacionadas aos estoques de uma sociedade empresária devem incluir: I. valor de estoques reconhecido como despesa durante o período; II. valor de estoques escriturados pelo valor justo menos os custos de venda; III. valor total escriturado em estoques e o valor registrado em outras contas apropriadas para a entidade. De acordo com a NBC TG 16 (R2) – ESTOQUES, está correto o que se afirma em",
+    "options": {
+      "A": "I e II, somente.",
+      "B": "I e III, somente.",
+      "C": "II e III, somente.",
+      "D": "I, II e III."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "As Notas Explicativas são informações complementares às demonstrações contábeis exigidas pela Lei nº 6.404/76 e alterações. Sobre as Notas Explicativas, analise as seguintes afirmativas: I. As Notas Explicativas devem apresentar informações sobre a base de preparação das demonstrações financeiras e das práticas contábeis específicas selecionadas e aplicadas para negócios e eventos significativos. II. É obrigatória a indicação de eventos subsequentes à data de encerramento do exercício, mesmo aqueles que não tenham efeito relevante sobre a situação financeira e os resultados futuros da companhia. III. A entidade pode retificar políticas contábeis inadequadas por meio da divulgação de notas explicativas. Está correto o que se afirma em",
+    "options": {
+      "A": "I, II e III.",
+      "B": "I e II, apenas.",
+      "C": "II e III, apenas.",
+      "D": "I, apenas."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Uma empresa comercial apresentou, no mês de abril de X0, as seguintes movimentações em seu estoque: [01.04: Estoque Inicial: 200 unidades por R$ 10 a unidade; 08.04: Compras de 210 unidades por R$ 12 a unidade; 10.04: Devolução de compras em 08.04: 50 unidades; 12.04: Vendas de 150 unidades por R$ 22 a unidade; 17.04: Devolução de vendas de 10.04: 30 unidades; 22.04: Compras de 150 unidades por R$ 15 a unidade]. Considerando que a empresa utilize o método PEPS para controle de estoques, assinale a opção que contenha o Custo das Mercadorias vendidas para o período e o valor do estoque final em 30.04.X0, respectivamente. Desconsidere quaisquer aspectos tributários.",
+    "options": {
+      "A": "R$ 1.500; R$ 3.770.",
+      "B": "R$ 1.200; R$ 4.970.",
+      "C": "R$ 1.500; R$ 4.970.",
+      "D": "R$ 1.200; R$ 3.770."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma indústria fabrica um determinado produto cuja produção passa por dois departamentos até ser finalizada. Em junho de 2024 foram extraídos os seguintes dados dos controles internos dessa indústria: [Departamento 1: Saldo inicial: 0; Unidades iniciadas em junho: 100.000; Unidades finalizadas em junho: 80.000; Matéria-prima (R$): 120.000; Matéria-prima (kg): 100; Mão-de-obra direta (R$): 140.000; Mão-de-obra direta (hora): 120; Estágio de fabricação: 60%. Departamento 2: Saldo inicial: 0; Unidades iniciadas em junho: 80.000; Unidades finalizadas em junho: 40.000; Matéria-prima (R$): 80.000; Matéria-prima (kg): 40; Mão-de-obra direta (R$): 100.000; Mão-de-obra direta (hora): 180; Estágio de fabricação: 10%]. Os custos indiretos de fabricação totalizaram R$ 500.000 e são apropriados aos departamentos com base na quantidade de horas de mão-de-obra direta. Considerando-se exclusivamente os dados acima e levando-se em consideração o conceito de equivalente de produção, o custo unitário da produção finalizada em junho de 2024 foi de",
+    "options": {
+      "A": "R$ 15,91.",
+      "B": "R$ 20,00.",
+      "C": "R$ 22,00.",
+      "D": "R$ 25,00."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "A empresa Montes Altos S.A., que planeja e controla seus custos utilizando o custo padrão, levantou as informações abaixo referentes ao mês de junho de 2024: [Itens: Matéria prima; Custo Padrão: 20 kg a R$ 10,00/kg; Custo Real: 19 kg a R$ 11,00/kg]. [Itens: Mão de obra direta; Custo Padrão: 2 h a R$ 20,00/h; Custo Real: 3h a R$ 18,00/h]. [Itens: Embalagem; Custo Padrão: 10 folhas a R$ 1,00/folha; Custo Real: 10 folhas a R$ 0,90/folha]. [Itens: Custos indiretos; Custo Padrão: R$ 30.000,00; Custo Real: R$ 32.000,00]. [Itens: Unidades produzidas; Custo Padrão: 15.000; Custo Real: 14.900]. Considerando apenas as informações apresentadas, a variação de preço unitária da matéria prima foi, em reais, de",
+    "options": {
+      "A": "R$ 19,00 desfavorável.",
+      "B": "R$ 19,00 favorável.",
+      "C": "R$ 20,00 desfavorável.",
+      "D": "R$ 20,00 favorável."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "A empresa Recife Contabilidade e Assessoria Ltda. oferece dois tipos de serviços contábeis: Legalização de Empresas e Escrituração Contábil. A empresa projeta os seguintes volumes anuais de serviços para cada categoria: Legalização de Empresas: 10 projetos por ano; Escrituração Contábil: 20 empresas por ano. Os custos diretos e o preço cobrado por cada serviço são os seguintes: [Serviço: Legalização de Empresa; Custos Diretos: R$ 2.500 por projeto; Preço do serviço: R$ 10.000 por projeto]. [Serviço: Escrituração Contábil; Custos Diretos: R$ 15.600 por empresa/ano; Preço do serviço: R$ 36.000 por empresa/ano]. A empresa verificou que os custos indiretos, que totalizavam R$ 265.000 ao ano, se referiam às seguintes atividades: - Captação de clientes: R$ 25.000 por ano - Análise documental: R$ 50.000 por ano - Elaboração e emissão de relatórios: R$ 190.000 por ano. A administração fez um levantamento dos direcionadores de custos anuais dessas atividades. São eles: [Direcionadores: Tempo de captação de clientes (em horas); Legalização de empresa: Qtd: 12.960, %: 60%; Escrituração contábil: Qtd: 8.640, %: 40%; Total: 21.600]. [Direcionadores: Número de lotes de documentação analisada; Legalização de empresa: Qtd: 9.225, %: 25%; Escrituração contábil: Qtd: 27.675, %: 75%; Total: 36.900]. [Direcionadores: Número de relatórios elaborados e emitidos; Legalização de empresa: Qtd: 636, %: 1%; Escrituração contábil: Qtd: 62.964, %: 99%; Total: 63.600]. Diante desses dados, o custo total anual do serviço Legalização de Empresa usando o Custeio Baseado em Atividades (ABC) é de",
+    "options": {
+      "A": "R$ 31.900.",
+      "B": "R$ 54.400.",
+      "C": "R$ 29.400.",
+      "D": "R$ 47.821."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Um analista realizou a análise horizontal do balanço patrimonial de dois supermercados com a finalidade de recomendar o investimento em um deles. Um fato que pode ser constatado diretamente por meio dessa análise é",
+    "options": {
+      "A": "a diminuição das despesas de salários.",
+      "B": "o aumento das obrigações com terceiros.",
+      "C": "a mudança na composição do resultado obtido.",
+      "D": "a abrangência do ativo circulante em relação ao total do ativo."
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Em 31/12/2023, um supermercado apresentava os seguintes saldos em seu Balanço Patrimonial: Clientes (60 dias): R$ 20.000; Estoque de produtos não perecíveis: R$ 30.000; Estoque de produtos com data de validade de até 90 dias: R$ 40.000; Disponibilidades: R$ 50.000; Estoque de produtos com data de validade de 91 a 360 dias: R$ 60.000; Fornecedores (90 dias): R$ 70.000; Empréstimos (720 dias): R$ 130.000; Móveis e utensílios: R$ 150.000; Patrimônio Líquido: R$ 150.000. A liquidez imediata do supermercado em 31/12/2023 foi de",
+    "options": {
+      "A": "0,71.",
+      "B": "1,00.",
+      "C": "1,29.",
+      "D": "0,25."
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Em 01/01/2024, o Governo de um Estado assinou um contrato com uma entidade terceirizada para a construção de uma nova linha de metrô. De acordo com o contrato, o Governo deverá pagar R$ 800 milhões ao longo de dez anos, e a obra tem previsão de duração de 4 anos. No momento da assinatura do contrato, o impacto no Balanço Patrimonial do Governo será:",
+    "options": {
+      "A": "nenhum.",
+      "B": "aumento e diminuição de R$ 800 milhões no ativo.",
+      "C": "aumento de R$ 800 milhões no ativo e no passivo.",
+      "D": "diminuição de R$ 800 milhões no ativo e no patrimônio líquido."
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "De acordo com o Manual de Contabilidade Aplicada ao Setor Público (MCASP), entre os objetivos do Plano de Contas Aplicado ao Setor Público está distinguir os registros de natureza patrimonial, orçamentária e de controle. A natureza de informação de controle registra, processa e evidencia os atos de gestão com função específica de controle, bem como aqueles",
+    "options": {
+      "A": "cujos efeitos são apenas de longo prazo.",
+      "B": "relacionados ao planejamento e à execução orçamentária.",
+      "C": "cujos efeitos possam produzir modificações no patrimônio da entidade do setor público.",
+      "D": "relacionados com a composição do patrimônio público e suas variações qualitativas e quantitativas."
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "As receitas orçamentárias podem ser classificadas como Receitas Correntes e Receitas de Capital. Assinale a opção que indica apenas receitas correntes.",
+    "options": {
+      "A": "patrimonial e agropecuária.",
+      "B": "patrimonial e alienação de bens.",
+      "C": "operações de crédito e agropecuária.",
+      "D": "alienação de bens e operações de crédito."
+    },
+    "discipline": "Contabilidade Aplicada ao Setor Público",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Em relação a compliance, analise as afirmativas abaixo: I. Compliance é a busca permanente de coerência entre aquilo que se espera de uma organização e o que ela, de fato, pratica no dia a dia. II. O programa de compliance de uma organização deve abranger um conjunto de mecanismos e procedimentos, políticas, diretrizes, código de conduta, canal de denúncias e demais instrumentos com o objetivo de prevenir, detectar e sanar desvios de conduta, fraudes, atos de corrupção, lavagem de dinheiro, atos ilícitos praticados contra a administração pública, dentre outras questões. III. Os auditores externos (independentes) devem se comprometer e apoiar o fomento da cultura ética e o fortalecimento do programa de compliance da organização que auditam. IV. O comitê de auditoria estatutário deve declarar ostensiva e publicamente a importância dos valores e das políticas que compõem o programa de compliance da organização, atuando sempre de maneira inequívoca e coerente com aquilo que pregam. Estão corretas as afirmativas",
+    "options": {
+      "A": "I, II e III.",
+      "B": "II e IV, apenas.",
+      "C": "I e II, apenas.",
+      "D": "III e IV, apenas."
+    },
+    "discipline": "Controladoria",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "A Estrutura Conceitual para Trabalhos de Asseguração define os objetivos e elementos essenciais dos serviços de auditoria, destacando a importância de uma abordagem sistemática e disciplinada na emissão de opiniões. Os dois tipos de trabalho de asseguração são",
+    "options": {
+      "A": "a Direta e a Indireta.",
+      "B": "a Limitada e a Direta.",
+      "C": "a Razoável e a Indireta.",
+      "D": "a Limitada e Razoável."
+    },
+    "discipline": "Auditoria Contábil",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "O auditor João Batista, ao realizar um trabalho de auditoria para a AXT Ltda., constatou deficiências no controle interno da entidade e, ao aplicar testes, verificou que tais deficiências eram significativas, individualmente ou em conjunto. Considerando os postulados da NBC TA 265 – COMUNICAÇÃO DE DEFICIÊNCIAS DE CONTROLE INTERNO, o procedimento adequado a ser seguido por João Batista nessa situação é",
+    "options": {
+      "A": "declarar isenção por se tratar de assuntos internos da entidade.",
+      "B": "confrontar diretamente o Controle Interno.",
+      "C": "reportar por escrito as deficiências encontradas tempestivamente a administração.",
+      "D": "registrar em ata, e divulgar ao término da auditoria."
+    },
+    "discipline": "Auditoria Contábil",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "A perícia contábil é essencial para garantir uma solução justa e fundamentada em litígios, tanto judiciais quanto extrajudiciais, ao fornecer uma análise técnica e científica acerca dos fatos envolvidos. De acordo com a NBC TP 01 – PERÍCIA CONTÁBIL, o principal objetivo da perícia contábil no contexto judicial e extrajudicial é",
+    "options": {
+      "A": "avaliar o desempenho financeiro das empresas envolvidas no litígio.",
+      "B": "fornecer elementos de prova necessários para subsidiar a justa solução do litígio.",
+      "C": "estabelecer a culpa das partes envolvidas no processo.",
+      "D": "emitir pareceres financeiros para fins de auditoria interna."
+    },
+    "discipline": "Perícia Contábil",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "A sociedade empresária 'Alfa e Ômega Ltda.' é uma sociedade limitada composta por três sócios: João, Maria e Pedro. Os percentuais de participação no capital social são os seguintes: João 40%, Maria 35%, e Pedro 25%. A sociedade empresária está avaliada com os seguintes valores em 31 de dezembro de 20XX: Ativo Circulante: R$ 1.200.000; Ativo Não Circulante: R$ 2.500.000; Passivo Circulante: R$ 800.000; Passivo Não Circulante: R$ 1.000.000; Patrimônio Líquido (excluindo o goodwill): R$ 1.900.000. Recentemente, foi acordado que Pedro deixará a sociedade. De acordo com o contrato social, a apuração de haveres deve considerar o valor de mercado dos ativos, incluindo o valor do goodwill da empresa, que foi avaliado em R$ 500.000. Além disso, o contrato prevê um deságio de 10% sobre o valor de mercado total apurado, considerando riscos associados ao futuro da empresa. Nesse caso, (i) o valor total de mercado da empresa antes de aplicar o deságio, (ii) o valor líquido de mercado da empresa após aplicar o deságio, (iii) o valor dos haveres de Pedro, considerando sua participação na sociedade e o valor líquido apurado da empresa e (iv) se Pedro também tivesse um empréstimo pessoal de R$ 150.000 junto à empresa, o valor final a ser recebido por ele após a compensação deste empréstimo seriam, respectivamente,",
+    "options": {
+      "A": "(i) R$ 2.400.000 / (ii) R$ 2.160.000 / (iii) R$ 540.000 / (iv) R$ 390.000.",
+      "B": "(i) R$ 1.400.000 / (ii) R$ 1.260.000 / (iii) R$ 315.000 / (iv) R$ 165.000.",
+      "C": "(i) R$ 1.900.000 / (ii) R$ 1.710.000 / (iii) R$ 427.500 / (iv) R$ 227.500.",
+      "D": "(i) R$ 1.400.000 / (ii) R$ 1.260.000 / (iii) R$ 315.000 / (iv) R$ 465.000."
+    },
+    "discipline": "Perícia Contábil",
+    "correctAnswer": "A"
+  }
+]

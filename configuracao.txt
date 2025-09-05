@@ -1,0 +1,9 @@
+﻿cordova build android --prod --release -- --packageType=bundle
+
+keytool -genkey -v -keystore crc2025-2.keystore -alias crc2025-2 -keyalg RSA -keysize 2048 -validity 10000
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore crc2025-2.keystore D:\Meus Arquivos\Projetos\cordova\CRC-Simulado\platforms\android\app\build\outputs\bundle\release\app-release.aab crc2025-2
+
+D:\Meus Arquivos\Projetos\cordova\CRC-Simulado\platforms\android\app\build\outputs\bundle\release\
+
+crc2025@

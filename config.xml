@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.simulado.crc" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>CRC Simulado 2025</name>
+    <description>CRC Simulado 2025</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Ricardo Alves
+    </author>
+    
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+
+    <!-- Configurações Android modernas -->
+    <platform name="android">
+        <preference name="Orientation" value="portrait" />
+        <!-- Preferência para splash moderno -->
+        <preference name="AndroidWindowSplashScreenAnimatedIcon" value="resources/android/splash.png" />
+        <preference name="AndroidWindowSplashScreenDuration" value="3000" />
+        <preference name="AndroidWindowSplashScreenBackground" value="#0A64D2" />
+        
+        <!-- Ícones Android -->
+        <icon density="ldpi" src="resources/android/icon/drawable-ldpi-icon.png" />
+        <icon density="mdpi" src="resources/android/icon/drawable-mdpi-icon.png" />
+        <icon density="hdpi" src="resources/android/icon/drawable-hdpi-icon.png" />
+        <icon density="xhdpi" src="resources/android/icon/drawable-xhdpi-icon.png" />
+        <icon density="xxhdpi" src="resources/android/icon/drawable-xxhdpi-icon.png" />
+        <icon density="xxxhdpi" src="resources/android/icon/drawable-xxxhdpi-icon.png" />
+        
+        <!-- REMOVIDO tags <splash> antigas -->
+    </platform>
+
+    <!-- iOS -->
+    <platform name="ios">
+        <icon src="resources/ios/icon/icon-1024.png" width="1024" height="1024" />
+        <splash src="resources/ios/splash/Default@2x~universal~anyany.png" width="2732" height="2732" />
+    </platform>
+
+    <!-- Windows -->
+    <platform name="windows">
+        <icon src="resources/windows/icon/Square44x44Logo.png" target="Square44x44Logo" />
+        <icon src="resources/windows/icon/SmallTile.png" target="Square71x71Logo" />
+        <icon src="resources/windows/icon/Square150x150Logo.png" target="Square150x150Logo" />
+        <icon src="resources/windows/icon/Square310x310Logo.png" target="Square310x310Logo" />
+        <icon src="resources/windows/icon/Wide310x150Logo.png" target="Wide310x150Logo" />
+        <icon src="resources/windows/icon/StoreLogo.png" target="StoreLogo" />
+        <splash src="resources/windows/splash/Splash.png" target="SplashScreen" />
+    </platform>
+</widget>
