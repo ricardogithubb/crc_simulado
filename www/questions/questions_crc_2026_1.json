@@ -382,7 +382,83 @@
       "D": "as variações de custo total dos Tensoativos e do Óleo de Argan são favoráveis."
     },
     "discipline": "Contabilidade de Custos",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "table": {
+      "headers": [
+        [
+          {
+            "text": "Descrição",
+            "rowspan": 2
+          },
+          {
+            "text": "Custo Padrão",
+            "colspan": 3
+          },
+          {
+            "text": "Custo Real",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Quantidade"
+          },
+          {
+            "text": "Custo Unitário"
+          },
+          {
+            "text": "Custo Total"
+          },
+          {
+            "text": "Quantidade"
+          },
+          {
+            "text": "Custo Unitário"
+          },
+          {
+            "text": "Custo Total"
+          }
+        ]
+      ],
+      "rows": [
+        [
+          "Tensoativos",
+          "3,00",
+          "45,00",
+          "135,00",
+          "4,50",
+          "55,00",
+          "247,50"
+        ],
+        [
+          "Óleo de Argan",
+          "6,00",
+          "6,55",
+          "39,30",
+          "9,00",
+          "5,47",
+          "49,30"
+        ],
+        [
+          "Estabilizantes de espuma",
+          "255,00",
+          "0,15",
+          "38,25",
+          "127,50",
+          "0,11",
+          "14,03"
+        ],
+        [
+          "Espessantes",
+          "56,00",
+          "0,10",
+          "5,60",
+          "28,00",
+          "0,50",
+          "14,00"
+        ]
+      ]
+    }
   },
   {
     "question": "Uma renomada empresa de fabricação de violinos para orquestra, a Violinos “K”, iniciou suas operações no mês de janeiro. Seu único violino produzido é vendido por R$ 2.000,00 cada. Em janeiro de X4, a empresa produziu 1.200 unidades e vendeu 900 unidades. Os custos variáveis no período totalizaram R$ 600,00 por violino. Os custos fixos e despesas fixas mensais da empresa foram os seguintes: • Salários dos supervisores de fábrica: R$ 150.000,00 por mês; • Salários do pessoal administrativo: R$ 30.000,00 por mês; • Depreciação das máquinas utilizadas na fabricação: R$ 39.800,00 por mês; • Aluguel do prédio da fábrica: R$ 15.000,00 por mês; • Custos diversos de manufatura: R$ 10.000,00 por mês; • Promoção e Propaganda: R$ 20.000,00 por mês. Não houve estoques de produtos em elaboração, e não são considerados tributos incidentes sobre a receita. Assinale a opção que indica o Lucro Bruto da empresa pelo método de custeio por absorção.",
