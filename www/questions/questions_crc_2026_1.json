@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Observe o seguinte texto de Bertrand Russell: A matemática, vista corretamente, possui não apenas verdade, mas também suprema beleza – uma beleza fria e austera, como a da escultura. Assinale a opção que mostra uma afirmação correta sobre o texto.",
+    "options": {
+      "A": "A frase mostra simultaneamente aspectos positivos e negativos da matemática.",
+      "B": "O emprego da expressão “não apenas verdade” abre a possibilidade de dizer-se “mas suprema beleza”.",
+      "C": "A expressão “uma beleza fria e austera” nega a afirmação anterior de que a matemática possui suprema beleza.",
+      "D": "Ao afirmar que a beleza da matemática é como a da escultura, a frase desvaloriza a escultura."
+    },
+    "discipline": "Língua Portuguesa Aplicada",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Nem sempre os números indicam uma quantidade precisa. Assinale a frase em que há precisão.",
+    "options": {
+      "A": "Os especialistas em contagem de público dizem que havia mais de um milhão de pessoas na passeata.",
+      "B": "O mesmo motorista envolvido no acidente de ontem já havia passado por três outras ocorrências semelhantes.",
+      "C": "Perto de mil veículos passaram pelo pedágio, no mesmo dia, em função do feriado.",
+      "D": "O vídeo mostrava cerca de 50 automóveis que estavam parados por causa do desmoronamento."
+    },
+    "discipline": "Língua Portuguesa Aplicada",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Uma empresa decidiu renovar parte de sua frota adquirindo novos veículos. Para não descapitalizar o caixa da empresa, a diretoria decidiu financiar R$ 240.000,00 junto a um banco. O contrato de financiamento prevê que a dívida seja quitada por meio de 30 pagamentos mensais, postecipados e consecutivos, de acordo com a tabela SAC (Sistema de Amortização Constante). Fica firmado que a taxa efetiva de juros permanecerá fixa em 4% ao mês, ao longo de toda a vigência do contrato. Considerando estritamente as condições descritas acima, é correto afirmar que o valor do quinto pagamento será de",
+    "options": {
+      "A": "R$ 8.320,00.",
+      "B": "R$ 16.000,00.",
+      "C": "R$ 16.320,00.",
+      "D": "R$ 17.600,00."
+    },
+    "discipline": "Matemática Financeira",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Um contador trabalha em uma firma de auditoria e foi alocado na equipe de Data Analytics. Sua tarefa é analisar o comportamento das vendas de uma rede varejista, para definir parâmetros de risco e identificar dias com faturamentos atípicos. Após extrair os dados, o contador constata que o faturamento diário da rede segue perfeitamente uma distribuição normal, com média igual a R$ 40.000,00. O contador também verifica que a probabilidade de que, em um dia aleatório, o faturamento esteja entre R$ 38.000,00 e R$ 42.000,00 é de 52%. Com base nessas informações, o contador conclui corretamente que a probabilidade de a rede varejista registrar faturamento diário inferior a R$ 38.000,00 é de",
+    "options": {
+      "A": "24%.",
+      "B": "26%.",
+      "C": "48%.",
+      "D": "76%."
+    },
+    "discipline": "Estatística Aplicada",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Após a observância das formalidades constitucionais e legais, o Estado Alfa celebrou contrato administrativo com a sociedade empresária Beta, visando à construção de um prédio público moderno que atenderá, com eficiência e celeridade, aos anseios da coletividade. Registre-se, contudo, que a Administração Pública anteviu a necessidade de proceder à modificação do contrato administrativo em fase de execução, para melhor adequação às finalidades de interesse público. Nesse cenário, considerando as disposições da Lei nº 14.133/2021, é correto afirmar que o Estado Alfa",
+    "options": {
+      "A": "não poderá modificar o contrato administrativo, o qual, estando em fase de execução, é considerado lei entre as partes contratantes.",
+      "B": "poderá modificar o contrato administrativo, desde que haja concordância expressa ou tácita da sociedade empresária Beta.",
+      "C": "poderá modificar unilateralmente o contrato administrativo, respeitados os direitos do contratado.",
+      "D": "não poderá modificar o contrato administrativo, salvo em caso de autorização judicial."
+    },
+    "discipline": "Direito Administrativo",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "O Município Alfa e o Estado Beta, em observância às formalidades legais, pretendem utilizar o sistema de registro de preços, procedimento auxiliar das licitações e contratações públicas. Busca-se, assim, a formalização, no âmbito das respectivas competências, de atas de registro de preços. Trata-se de documento vinculativo e obrigacional, com característica de compromisso para futura contratação, no qual são registrados o objeto, os preços, os fornecedores, os órgãos participantes e as condições a serem praticadas, conforme as disposições contidas no edital da licitação, no aviso ou instrumento de contratação direta e nas propostas apresentadas. Ao tomar conhecimento das pretensões dos referidos entes da Federação, o órgão público Charlie, integrante da Administração Pública Federal, demonstrou interesse em aderir, futuramente, às referidas atas de registro de preços, a serem gerenciadas pelo Município Alfa e pelo Estado Beta. Nesse cenário, considerando as disposições da Lei no 14.133/2021, é correto afirmar que o órgão público Charlie, integrante da Administração Pública Federal,",
+    "options": {
+      "A": "não poderá aderir às atas de registro de preços a serem gerenciadas pelo Município Alfa e pelo Estado Beta, salvo se houver a concordância expressa dos referidos entes federativos.",
+      "B": "poderá aderir à ata de registro de preços a ser gerenciada pelo Estado Beta, mas não à ata de registro de preços que será gerenciada pelo Município Alfa.",
+      "C": "poderá aderir à ata de registro de preços a ser gerenciada pelo Município Alfa, mas não à ata de registro de preços que será gerenciada pelo Estado Beta.",
+      "D": "não poderá aderir às atas de registro de preços a serem gerenciadas pelo Município Alfa e pelo Estado Beta."
+    },
+    "discipline": "Direito Administrativo",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "A sociedade empresária Alfa, concessionária de serviços públicos no Município Beta, deparou-se com a necessidade, em um sábado, de proceder à interrupção do serviço prestado à coletividade residente e domiciliada no bairro Gama, sem aviso prévio, em razão de situação de emergência constatada na localidade. Nesse cenário, considerando as disposições da Lei nº 8.987/1995, é correto afirmar que",
+    "options": {
+      "A": "não se está diante de hipótese de descontinuidade do serviço, pois a interrupção, em caso de emergência ou motivada por razões de ordem técnica, independe de aviso prévio.",
+      "B": "não se está diante de hipótese de descontinuidade do serviço, pois a interrupção ocorreu em situação de emergência, dispensando aviso prévio.",
+      "C": "se está diante de hipótese de descontinuidade do serviço, pois a interrupção, ainda que em situação de emergência, não pode se iniciar no final de semana.",
+      "D": "se está diante de hipótese de descontinuidade do serviço, pois a interrupção, ainda que em situação de emergência, pressupõe aviso prévio."
+    },
+    "discipline": "Direito Administrativo",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Durante o encerramento do exercício, o contador da empresa “Q” Ltda. foi pressionado pela administração para postergar o reconhecimento de uma despesa relevante, com o objetivo de melhorar artificialmente o resultado do período. Considerando as disposições da NBC PG 01 – CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, a conduta profissional adequada é",
+    "options": {
+      "A": "atender à solicitação da administração, desde que o ajuste não gere impacto tributário relevante.",
+      "B": "ajustar temporariamente o resultado, caso a administração formalize por escrito a responsabilidade pela decisão.",
+      "C": "negociar a postergação da despesa para o exercício seguinte, buscando conciliar interesses empresariais e profissionais.",
+      "D": "manter a escrituração conforme as normas contábeis vigentes, preservando a integridade e a objetividade profissional, mesmo diante de pressões internas."
+    },
+    "discipline": "Ética Profissional",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Uma firma de auditoria fora contratada para emitir relatório de asseguração sobre informações financeiras de determinada entidade e, posteriormente, ainda no mesmo exercício social, aceitou assumir decisões administrativas relacionadas à elaboração dessas mesmas informações. Considerando o papel da Contabilidade na sociedade e as disposições da NBC PG 100 (R1) – CUMPRIMENTO DO CÓDIGO, DOS PRINCÍPIOS FUNDAMENTAIS E DA ESTRUTURA CONCEITUAL e da NBC PG 01 – CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, a atuação adequada da firma de auditoria deve refletir a ideia de que",
+    "options": {
+      "A": "a independência pode ser relativizada se houver confiança mútua entre auditor e administração.",
+      "B": "a assunção de responsabilidade gerencial é aceitável quando não houver impacto financeiro relevante.",
+      "C": "a firma pode assumir funções administrativas desde que posteriormente reveja tecnicamente seu próprio trabalho.",
+      "D": "a firma não deve assumir responsabilidade de gestão, pois isso gera ameaças à independência e compromete o interesse público que fundamenta a atuação do contador."
+    },
+    "discipline": "Ética Profissional",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "De acordo com a NBC TG ESTRUTURA CONCEITUAL (R2) – ESTRUTURA CONCEITUAL PARA RELATÓRIO FINANCEIRO, ativo é um recurso econômico presente, controlado pela entidade como resultado de eventos passados. Um recurso econômico representa",
+    "options": {
+      "A": "um bem ou um direito que pertence à entidade.",
+      "B": "uma obrigação de transferir benefícios econômicos.",
+      "C": "um direito que tem o potencial de produzir benefícios econômicos.",
+      "D": "uma obrigação que resulta em aumento no patrimônio líquido, exceto quando referente a contribuições de detentores de direitos sobre o patrimônio."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Em 2024, uma empresa de varejo estimava inadimplência de 2% sobre o saldo de Clientes. Em 2025, buscando aumentar as vendas, a empresa reduziu as suas exigências para concessão de crédito aos clientes. Assim, uma análise criteriosa indicava que a inadimplência seria muito próxima de 5% nesse ano. No entanto, uma vez que os administradores da empresa são avaliados de acordo com o resultado operacional, eles escolheram continuar utilizando a estimativa anterior, de 2%. Ao avaliar se a informação contábil pode ser considerada representação fidedigna, é correto concluir que",
+    "options": {
+      "A": "pode ser, uma vez que é comparável.",
+      "B": "pode ser, uma vez que é tempestiva.",
+      "C": "não pode ser, uma vez que não é neutra.",
+      "D": "não pode ser, uma vez que não é verificável."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Em janeiro de 2026, uma entidade fabril assinou um contrato para a compra de uma máquina por R$ 50.000,00. O montante foi pago integralmente em fevereiro. A máquina foi recebida em março, quando foi instalada e disponibilizada para uso. No entanto, por decisão da entidade, a máquina começou a ser efetivamente utilizada em abril. No Balanço Patrimonial da entidade, a máquina deve ser reconhecida a partir de",
+    "options": {
+      "A": "janeiro.",
+      "B": "fevereiro.",
+      "C": "março.",
+      "D": "abril."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Em 01/03/2026, uma sociedade empresária adquiriu um equipamento de grande porte por um montante considerado relevante para ela. Para a aquisição, foram pagos R$ 100.000,00 à vista, e o restante tinha prazo para pagamento de 60 dias. Essa parcela complementar estava fixada em R$ 105.000,00, enquanto o seu valor presente na data da compra era de R$ 100.000,00. Assinale a opção que indica o custo histórico do passivo líquido no momento da compra, de acordo com a NBC TG ESTRUTURA CONCEITUAL (R2) – ESTRUTURA CONCEITUAL PARA RELATÓRIO FINANCEIRO:",
+    "options": {
+      "A": "R$ 100.000,00.",
+      "B": "R$ 105.000,00.",
+      "C": "R$ 200.000,00.",
+      "D": "R$ 205.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma empresa S.A. atua no setor de bebidas e possui diversas unidades de negócios. Entre elas, destacam-se as operações de “Cervejas” e “Refrigerantes”. A administração da companhia utiliza regularmente informações de desempenho dessas unidades para fins de avaliação de resultados e alocação de recursos, sendo tais informações analisadas pelo principal responsável pela tomada de decisões operacionais da entidade (CODM – Chief Operating Decision Maker). A empresa avaliou os seguintes indicadores referentes ao exercício: • A unidade Cervejas representa 12% da receita combinada de todos os segmentos operacionais. • A unidade Refrigerantes possui 9% da receita combinada, mas 11% dos ativos combinados dos segmentos operacionais. • Ambas as unidades têm suas informações regularmente revisadas pelo principal responsável pela tomada de decisões operacionais. Considerando as informações apresentadas e os preceitos da NBC TG 22 (R2) – INFORMAÇÕES POR SEGMENTO, é correto afirmar que",
+    "options": {
+      "A": "apenas o segmento Cervejas deve ser divulgado separadamente, pois somente ele ultrapassa o limite de 10% da receita combinada dos segmentos operacionais.",
+      "B": "apenas o segmento Refrigerantes, deve ser divulgado separadamente, pois o critério de ativos é suficiente para caracterizar segmento reportável.",
+      "C": "ambos os segmentos devem ser divulgados separadamente, pois cada um atende a, pelo menos, um dos critérios quantitativos previstos para segmentação reportável.",
+      "D": "nenhum dos segmentos deve ser divulgado separadamente, pois é necessário que o segmento atenda simultaneamente aos critérios de receita, resultado e ativos."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma empresa S.A. apresentou, em 31/12/2025, ativos fiscais diferidos decorrentes de prejuízos fiscais, bases negativas de contribuição social e diferenças temporárias dedutíveis, totalizando R$ 6.669.000,00 nas demonstrações individuais e R$ 7.121.000,00 nas demonstrações consolidadas. Conforme divulgado em nota explicativa, a realização desses ativos depende da geração futura de lucros tributáveis suficientes para permitir a compensação dos prejuízos fiscais e das bases negativas, bem como da reversão das diferenças temporárias dedutíveis. A administração elaborou projeções de resultados tributáveis futuros que suportam o reconhecimento desses ativos fiscais diferidos. O auditor independente incluiu, em seu relatório, parágrafo chamando a atenção para a nota explicativa, destacando a existência de incerteza relacionada ao prazo de realização dos ativos fiscais diferidos, mas afirmando que sua opinião não está ressalvada em relação a esse assunto. Considerando as informações apresentadas e os preceitos da NBC TG 32 (R4) – TRIBUTOS SOBRE O LUCRO, conclui-se que",
+    "options": {
+      "A": "a existência de prejuízos fiscais acumulados impede o reconhecimento de ativos fiscais diferidos, devendo tais valores ser reconhecidos somente quando ocorrer efetivamente lucro tributável suficiente para sua compensação.",
+      "B": "a entidade deve reconhecer ativo fiscal diferido decorrente de prejuízos fiscais, somente quando for provável a existência de lucro tributável futuro suficiente para sua compensação.",
+      "C": "os ativos fiscais diferidos decorrentes de prejuízos fiscais podem ser reconhecidos com base em estimativas de lucros tributáveis futuros elaboradas pela administração, independente da avaliação de probabilidade de realização.",
+      "D": "a inclusão de parágrafo, chamando a atenção no relatório do auditor, indica discordância quanto ao reconhecimento do ativo fiscal diferido e implica modificação na opinião de auditoria."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Uma companhia aberta brasileira atua no comércio varejista de bens de consumo por meio de lojas físicas e de plataforma digital. Em suas vendas on-line, a entidade também realiza o transporte das mercadorias por meio de logística própria. Em determinado dia, um cliente adquiriu um livro por meio do website da companhia. O pagamento foi realizado instantaneamente via PIX, e a nota fiscal eletrônica foi imediatamente emitida e enviada ao cliente por e-mail. O livro foi separado no centro de distribuição da empresa e despachado em caminhão pertencente à própria companhia, responsável pela entrega ao consumidor final. Durante o trajeto, antes da entrega ao cliente, o caminhão sofreu um acidente e parte das mercadorias transportadas foi completamente destruída, incluindo o livro adquirido pelo cliente. Considerando-se as informações apresentadas e os preceitos da NBC TG 47 – RECEITA DE CONTRATO COM CLIENTE, a receita deve ser reconhecida",
+    "options": {
+      "A": "quando o pagamento via PIX foi realizado, pois a contraprestação foi recebida e a nota fiscal emitida; a perda do livro deve ser reconhecida pelo cliente, que já havia quitado a compra.",
+      "B": "no momento do despacho da mercadoria pelo centro de distribuição, pois a empresa já cumpriu sua obrigação principal; a perda decorrente do acidente deve ser reconhecida pelo cliente.",
+      "C": "quando o livro for efetivamente entregue ao cliente, momento em que ocorre a transferência de controle do bem; como o acidente ocorreu antes da entrega, a perda do livro deve ser reconhecida pela própria companhia.",
+      "D": "no momento da emissão da nota fiscal eletrônica, pois esse ato caracteriza a transferência jurídica do bem; a perda decorrente do acidente deve ser reconhecida como despesa operacional do cliente."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Com base na NBC TG 06 (R3) – OPERAÇÕES DE ARRENDAMENTO MERCANTIL, assinale a opção que apresenta o procedimento correto para a contabilização de um contrato de arrendamento de uma máquina celebrado entre a arrendatária ABC e a arrendadora XYZ.",
+    "options": {
+      "A": "O ativo de direito de uso deve ser mensurado inicialmente pelo valor justo da máquina, e posteriormente pelo mesmo valor contábil de máquinas similares de propriedade da ABC.",
+      "B": "A empresa ABC, ao definir a vida útil para cálculo da depreciação do ativo de direito de uso, precisou definir se permanecerá ou não com a máquina permanentemente. Caso ela opte por não permanecer com a máquina ao final do contrato de arrendamento, a vida útil será a menor entre o prazo do arrendamento e a vida útil da máquina.",
+      "C": "O reconhecimento do ativo de direito de uso pela ABC implica a baixa do ativo imobilizado pela XYZ, para evitar duplo reconhecimento do mesmo bem.",
+      "D": "A depreciação do ativo de direito de uso na arrendatária ABC tem como contrapartida o passivo de arrendamento reconhecido junto à XYZ."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Em 2023, uma empresa de consultoria contábil pagou R$ 20.000,00 a título de juros sobre empréstimo bancário. De acordo com a NBC TG 03 (R3) – DEMONSTRAÇÃO DOS FLUXOS DE CAIXA, os juros pagos podem ser classificados, na Demonstração dos Fluxos de Caixa, como fluxos de caixa",
+    "options": {
+      "A": "operacionais ou de investimento.",
+      "B": "operacionais ou de financiamento.",
+      "C": "de investimento ou de financiamento.",
+      "D": "de financiamento ou de equivalentes de caixa."
+    },
+    "discipline": "Demonstrações Contábeis",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Na geração interna de um ativo intangível por uma sociedade empresária, foram gastos R$ 10.000,00 com atividades destinadas à obtenção de novo conhecimento, R$ 15.000,00 com formulação, projeto, avaliação e seleção final de alternativas possíveis para materiais e processos, e R$ 20.000,00 com o projeto, construção e teste de protótipos e modelos pré-produção. Sabe-se que estavam presentes todos os requisitos dispostos na NBC TG 04 (R4) – ATIVO INTANGÍVEL, para o reconhecimento dos gastos incorridos na fase de desenvolvimento de um Ativo Intangível. A vida útil estimada do ativo é de 10 anos e o valor residual é zero. Considerando que a sociedade empresária utiliza o método da linha reta para amortizar os seus ativos intangíveis, a despesa de amortização anual do ativo foi de",
+    "options": {
+      "A": "R$ 0,00.",
+      "B": "R$ 2.000,00.",
+      "C": "R$ 3.500,00.",
+      "D": "R$ 4.500,00."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Uma loja de celulares utiliza o Custo Médio Ponderado móvel em base diária para valoração do estoque. Em julho de 2025, não havia estoque inicial do celular de modelo “XPTO”. No mês, houve a seguinte movimentação em relação a esse modelo de celular: • 02/07: compra de 20 unidades por R$ 3.000,00 cada; • 10/07: venda de 10 unidades por R$ 5.000,00 cada; • 15/07: compra de 15 unidades por R$ 3.200,00 cada; • 20/07: venda de 8 unidades por R$ 5.000,00 cada; • 27/07: venda de 5 unidades por R$ 5.200,00 cada. O estoque de “XPTO” da loja, em 31/07/2025, era de",
+    "options": {
+      "A": "R$ 36.988,00.",
+      "B": "R$ 37.200,00.",
+      "C": "R$ 37.440,00.",
+      "D": "R$ 61.200,00."
+    },
+    "discipline": "Contabilidade de Custos e Estoques",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Em sua Demonstração do Valor Adicionado, uma sociedade empresária apresentou os seguintes saldos: • Despesas financeiras: R$ 35.000,00; • Assistência médica a empregados: R$ 80.000,00; • Aluguel: R$ 120.000,00; • Remuneração direta de empregados: R$ 240.000,00. O saldo apresentado em “Remuneração de Capitais de Terceiros”, na segunda parte da Demonstração do Valor Adicionado, de acordo com a NBC TG 09 (R1) – DEMONSTRAÇÃO DO VALOR ADICIONADO, foi de",
+    "options": {
+      "A": "R$ 155.000,00.",
+      "B": "R$ 235.000,00.",
+      "C": "R$ 320.000,00.",
+      "D": "R$ 475.000,00."
+    },
+    "discipline": "Demonstrações Contábeis",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Os saldos das contas de resultado do exercício da Cia. “G” S.A. em 31/12/X2 eram os seguintes: • Despesas com tributos sobre o lucro: R$ 510.000,00; • Despesas operacionais: R$ 20.000,00; • Receita bruta de serviços: R$ 1.500.000,00; • Impostos sobre serviços: R$ 40.000,00; • Descontos incondicionais: R$ 30.000,00; • Custo dos serviços prestados: R$ 400.000,00. Com base nessas informações, é correto afirmar que a Cia. “G” S.A. apurou",
+    "options": {
+      "A": "um lucro bruto de R$ 1.050.000,00.",
+      "B": "uma receita líquida de serviços de R$ 1.030.000,00.",
+      "C": "um lucro bruto de R$ 1.010.000,00.",
+      "D": "um lucro líquido de R$ 500.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "A Cia. “C” S.A. possuía, em 31/12/X1, um ativo registrado em seu imobilizado mensurado como segue: • Custo de aquisição: R$ 105.000,00; • (–) Depreciação acumulada: R$ 20.000,00; • (–) Perda por redução ao valor recuperável reconhecida em X0: R$ 10.000,00. Antes da elaboração das demonstrações contábeis, a empresa realizou o teste de recuperabilidade do ativo, apurando os seguintes valores: • Valor justo líquido de despesas de venda: R$ 80.000,00; • Valor em uso: R$ 90.000,00. Com base nos dados apresentados, é correto afirmar que",
+    "options": {
+      "A": "o valor contábil líquido do ativo, antes do ajuste da perda, é de R$ 85.000,00.",
+      "B": "o valor recuperável do ativo, no momento da avaliação, é de R$ 80.000,00.",
+      "C": "o valor recuperável do ativo, no momento da avaliação, é de R$ 90.000,00.",
+      "D": "a perda estimada para esse ativo é de R$ 25.000,00."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "A empresa “A” realizou a venda de 350.000 quadros de madeira (30x40 cm), totalizando R$ 250.000,00 em mercadorias vendidas. Sabe-se que o controle das mercadorias foi imediatamente transferido aos clientes. O recebimento foi distribuído da seguinte forma: 50% em Caixa, 25% em Banco, e 25% a prazo, com vencimento em 30 dias. Com base nesses dados, assinale a opção correta quanto à contabilização dessas operações.",
+    "options": {
+      "A": "Débito: Caixa R$ 125.000,00 Débito: Banco Conta Movimento R$ 62.500,00 Débito: Duplicatas a Receber R$ 62.500,00 Crédito: Receita de Vendas R$ 250.000,00",
+      "B": "Débito: Caixa R$ 125.000,00 Débito: Duplicatas a Receber R$ 125.000,00 Crédito: Receita de Vendas R$ 250.000,00",
+      "C": "Débito: Caixa R$ 250.000,00 Crédito: Receita de Vendas R$ 250.000,00",
+      "D": "Débito: Caixa R$ 125.000,00 Débito: Banco R$ 125.000,00 Crédito: Receita de Vendas R$ 250.000,00"
+    },
+    "discipline": "Escrituração Contábil",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Em 01/07/2025, uma construtora iniciou a construção de um prédio formado por estúdios de 20 metros quadrados. O prazo estimado para a construção era de 18 meses. Nos primeiros três meses de obra, os gastos diretos, associados à construção, foram de R$ 500.000,00. Em 30/09/2025, um grupo de moradores entrou na Justiça contra a construtora para solicitar a suspensão da obra, já que consideravam que o tipo de apartamento seria prejudicial ao bairro. Além disso, pediam uma indenização de R$ 200.000,00. Na data, os advogados da construtora julgaram que perda da causa era possível. Ainda, por determinação da justiça, a obra foi suspensa e não havia sido retomada até 31/12/2025. Por conta do processo, com base na NBC TG 25 (R2) – PROVISÕES, PASSIVOS CONTINGENTES E ATIVOS CONTINGENTES, no Balanço Patrimonial da construtora, em 31/12/2025,",
+    "options": {
+      "A": "houve uma provisão para contingências de R$ 200.000,00.",
+      "B": "houve uma provisão para contingências de R$ 500.000,00.",
+      "C": "houve uma provisão para contingências de R$ 700.000,00.",
+      "D": "não houve impacto nos elementos patrimoniais."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Uma sociedade empresária apresentava a sua Demonstração dos Fluxos de Caixa de acordo com o método direto. Em 01/01/2025, resolveu começar a apresentar a demonstração de acordo com o método indireto. Desse modo, em 31/12/2025, a sociedade empresária divulgou a Demonstração dos Fluxos de Caixa de 31/12/2024, elaborada de acordo com o método indireto, para fins comparativos. Pôde-se constatar, a partir da demonstração, que as atividades operacional, de investimento e de financiamento geraram caixa para a sociedade empresária. Ao comparar o saldo de caixa gerado pelas três atividades na Demonstração dos Fluxos de Caixa, referente a 31/12/2024, de acordo com o método direto e indireto, pode-se verificar que",
+    "options": {
+      "A": "o saldo de caixa gerado pelas três atividades permanece igual.",
+      "B": "o saldo de caixa apresentado pelas três atividades apresenta mudança.",
+      "C": "apenas o saldo de caixa gerado pela atividade operacional apresenta mudança.",
+      "D": "apenas o saldo de caixa gerado pela atividade de financiamento apresenta mudança."
+    },
+    "discipline": "Demonstrações Contábeis",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Em 31/12/2025, a Cia. “X” e a Cia. “Y” apresentavam os seguintes saldos em seus Balanços Patrimoniais: • Cia “X”: Disponibilidades: R$ 80.000,00; Patrimônio Líquido: R$ 80.000,00; • Cia “Y”: Disponibilidades: R$ 40.000,00; Patrimônio Líquido: R$ 40.000,00. Sabe-se que os valores contábeis dos ativos líquidos das Cias. “X” e “Y” correspondem aos respectivos valores justos nessa data. Em 01/01/2026, a Cia. “X” adquiriu 90% da Cia. “Y” por R$ 42.000,00, à vista. A diferença entre o valor pago e o valor contábil foi atribuída à capacidade de geração de benefícios econômicos futuros. Assinale a opção que indica o saldo do Ativo Circulante no Balanço Patrimonial Consolidado após a compra.",
+    "options": {
+      "A": "R$ 38.000,00.",
+      "B": "R$ 74.000,00.",
+      "C": "R$ 75.800,00.",
+      "D": "R$ 78.000,00."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Ao preparar o encerramento do exercício, o setor de Contabilidade da companhia “B” S.A. listou as seguintes contas e seus respectivos saldos: 1. Adiantamento a fornecedor: R$ 12.000,00; 2. Adiantamento de clientes: R$ 8.000,00; 3. Encargos financeiros a transcorrer (sobre empréstimos bancários obtidos): R$ 3.500,00; 4. Ações de emissão própria em tesouraria: R$ 5.000,00; 5. Juros sobre o capital próprio a pagar: R$ 4.500,00; 6. Perdas estimadas com créditos de liquidação duvidosa: R$ 2.000,00. Assinale a opção que indica o somatório correto, em valores absolutos, das contas de natureza devedora.",
+    "options": {
+      "A": "R$ 20.500,00.",
+      "B": "R$ 15.500,00.",
+      "C": "R$ 12.000,00.",
+      "D": "R$ 20.000,00."
+    },
+    "discipline": "Contabilidade Geral",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma empresa varejista adquiriu mercadoria à vista para revenda no curto prazo. Os dados relacionados a essa compra são: • Valor unitário: R$ 200,00; • Quantidade adquirida: 1.000 unidades; • Imposto de importação: R$ 10,00/unidade (por fora do preço de aquisição); • Seguro: R$ 6.000,00; • Transporte da mercadoria: R$ 4.000,00; • Imposto de circulação de mercadorias (ICMS): R$ 20,00/unidade (embutido no preço de aquisição); • Desconto comercial: R$ 15,00/unidade. Considerando o ICMS como um tributo não recuperável pela empresa adquirente, e com base exclusivamente nos dados apresentados, o custo total do estoque adquirido é de",
+    "options": {
+      "A": "R$ 205.000,00.",
+      "B": "R$ 210.000,00.",
+      "C": "R$ 220.000,00.",
+      "D": "R$ 235.000,00."
+    },
+    "discipline": "Contabilidade de Custos e Estoques",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "A empresa Alfa S.A. possui 70% de participação em Beta S.A., adquirida por R$ 5.000.000,00. No final do exercício atual, Beta S.A. apurou um lucro líquido de R$ 1.000.000,00, destinado da seguinte forma: R$ 800.000,00 para a constituição de reservas e R$ 200.000,00 para ser distribuído na forma de dividendos. Com base exclusivamente nas informações apresentadas, o valor de ganho com equivalência patrimonial, a ser reconhecido no resultado do exercício da empresa Alfa S.A., deverá ser de",
+    "options": {
+      "A": "R$ 140.000,00.",
+      "B": "R$ 560.000,00.",
+      "C": "R$ 700.000,00.",
+      "D": "R$ 3.500.000,00."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "A cidade Alfa foi atingida por uma enchente nos meses de janeiro e fevereiro de X6, afetando diversas empresas da região. Entre elas, a Metalúrgica “M” Ltda. sofreu perdas significativas, com a inutilização de 25% de seus estoques. No tratamento contábil a ser adotado pela Metalúrgica “M” Ltda. para o reconhecimento desse evento em sua contabilidade, essa perda deve ser reconhecida como",
+    "options": {
+      "A": "Custo da Mercadoria Vendida (CMV), uma vez que impacta diretamente o volume de estoques disponíveis para venda.",
+      "B": "despesa operacional (perdas por sinistro/enchente), sem necessidade de ajuste no saldo de estoques, tendo em vista a ausência de expectativa de recuperação dos itens.",
+      "C": "normal no curso das operações da entidade, devendo ser apropriada ao resultado como custo, diluído entre as unidades produzidas.",
+      "D": "despesa (perdas por sinistro/enchente), com a correspondente baixa no saldo de estoques, em função da inutilização dos bens e da ausência de expectativa de recuperação econômica."
+    },
+    "discipline": "Contabilidade de Custos e Estoques",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Uma empresa possuía, em seu ativo imobilizado, um prédio, classificado como de uso administrativo. O valor de custo desse ativo era R$ 500.000,00, sua vida útil estimada era de 20 anos e seu valor residual era R$ 100.000,00. Após 5 anos, no dia 05/01/2025, a empresa classificou esse prédio como ativo não circulante mantido para venda, pois concluiu que o seu valor contábil seria recuperado, principalmente, por meio de transação de venda em vez do uso contínuo. Além disso, todos os requisitos da NBC TG 31 (R4) – ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA haviam sido cumpridos para essa classificação. No entanto, um ano após a classificação, no dia 05/01/2026, a empresa desistiu da venda e voltou a classificar o prédio como seu ativo imobilizado. O contador apurou adicionalmente as seguintes informações: • Valor justo do prédio em 05/01/2025: R$ 500.000,00; • Despesas de vendas em 05/01/2025: R$ 50.000,00; • Valor em uso do prédio em 05/01/2025: R$ 300.000,00; • Valor justo do prédio em 05/01/2026: R$ 450.000,00; • Despesas de vendas em 05/01/2026: R$ 45.000,00; • Valor em uso do prédio em 05/01/2026: R$ 420.000,00. Com base exclusivamente nos dados apresentados, a empresa deve mensurar o prédio na classificação como ativo imobilizado em 05/01/2026 pelo seguinte valor:",
+    "options": {
+      "A": "R$ 380.000,00.",
+      "B": "R$ 405.000,00.",
+      "C": "R$ 420.000,00.",
+      "D": "R$ 450.000,00."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Para aplicação do método de equivalência patrimonial, quando se trata de investimentos em investidas com influência significativa, a NBC TG 18 (R4) – INVESTIMENTO EM COLIGADA E EM EMPREENDIMENTO CONTROLADO EM CONJUNTO traz algumas situações em que se poderia considerar que a investidora detém uma influência significativa. Analise as seguintes afirmativas acerca de influência significativa: I. Presume-se que a investidora tenha influência significativa sobre a investida se detiver, direta ou indiretamente, 20% ou mais do poder de voto da investida, a menos que possa ser claramente demonstrado o contrário. II. Caso a investidora detenha menos de 20% do poder de voto da investida, não é admissível supor influência significativa, em nenhuma hipótese. III. A representação, no Conselho de Administração ou na diretoria da investida pela investidora, pode ser uma evidência de influência significativa da entidade investidora na investida. Está correto o que se afirma em",
+    "options": {
+      "A": "I, apenas.",
+      "B": "II e III, apenas.",
+      "C": "I, II e III.",
+      "D": "I e III, apenas."
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Uma companhia S.A., concessionária de serviços públicos, emitiu faturas a prazo no valor total de R$ 100.000,00, com vencimento em 12 meses. Em conformidade com a NBC TG 12 (R1) – AJUSTE A VALOR PRESENTE, a empresa calculou um ajuste a valor presente relevante e com efeito material de R$ 5.000,00, representando os juros embutidos no prazo das faturas. Considerando as informações apresentadas e os preceitos da NBC TG 12 (R1) – AJUSTE A VALOR PRESENTE, o lançamento contábil, no momento do reconhecimento da receita, é",
+    "options": {
+      "A": "Débito: Clientes R$ 100.000,00 Crédito: Receita de Serviços R$ 100.000,00",
+      "B": "Débito: Clientes R$ 95.000,00 Crédito: Receita Financeira a Apropriar R$ 5.000,00 Crédito: Receita de Serviços R$ 100.000,00",
+      "C": "Débito: Clientes R$ 95.000,00 Débito: Juros a Apropriar R$ 5.000,00 Crédito: Receita de Serviços R$ 100.000,00",
+      "D": "Débito: Clientes R$ 100.000,00 Crédito: Receita de Serviços R$ 95.000,00 Crédito: Juros a Apropriar R$ 5.000,00"
+    },
+    "discipline": "Contabilidade Societária",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "A Indústria “M” S.A. produz itens para cabelos crespos e cacheados. Ela utiliza como parâmetro de análise e tomada de decisão de custo, o custo padrão e o custo real. No mês de junho de 2024, ela apresentou os seguintes dados: Descrição Custo Padrão Custo Real Quantidade Custo Unitário Custo Total Quantidade Custo Unitário Custo Total Tensoativos 3,00 45,00 135,00 4,50 55,00 247,50 Óleo de Argan 6,00 6,55 39,30 9,00 5,47 49,30 Estabilizantes de espuma 255,00 0,15 38,25 127,50 0,11 14,03 Espessantes 56,00 0,10 5,60 28,00 0,50 14,00 A partir desses dados, em relação à variação dos itens dos insumos de produção da Indústria “M” S.A., é correto afirmar que",
+    "options": {
+      "A": "o Óleo de Argan apresentou variações favoráveis para a Indústria “M” S.A..",
+      "B": "os Estabilizantes de espuma apresentam variações favoráveis para a Indústria “M” S.A..",
+      "C": "as variações de custo total do Estabilizantes de espuma e do Espessantes são desfavoráveis.",
+      "D": "as variações de custo total dos Tensoativos e do Óleo de Argan são favoráveis."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Uma renomada empresa de fabricação de violinos para orquestra, a Violinos “K”, iniciou suas operações no mês de janeiro. Seu único violino produzido é vendido por R$ 2.000,00 cada. Em janeiro de X4, a empresa produziu 1.200 unidades e vendeu 900 unidades. Os custos variáveis no período totalizaram R$ 600,00 por violino. Os custos fixos e despesas fixas mensais da empresa foram os seguintes: • Salários dos supervisores de fábrica: R$ 150.000,00 por mês; • Salários do pessoal administrativo: R$ 30.000,00 por mês; • Depreciação das máquinas utilizadas na fabricação: R$ 39.800,00 por mês; • Aluguel do prédio da fábrica: R$ 15.000,00 por mês; • Custos diversos de manufatura: R$ 10.000,00 por mês; • Promoção e Propaganda: R$ 20.000,00 por mês. Não houve estoques de produtos em elaboração, e não são considerados tributos incidentes sobre a receita. Assinale a opção que indica o Lucro Bruto da empresa pelo método de custeio por absorção.",
+    "options": {
+      "A": "R$ 1.061.397,00.",
+      "B": "R$ 1.465.200,00.",
+      "C": "R$ 1.045.200,00.",
+      "D": "R$ 1.098.900,00."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "A companhia Indústria “K” S.A. possui, em sua planta de fábrica, os setores de Montagem (30 m²) e Acabamento (50 m²). Em determinado período, o custo com a energia elétrica da produção foi de R$ 25.000,00. O critério de rateio adotado pela empresa é por área ocupada. Sendo assim, o valor alocado ao setor de Montagem é de",
+    "options": {
+      "A": "R$ 15.625,00.",
+      "B": "R$ 9.375,00.",
+      "C": "R$ 12.500,00.",
+      "D": "R$ 10.000,00."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "A seguir, encontram-se alguns dos eventos da Indústria J em um determinado período: • Consumo da matéria-prima X: R$ 17.900,00; • Depreciação do prédio do escritório: R$ 6.600,00; • Compra da matéria-prima X: R$ 100.000,00; • Depreciação das máquinas do parque fabril: R$ 8.500,00; • Remuneração dos funcionários do Faturamento (salários): R$ 23.000,00; • Aquisição da máquina XFG210 para o parque fabril: R$ 149.000,00. Assinale a opção que apresenta os valores corretos de Custos, Despesas e Investimentos, de acordo com a terminologia contábil.",
+    "options": {
+      "A": "Custos: R$ 126.400,00; Despesas: R$ 29.600,00; Investimentos: R$ 149.000,00.",
+      "B": "Custos: R$ 26.400,00; Despesas: R$ 29.600,00; Investimentos: R$ 249.000,00.",
+      "C": "Custos: R$ 26.400,00; Despesas: R$ 52.600,00; Investimentos: R$ 149.000,00.",
+      "D": "Custos: R$ 35.100,00; Despesas: R$ 29.600,00; Investimentos: R$ 228.000,00."
+    },
+    "discipline": "Contabilidade de Custos",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Analise as informações abaixo sobre a empresa “N” S.A.: • Ativo circulante: R$ 1.000.000,00; • Ativo total: R$ 1.800.000,00; • Passivo não circulante: R$ 400.000,00; • Índice de liquidez seca: 0,50; • Estoque médio de mercadorias: R$ 400.000,00. Com base nos dados, o valor do patrimônio líquido dessa empresa é de",
+    "options": {
+      "A": "R$ 200.000,00.",
+      "B": "R$ 400.000,00.",
+      "C": "R$ 1.200.000,00.",
+      "D": "R$ 1.600.000,00."
+    },
+    "discipline": "Análise das Demonstrações Contábeis",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma empresa fornece componentes tecnológicos para outras indústrias. Essa empresa adquire sua matéria-prima sempre a prazo, com pagamento médio em 20 dias. Em média, a empresa leva 70 dias para fabricar, armazenar e vender seus produtos. Ela vende somente a prazo, com pagamento em até 90 dias após a venda e, em média, leva 80 dias para receber após as vendas. Com base exclusivamente nesses dados, o ciclo operacional dessa empresa é de",
+    "options": {
+      "A": "70 dias.",
+      "B": "90 dias.",
+      "C": "150 dias.",
+      "D": "160 dias."
+    },
+    "discipline": "Análise das Demonstrações Contábeis",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Uma joalheria vende relógios por R$ 300,00 cada. O custo variável do relógio é de R$ 170,00, e o ponto de equilíbrio contábil da loja é de 500 unidades. Os administradores da loja decidiram aumentar o preço dos relógios para R$ 330,00, a partir do segundo semestre de 2026. Considerando que os custos fixos e variáveis permanecerão iguais, o ponto de equilíbrio da loja, após esse aumento, será de",
+    "options": {
+      "A": "407 unidades.",
+      "B": "455 unidades.",
+      "C": "475 unidades.",
+      "D": "550 unidades."
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Uma empresa estimou os níveis de atividade para o exercício seguinte e calculou seus prazos médios correspondentes. Os resultados estão apresentados a seguir: • Receitas com vendas a prazo: R$ 250.000,00; • Custo dos produtos vendidos: R$ 110.000,00; • Aquisição de matéria-prima a prazo: R$ 90.000,00; • Demais despesas operacionais: R$ 30.000,00; • Prazo médio de contas a receber: 38 dias; • Prazo médio dos estoques: 32 dias; • Prazo médio de contas a pagar: 34 dias; • Prazo médio de demais despesas operacionais a pagar: 22 dias. Com base exclusivamente nos dados apresentados, a necessidade de capital de giro dessa empresa é de",
+    "options": {
+      "A": "R$ 25.479,00.",
+      "B": "R$ 26.027,00.",
+      "C": "R$ 27.287,00.",
+      "D": "R$ 35.671,00."
+    },
+    "discipline": "Contabilidade Gerencial",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Em uma entidade do setor público, verificou-se que o empenho, que havia sido formalizado, foi anulado parcialmente. Um possível motivo para a anulação parcial do empenho é que",
+    "options": {
+      "A": "o objeto do contrato não foi cumprido.",
+      "B": "a nota de empenho foi emitida de modo incorreto.",
+      "C": "o valor do empenho excedia o montante da despesa realizada.",
+      "D": "o valor empenhado era insuficiente para atender à despesa a ser realizada."
+    },
+    "discipline": "Contabilidade Pública",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "À luz do disposto no Manual de Contabilidade Aplicada ao Setor Público (MCASP), quanto ao reconhecimento e à mensuração de ativos da concessão de serviços públicos, avalie as afirmativas a seguir. I. A mensuração inicial dos ativos da concessão deve ser realizada pelo menor valor entre o custo histórico e o valor recuperável. II. Quando o concedente não controla nem regula os serviços objeto da concessão, o ativo da concessão não deve ser por ele reconhecido. III. Os ativos da concessão devem ser classificados nas contas patrimoniais de ativo intangível, sem necessidade de segregação em classes. IV. Os ativos da concessão estão sujeitos à depreciação, reavaliação e redução a valor recuperável, quando aplicáveis, como os demais itens do ativo imobilizado. Estão corretas apenas as afirmativas",
+    "options": {
+      "A": "I e IV.",
+      "B": "III e IV.",
+      "C": "II e III.",
+      "D": "II e IV."
+    },
+    "discipline": "Contabilidade Pública",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Durante a elaboração da Lei Orçamentária Anual (LOA), um determinado governo estadual decidiu incluir no orçamento receitas provenientes de um novo tributo, cuja criação ainda dependia de aprovação legislativa e regulamentação posterior. À luz dos princípios orçamentários aplicáveis ao setor público brasileiro, essa prática viola, principalmente, o princípio da",
+    "options": {
+      "A": "universalidade.",
+      "B": "exclusividade.",
+      "C": "legalidade.",
+      "D": "anualidade."
+    },
+    "discipline": "Contabilidade Pública",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Em uma organização contábil, o contador responsável definiu diretrizes gerais para qualidade e conformidade profissional; os gestores traduziram essas diretrizes em metas por setor; e a equipe executou rotinas diárias de escrituração e atendimento às exigências do CRC. Considerando a aplicação dos níveis de planejamento no exercício da profissão contábil, conforme a NBC PG 01 – CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR e a NBC PG 100 (R1) – CUMPRIMENTO DO CÓDIGO, DOS PRINCÍPIOS FUNDAMENTAIS E DA ESTRUTURA CONCEITUAL, associe corretamente os tipos de planejamento a seguir a suas respectivas descrições: 1. Planejamento estratégico. 2. Planejamento tático. 3. Planejamento operacional. I. Execução das rotinas diárias e procedimentos técnicos. II. Definição de diretrizes gerais e objetivos de longo prazo. III. Desdobramento das diretrizes em metas e ações setoriais. A correspondência correta é",
+    "options": {
+      "A": "1–III; 2–II; 3–I.",
+      "B": "1–I; 2–III; 3–II.",
+      "C": "1–II; 2–I; 3–III.",
+      "D": "1–II; 2–III; 3–I."
+    },
+    "discipline": "Administração e Ética Profissional",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Durante a execução dos trabalhos de campo de auditoria das demonstrações financeiras de uma empresa de médio porte, um Auditor, ao revisar os lançamentos contábeis no sistema de gestão, identificou diversas transações de vendas que não tinham respaldo em contratos ou faturas válidas. Aplicando os procedimentos previstos na norma de auditoria correspondente, que trata da responsabilidade do auditor em relação à fraude na auditoria de demonstrações contábeis, o Auditor aprofundou a investigação e constatou que um funcionário do setor financeiro havia registrado vendas fictícias para inflar as receitas da empresa, o que caracterizava fraude com a intenção de manipular os resultados financeiros. Frente à gravidade da situação, o Auditor deve, imediatamente,",
+    "options": {
+      "A": "procurar a ajuda de especialistas.",
+      "B": "renunciar ao trabalho.",
+      "C": "fazer uma denúncia anônima para a Polícia Federal.",
+      "D": "relatar ao Conselho de Administração."
+    },
+    "discipline": "Auditoria",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Em um treinamento para novos auditores, o instrutor destacou que, mesmo após a execução adequada dos procedimentos, pode haver a emissão de uma opinião inadequada sobre as demonstrações contábeis. Esse cenário representa o conceito de risco de auditoria, que pode ser definido como",
+    "options": {
+      "A": "julgamento técnico realizado com base na experiência do auditor, sujeito a diferentes interpretações.",
+      "B": "erro natural ocorrido durante o processo contábil, sem intenção da administração, mas que afeta o resultado final.",
+      "C": "probabilidade de falha nos procedimentos ou controles, levando a conclusões incorretas sobre as demonstrações contábeis.",
+      "D": "possibilidade de o auditor emitir uma opinião inadequada sobre demonstrações contábeis que contenham distorções relevantes não detectadas."
+    },
+    "discipline": "Auditoria",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Um empregado foi admitido em 01/03/2021 e trabalhou até 31/03/2023. O salário mensal dele era de R$ 3.600,00. Durante o período trabalhado, o empregado gozou de 15 dias de férias e o restante dos dias foi acumulado como férias proporcionais. O adicional de 1/3 sobre as férias é aplicável. Com base nessas informações, o laudo do perito deve apresentar que precisa ser pago ao empregado, referente ao saldo de férias proporcionais ao término do contrato e incluindo o adicional de 1/3 (considere para as contas os meses com 30 dias), o valor igual a",
+    "options": {
+      "A": "R$ 4.800,00.",
+      "B": "R$ 5.200,00.",
+      "C": "R$ 6.780,00.",
+      "D": "R$ 7.600,00."
+    },
+    "discipline": "Legislação Trabalhista",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "O contador “X” foi nomeado para atuar como perito contábil em âmbito judicial. O juiz “Y” definiu o prazo para entrega do laudo em 30 dias úteis. Apesar da pronta aceitação do contador “X”, ao longo do exercício da função nesse caso, uma série de dificuldades técnicas fez com que o prazo inicialmente disposto para a entrega do laudo se mostrasse inviável. Assim, o contador “X” solicitou a prorrogação do prazo ao juiz “Y”. De acordo com o Novo Código de Processo Civil (CPC/2015), é correto afirmar que o juiz “Y”",
+    "options": {
+      "A": "poderá conceder, por uma vez, a prorrogação de mais 30 dias úteis, se lhe for apresentado um motivo justificado.",
+      "B": "deverá conceder, por uma vez, a prorrogação de mais 15 dias úteis, se lhe for apresentado um motivo justificado.",
+      "C": "deverá conceder, por uma vez, a prorrogação de mais 30 dias úteis, se lhe for apresentado um motivo justificado.",
+      "D": "poderá conceder, por uma vez, a prorrogação de mais 15 dias úteis, se lhe for apresentado um motivo justificado."
+    },
+    "discipline": "Perícia Contábil",
+    "correctAnswer": "D"
+  }
+]
